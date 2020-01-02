@@ -1,0 +1,17 @@
+mrp -> ascending,descending
+thickness filter   [3,4,4.5,5,6,8,10,12]                                             //done
+length ->72,75,78,81,84 inches //done
+width ->single(30,36),double(42,48),queen(60,66),king(72)      //done
+
+
+---Tags---
+Ideal Match
+recommended Match
+Best Seller
+
+
+---future development---
+--features
+    Reversible
+    Orthopedic
+    

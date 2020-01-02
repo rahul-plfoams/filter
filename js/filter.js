@@ -1,0 +1,196 @@
+$(document).ready(() => {
+  $(".sortingFilters").hide();
+  date = new Date();
+  formattedDate = `${date.getDate()}/${date.getMonth()}/${date.getFullYear()}`;
+  $("#currentDate").text(formattedDate);
+  const budgetsLimit = {
+    "Less than 10,000": [0, 10000],
+    "11,000-20,000": [10001, 20000],
+    "21,000-35,000": [25001, 35000],
+    "Above 35,000": [35001, 1000000],
+    default: [0, 1000000]
+  };
+
+  //reset function
+  resetResult = () => {
+    $(".sections#productList ul").empty();
+  };
+
+  //funtion for single Selection in checkbox
+  $("input:checkbox").click(event => {
+    var box = $(event.target);
+    if ($(box).is(":checked")) {
+      var group = "input:checkbox[name='" + box.attr("name") + "']";
+      $(group).prop("checked", false);
+      $(box).prop("checked", true);
+    } else {
+      $(box).prop("checked", false);
+    }
+  });
+
+  // show/hide previous mattress info
+  $("#cbshow").click(function() {
+    $("#divshow").toggle(this.checked);
+  });
+
+  // reset
+  $("[type='reset']").click(() => {
+    resetResult();
+  });
+
+  //show Result
+  $("#showResult").click(() => {
+    arrFilters = {};
+    resetResult();
+    $("#selectThickness,#selectLength,#selectWidth").empty();
+    $(".sortingFilters").show();
+
+    getSelection();
+
+    const functionFilters = {
+      price: price => price < sortedLimit[1] && price >= sortedLimit[0]
+    };
+
+    //all filters function
+    filteredImages = filterSequence(Products, arrFilters, functionFilters);
+
+    //select sorting
+    selectThickness = [...new Set(filteredImages.map(item => item.thickness))];
+    selectLength = [...new Set(filteredImages.map(item => item.length))];
+    selectWidth = [...new Set(filteredImages.map(item => item.width))];
+
+    genHtml(filteredImages);
+  });
+
+  $("[data-dismiss='modal']").click(()=>{
+    resetResult();
+    getSelection();
+arrFilters.length = [...new Set(getVal($("#optionLength input:checked").toArray()))];
+arrFilters.width = [...new Set(getVal($("#optionWidth input:checked").toArray()))];
+arrFilters.thickness = [...new Set(getVal($("#optionThickness input:checked").toArray()))];
+const functionFilters = {
+      price: price => price < sortedLimit[1] && price >= sortedLimit[0]
+    };
+filteredImages = filterSequence(Products, arrFilters, functionFilters);
+genHtml(filteredImages);
+  });
+
+  getSelection = () => {
+    //getValues
+    arrFilters.feel = [
+      ...new Set(getVal($("input[name^='feel']:checked").toArray()))
+    ];
+    arrFilters.size = getVal($("input[name='size']:checked").toArray());
+    arrFilters.offer = getVal($("input[name='offer']:checked").toArray());
+    budgets = getVal($("input[name='budget']:checked").toArray());
+    if (!budgets.length) {
+      budgets = ["default"];
+    }
+    //sorting Limit
+    sortedLimit = budgetsLimit[budgets[0]];
+
+    const functionFilters = {
+      price: price => price < sortedLimit[1] && price >= sortedLimit[0]
+    };
+  };
+
+  filterSequence = (data, array, fn) => {
+    return filterArray(filterPlainArray(data, array), fn);
+  };
+
+
+  
+  //generate Output
+  genHtml = filteredImages => {
+    html = "";
+    html =
+      filteredImages.length == 0
+        ? "No Matches Found"
+        : `${filteredImages.length} results Found<br>`;
+    for (i = 0; i < filteredImages.length; i++) {
+      html =
+        html +
+        `<li class="grid-products large-boxes"><img src="${filteredImages[i].src}"
+         class="grid-variants">
+          <table class="table table-bordered">
+          <tr>
+            <td class="border-dark">Size</td>
+            <td class="border-dark">${filteredImages[i].length} &times ${filteredImages[i].width} </td>
+          </tr>
+          <tr>
+            <td class="border-dark">Thickness</td>
+            <td class="border-dark">${filteredImages[i].thickness}</td>
+          </tr>
+          <tr>
+          <td class="border-dark">Price</td>
+          <td class="border-dark">&#8377 ${filteredImages[i].price} 
+          </td>
+          </tr>
+        </table>
+        
+         </li>`;
+    }
+    $(".sections#productList ul").append(html);
+  };
+  //get values from objects and store in array
+  getVal = array => {
+    resArray = [];
+    array.forEach(element => $(element).val()==parseInt($(element).val())?resArray.push(parseInt($(element).val())):resArray.push($(element).val()));
+    return resArray;
+  };
+  // ignores case-sensitive
+  const getValue = value =>
+    typeof value === "string" ? value.toUpperCase() : value;
+  //filter using functions
+  function filterArray(array, filters) {
+    const filterKeys = Object.keys(filters);
+    return array.filter(item => {
+      // validates all filter criteria
+      return filterKeys.every(key => {
+        // ignores non-function predicates
+        if (typeof filters[key] !== "function") return true;
+        return filters[key](item[key]);
+      });
+    });
+  }
+  //filter array filters
+  function filterPlainArray(array, filters) {
+    const filterKeys = Object.keys(filters);
+    return array.filter(item => {
+      // validates all filter criteria
+      return filterKeys.every(key => {
+        // ignores an empty filter
+        if (!filters[key].length) return true;
+        return filters[key].find(
+          filter => getValue(filter) === getValue(item[key])
+        );
+      });
+    });
+  }
+//adding to filter menu
+  addTofilterMenu = (array, target) => {
+    $(target).empty();
+    array.forEach(item => {
+      $(target).append(`
+  <div class="form-check text-left">
+    <input class="form-check-input" type="checkbox" value="${item}" >
+    <label class="form-check-label">
+      ${item}
+    </label>
+  </div>
+  `);
+    })
+
+  }
+  $("#filterMenuBtn").click(()=>{
+    addTofilterMenu(selectLength, "#optionLength");
+    addTofilterMenu(selectWidth, "#optionWidth");
+    addTofilterMenu(selectThickness, "#optionThickness");
+    $("#optionRight").children("div").hide();
+    $("#optionLength").show();
+  });
+  $("#menuLeft").click(function (event) {
+    $("#optionRight").children("div").hide();
+    $(eval("option" + event.target.dataset.value)).show();
+  });
+});
