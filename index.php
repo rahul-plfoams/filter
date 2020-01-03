@@ -616,7 +616,8 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>
     <script src="js/selectUser.js"></script>
     <!-- <script src="js/producttest.js"></script> -->
-    <script src="js/layertest.js"></script>
+    <!-- <script src="js/layertest.js"></script> -->
+    <script src="js/productlayer.js"></script>
     <script src="js/filter.js"></script>
     <script src="js/selection.js"></script>
     <script>
