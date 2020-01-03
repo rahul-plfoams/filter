@@ -42,7 +42,7 @@ $(document).ready(() => {
   $("#showResult").click(() => {
     arrFilters = {};
     resetResult();
-    $("#selectThickness,#selectLength,#selectWidth").empty();
+    // $("#selectThickness,#selectLength,#selectWidth").empty();
     $(".sortingFilters").show();
 
     getSelection();
