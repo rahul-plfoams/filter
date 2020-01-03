@@ -82,125 +82,7 @@
           </div>
         </section>
 
-        <!--length start-->
-        <!-- <section class="box-shadow mt-5 mb-5">
-        <div>
-         <div>
-            <h5 class="d-lg-none d-block m-3 text-center">Length <br>(Please Select)</h5>
-            <h3 class="d-lg-block d-none m-3 text-center">Length <br>(Please Select)</h3>
-            <div class="row">
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='length' value=72 ></input>
-                <span class="checkbox-custom rectangular">72</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='length' value=75 ></input>
-                <span class="checkbox-custom rectangular">75</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='length' value=78 ></input>
-                <span class="checkbox-custom rectangular">78</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='length' value=81 ></input>
-                <span class="checkbox-custom rectangular">81</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='length' value=84 ></input>
-                <span class="checkbox-custom rectangular">84</span>
-              </label>
-              
-             
-            </div>
-         </div>
-      </div>
-      </section> -->
-        <!--length ends-->
-        <!--width start-->
-        <!-- <section class="box-shadow mt-5 mb-5">
-        <div>
-         <div>
-            <h5 class="d-lg-none d-block m-3 text-center">Width <br>(Please Select)</h5>
-            <h3 class="d-lg-block d-none m-3 text-center">Width <br>(Please Select)</h3>
-            <div class="row">
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='width' value=30 ></input>
-                <span class="checkbox-custom rectangular">30</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='width' value=36 ></input>
-                <span class="checkbox-custom rectangular">36</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='width' value=42 ></input>
-                <span class="checkbox-custom rectangular">42</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='width' value=48 ></input>
-                <span class="checkbox-custom rectangular">48</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='width' value=60 ></input>
-                <span class="checkbox-custom rectangular">60</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='width' value=66 ></input>
-                <span class="checkbox-custom rectangular">66</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='width' value=72 ></input>
-                <span class="checkbox-custom rectangular">72</span>
-              </label>
-            </div>
-         </div>
-      </div>
-      </section> -->
-        <!--width end-->
-        <!--thickness section start-->
-        <!-- <section class="box-shadow mt-5 mb-5">
-        <div>
-         <div>
-            <h5 class="d-lg-none d-block m-3 text-center">Thickness <br>(Please Select)</h5>
-            <h3 class="d-lg-block d-none m-3 text-center">Thickness <br>(Please Select)</h3>
-            <div class="row">
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=3 ></input>
-                <span class="checkbox-custom rectangular">3</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=4 ></input>
-                <span class="checkbox-custom rectangular">4</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=4.5 ></input>
-                <span class="checkbox-custom rectangular">4.5</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=5 ></input>
-                <span class="checkbox-custom rectangular">5</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=6 ></input>
-                <span class="checkbox-custom rectangular">6</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=8 ></input>
-                <span class="checkbox-custom rectangular">8</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=10 ></input>
-                <span class="checkbox-custom rectangular">10</span>
-              </label>
-              <label class="checkbox-inline p-4 col checkbox-label ">
-                <input class="" type='checkbox' name='thickness' value=12 ></input>
-                <span class="checkbox-custom rectangular">12</span>
-              </label>
-             
-            </div>
-         </div>
-      </div>
-      </section> -->
-        <!--thickness section end-->
+        
 
         <!--No of sleepers start-->
         <section class="box-shadow mt-5 mb-5">
@@ -720,9 +602,9 @@
             <button class="btn btn-danger">
               <i class="fas fa-sort-amount-up-alt" id="sortPrice"></i>
             </button>
-            <button class="btn btn-danger " data-toggle="modal" data-target="#exampleModal">
-              <label for="" class="text-light"><i class="fas fa-filter text-light"
-                  id="filterMenuBtn"></i>filters</label>
+            <button class="btn btn-danger " data-toggle="modal" data-target="#exampleModal" style="height:38px;">
+              <label for="" class="text-light p-0" ><i class="fas fa-filter text-light"
+                  id="filterMenuBtn" style="max-height:16px;"></i>filters</label>
             </button>
           </div>
         </div>
@@ -751,7 +633,7 @@
                   <button data-value="Length" class="btn btn-block btn-info">Length</button>
                   <button data-value="Width" class="btn btn-block btn-info">Width</button>
                   <button data-value="Thickness" class="btn btn-block btn-info">Thickness</button>
-                  <!-- <button data-value="Type" class="btn btn-block btn-info">Type</button> -->
+                  <button data-value="Type" class="btn btn-block btn-info">Type</button>
                 </div>
                 <div class="col-6">
                   <div id="optionRight">
