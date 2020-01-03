@@ -10,7 +10,6 @@
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css' />
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css' />
   <link rel="stylesheet" type="text/css" href="css/style.css">
-
   <link rel="shortcut icon" href="img/dr-back-favicon.png" />
   <title>Find your perfect mattress</title>
 </head>
@@ -20,7 +19,6 @@
   <div class="container p-0">
     <div id='filters' class="container">
       <form id="formFeed" action="send.php" method="post">
-
         <section class="row box-shadow mt-5 mb-5 ml-1 mr-1">
           <div class="col-lg-5 col-md-7 p-lg-5 text-left d-flex flex-column text-center">
             <h3>Personal Info.</h3><br>
@@ -41,12 +39,10 @@
             <h3>Date : <span id="currentDate"></span></h3>
           </div>
         </section>
-
         <section class="box-shadow mt-5 mb-5">
           <div class="tablet-container">
             <h5 class="d-lg-none d-block m-3 text-center">What size mattress is needed ? <br>(Please Select)</h5>
             <h3 class="d-lg-block d-none m-5 text-center">What size mattress is needed ? <br>(Please Select)</h3>
-
             <div class="row text-center" style="height: 100px;">
               <div class="col">
                 <img class="img-fluid h-50" src="img/single.png">
@@ -81,9 +77,6 @@
             </div>
           </div>
         </section>
-
-        
-
         <!--No of sleepers start-->
         <section class="box-shadow mt-5 mb-5">
           <div id='filters'>
@@ -112,7 +105,6 @@
           </div>
         </section>
         <!--No of Sleepers end-->
-
         <div id="mod">
           <!-- sleeping position starts -->
           <section class="box-shadow-padding mt-5 mb-5 box-shadow">
@@ -214,7 +206,6 @@
             </div>
           </section>
           <!-- sleeping position ends -->
-
           <!-- back pain starts -->
           <section class="box-shadow-padding mt-5 mb-5 box-shadow">
             <h3 class="d-lg-block d-none text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">Do you ever wake up with bad back pain
@@ -315,7 +306,6 @@
             </div>
           </section>
           <!-- back pain ends -->
-
           <!-- mattress feel starts -->
           <section id="filters" class="box-shadow-padding mt-5 mb-5 box-shadow">
             <h3 class="d-lg-block d-none text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">What type of mattress feel do you
@@ -415,10 +405,8 @@
               </table>
             </div>
           </section>
-
           <!-- mattress feel ends -->
         </div>
-
         <!-- <section class="box-shadow mt-5 mb-5">
         <div>
            <div>
@@ -437,7 +425,6 @@
            </div>
         </div>
       </section> -->
-
         <section class="box-shadow">
           <h3 class="text-center">What is your budget ? <br>(Please Select)</h3>
           <div class="row filter-attributes">
@@ -459,14 +446,12 @@
             </label>
           </div>
         </section>
-
         <section class="text-center">
           <div class="row pt-5">
             <h3 class="mx-auto"> Did you had a Mattress before? (Please &#9989;)</h3>
           </div>
           <label><input type="checkbox" id="cbshow"></label>
         </section>
-
         <section id="divshow" class="m-4 text-center box-shadow" style="display: none;">
           <h5 class="center">Your current Mattress Details</h5>
           <div class="block">
@@ -478,106 +463,77 @@
           <div class="block">
             <input type="text" name="year-of-use" class="input-res" placeholder="Enter Year Of Use" required>
           </div>
-
           <!-- new -->
           <div class="row mt-3" style="text-align: center; font-weight: bold;">
             <div class="col p-1">Soft</div>
             <div class="col p-1">Medium</div>
             <div class="col p-1">Firm</div>
           </div>
-
           <div class="row" style="height: 10px;">
             <div class="col" style="background-color: #bcbdc0;"></div>
             <div class="col" style="background-color: #6c6d70;"></div>
             <div class="col" style="background-color: #231f20;"></div>
           </div>
-
           <div class="row">
             <div class="radio-group">
-
               <input type="radio" id="feel1" value="1" name="customerFeel">
               <label for="feel1">1</label>
-
               <input type="radio" id="feel2" value="2" name="customerFeel">
               <label for="feel2">2</label>
-
               <input type="radio" id="feel3" value="3" name="customerFeel">
               <label for="feel3">3</label>
-
               <input type="radio" id="feel4" value="4" name="customerFeel">
               <label for="feel4">4</label>
-
               <input type="radio" id="feel5" value="5" name="customerFeel">
               <label for="feel5">5</label>
-
               <input type="radio" id="feel6" value="6" name="customerFeel">
               <label for="feel6">6</label>
-
               <input type="radio" id="feel7" value="7" name="customerFeel">
               <label for="feel7">7</label>
-
               <input type="radio" id="feel8" value="8" name="customerFeel">
               <label for="feel8">8</label>
-
               <input type="radio" id="feel9" value="9" name="customerFeel">
               <label for="feel9">9</label>
-
               <input type="radio" id="feel10" value="10" name="customerFeel">
               <label for="feel10">10</label>
-
             </div>
           </div>
-
           <!-- new -->
           <div class="row mt-3" style="text-align: center; font-weight: bold;">
             <div class="col p-1">Rarely</div>
             <div class="col p-1">Sometimes</div>
             <div class="col p-1">Often</div>
           </div>
-
           <div class="row" style="height: 10px;">
             <div class="col" style="background-color: #bcbdc0;"></div>
             <div class="col" style="background-color: #6c6d70;"></div>
             <div class="col" style="background-color: #231f20;"></div>
           </div>
-
           <div class="row">
             <div class="radio-group">
-
               <input type="radio" id="relief1" value="1" name="customerRelief">
               <label for="relief1">1</label>
-
               <input type="radio" id="relief2" value="2" name="customerRelief">
               <label for="relief2">2</label>
-
               <input type="radio" id="relief3" value="3" name="customerRelief">
               <label for="relief3">3</label>
-
               <input type="radio" id="relief4" value="4" name="customerRelief">
               <label for="relief4">4</label>
-
               <input type="radio" id="relief5" value="5" name="customerRelief">
               <label for="relief5">5</label>
-
               <input type="radio" id="relief6" value="6" name="customerRelief">
               <label for="relief6">6</label>
-
               <input type="radio" id="relief7" value="7" name="customerRelief">
               <label for="relief7">7</label>
-
               <input type="radio" id="relief8" value="8" name="customerRelief">
               <label for="relief8">8</label>
-
               <input type="radio" id="relief9" value="9" name="customerRelief">
               <label for="relief9">9</label>
-
               <input type="radio" id="relief10" value="10" name="customerRelief">
               <label for="relief10">10</label>
-
             </div>
           </div>
         </section>
-
         <section class="text-center">
           <div class="pb-5">
             <h3 class="p-3">Your Perfect Mattress</h3>
@@ -594,7 +550,6 @@
         </section>
       </form>
     </div>
-
     <center>
       <div class='sections' id="productList">
         <div class="sortingFilters">
@@ -603,18 +558,15 @@
               <i class="fas fa-sort-amount-up-alt" id="sortPrice"></i>
             </button>
             <button class="btn btn-danger " data-toggle="modal" data-target="#exampleModal" style="height:38px;">
-              <label for="" class="text-light p-0" ><i class="fas fa-filter text-light"
-                  id="filterMenuBtn" style="max-height:16px;"></i>filters</label>
+              <label for="" class="text-light p-0"><i class="fas fa-filter text-light" id="filterMenuBtn"
+                  style="max-height:16px;"></i>filters</label>
             </button>
           </div>
         </div>
-
         <ul class="mb-5">
-
         </ul>
       </div>
     </center>
-
     <!-- Modal -->
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
       aria-hidden="true" style="height:100vh !important;width:100vw !important">
@@ -638,21 +590,15 @@
                 <div class="col-6">
                   <div id="optionRight">
                     <div id="optionLength">
-
                     </div>
                     <div id="optionWidth">
-
                     </div>
                     <div id="optionThickness">
-
                     </div>
                     <div id="optionType">
-
                     </div>
                   </div>
                 </div>
-
-
               </div>
             </div>
           </div>
@@ -665,12 +611,12 @@
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-
     <!-- <script src="js/jquery-3.4.1.min.js"></script> -->
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>
     <script src="js/selectUser.js"></script>
-    <script src="js/producttest.js"></script>
+    <!-- <script src="js/producttest.js"></script> -->
+    <script src="js/layertest.js"></script>
     <script src="js/filter.js"></script>
     <script src="js/selection.js"></script>
     <script>
@@ -691,6 +637,7 @@
         addTofilterMenu(selectLength, "#optionLength");
         addTofilterMenu(selectWidth, "#optionWidth");
         addTofilterMenu(selectThickness, "#optionThickness");
+        addTofilterMenu(selectType, "#optionType");
         $("#optionRight").children("div").hide();
         $("#optionLength").show();
       });
@@ -698,31 +645,42 @@
         $("#optionRight").children("div").hide();
         $(eval("option" + event.target.dataset.value)).show();
       });
-
       $("[data-dismiss='modal']").click(() => {
         resetResult();
         getSelection();
         arrFilters.length = [...new Set(getVal($("#optionLength input:checked").toArray()))];
         arrFilters.width = [...new Set(getVal($("#optionWidth input:checked").toArray()))];
         arrFilters.thickness = [...new Set(getVal($("#optionThickness input:checked").toArray()))];
+        selectedLayers = [...new Set(getVal($("#optionType input:checked").toArray()))];
         const functionFilters = {
-          price: price => price < sortedLimit[1] && price >= sortedLimit[0]
+          price: price => price < sortedLimit[1] && price >= sortedLimit[0],
+          layers: layers => {
+            if (!selectedLayers.length) {
+              return true;
+            } else {
+              for (let i = 0; i < layers.length; i++) {
+                if (selectedLayers.includes(layers[i])) {
+                  return true;
+                }
+              }
+            }
+          }
         };
         filteredImages = filterSequence(Products, arrFilters, functionFilters);
-        genHtml(filteredImages.sort((a,b)=>a.price-b.price));
+        genHtml(filteredImages.sort((a, b) => a.price - b.price));
         $(".sortingFilters").show();
       });
       $("#sortPrice").click(() => {
         if ($("#sortPrice").hasClass("fa-sort-amount-up-alt")) {
           //sort low to high
           resetResult();
-          genHtml(filteredImages.sort((a,b)=>b.price-a.price));
+          genHtml(filteredImages.sort((a, b) => b.price - a.price));
           $("#sortPrice").removeClass("fa-sort-amount-up-alt").addClass("fa-sort-amount-up");
-$(".sortingFilters").show();
+          $(".sortingFilters").show();
         } else {
           //sort high to low
           resetResult();
-          genHtml(filteredImages.sort((a,b)=>a.price-b.price));
+          genHtml(filteredImages.sort((a, b) => a.price - b.price));
           $("#sortPrice").removeClass("fa-sort-amount-up").addClass("fa-sort-amount-up-alt");
           $(".sortingFilters").show();
         }

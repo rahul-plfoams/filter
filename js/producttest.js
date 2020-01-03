@@ -10,7 +10,8 @@ const Products=[
     "length": 72,
     "width": 30,
     "thickness": 3,
-    "price": 4786
+    "price": 4786,
+    "layers":["Jacquard Fabric","PU Foam Quilt","High Density Foam","PU Foam Quilt"]
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@ const Products=[
     "length": 75,
     "width": 30,
     "thickness": 3,
-    "price": 4986
+    "price": 4986,
+    "layers":["Jacquard Fabric","PU Foam Quilt","High Density Foam","PU Foam Quilt"]
   },
   {
     "id": 3,
@@ -1102,7 +1104,8 @@ const Products=[
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 6750
+    "price": 6750,
+    "layers":["Knitted Fabric","PU Foam Quilt","Super Soft Foam","Rebonded Foam","PU Foam Quilt"]
   },
   {
     "id": 86,
@@ -1115,7 +1118,8 @@ const Products=[
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 7031
+    "price": 7031,
+    "layers":["Knitted Fabric","PU Foam Quilt","Super Soft Foam","Rebonded Foam","PU Foam Quilt"]
   },
   {
     "id": 87,
