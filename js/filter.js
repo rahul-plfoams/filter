@@ -1,8 +1,12 @@
 $(document).ready(() => {
   $(".sortingFilters").hide();
   date = new Date();
-  formattedDate = `${date.getDate()}/${date.getMonth()}/${date.getFullYear()}`;
-  $("#currentDate").text(formattedDate);
+  const [currDate, currMonth, currYear] = [
+    date.getDate() < 10 ? "0" + date.getDate() : date.getDate(),
+    date.getMonth() < 10 ? "0" + (date.getMonth() + 1) : date.getMonth() + 1,
+    date.getFullYear()
+];
+  $("#currentDate").text(`${currDate}/${currMonth}/${currYear}`);
   const budgetsLimit = {
     "Less than 10,000": [0, 10000],
     "11,000-20,000": [10001, 20000],
@@ -14,6 +18,7 @@ $(document).ready(() => {
   //reset function
   resetResult = () => {
     $(".sections#productList ul").empty();
+    $(".sortingFilters").hide();
   };
 
   //funtion for single Selection in checkbox
@@ -42,7 +47,8 @@ $(document).ready(() => {
   $("#showResult").click(() => {
     arrFilters = {};
     resetResult();
-    // $("#selectThickness,#selectLength,#selectWidth").empty();
+    // console.clear();
+    $("#selectThickness,#selectLength,#selectWidth").empty();
     $(".sortingFilters").show();
 
     getSelection();
@@ -62,18 +68,7 @@ $(document).ready(() => {
     genHtml(filteredImages);
   });
 
-  $("[data-dismiss='modal']").click(()=>{
-    resetResult();
-    getSelection();
-arrFilters.length = [...new Set(getVal($("#optionLength input:checked").toArray()))];
-arrFilters.width = [...new Set(getVal($("#optionWidth input:checked").toArray()))];
-arrFilters.thickness = [...new Set(getVal($("#optionThickness input:checked").toArray()))];
-const functionFilters = {
-      price: price => price < sortedLimit[1] && price >= sortedLimit[0]
-    };
-filteredImages = filterSequence(Products, arrFilters, functionFilters);
-genHtml(filteredImages);
-  });
+  
 
   getSelection = () => {
     //getValues
@@ -98,11 +93,19 @@ genHtml(filteredImages);
     return filterArray(filterPlainArray(data, array), fn);
   };
 
-
-  
+  addValuetoDropdown = (array, id) => {
+    $(id).empty();
+    $(id).append("<option selected disabled>Default</option>");
+    array.forEach(item => {
+      $(id).append(`<option name="${item}">${item}</option>`);
+    });
+  };
   //generate Output
   genHtml = filteredImages => {
     html = "";
+    addValuetoDropdown(selectThickness, "#selectThickness");
+    addValuetoDropdown(selectLength, "#selectLength");
+    addValuetoDropdown(selectWidth, "#selectWidth");
     html =
       filteredImages.length == 0
         ? "No Matches Found"
@@ -167,30 +170,4 @@ genHtml(filteredImages);
       });
     });
   }
-//adding to filter menu
-  addTofilterMenu = (array, target) => {
-    $(target).empty();
-    array.forEach(item => {
-      $(target).append(`
-  <div class="form-check text-left">
-    <input class="form-check-input" type="checkbox" value="${item}" >
-    <label class="form-check-label">
-      ${item}
-    </label>
-  </div>
-  `);
-    })
-
-  }
-  $("#filterMenuBtn").click(()=>{
-    addTofilterMenu(selectLength, "#optionLength");
-    addTofilterMenu(selectWidth, "#optionWidth");
-    addTofilterMenu(selectThickness, "#optionThickness");
-    $("#optionRight").children("div").hide();
-    $("#optionLength").show();
-  });
-  $("#menuLeft").click(function (event) {
-    $("#optionRight").children("div").hide();
-    $(eval("option" + event.target.dataset.value)).show();
-  });
 });

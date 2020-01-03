@@ -7,10 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Bootstrap CSS -->
   <!-- <link rel="stylesheet" type="text/css" href="css/used.bootstrap.min.css"> -->
-  <link rel="stylesheet" type="text/css"
-    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css' />
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css' />
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
   <link rel="shortcut icon" href="img/dr-back-favicon.png" />
@@ -84,6 +82,125 @@
           </div>
         </section>
 
+        <!--length start-->
+        <!-- <section class="box-shadow mt-5 mb-5">
+        <div>
+         <div>
+            <h5 class="d-lg-none d-block m-3 text-center">Length <br>(Please Select)</h5>
+            <h3 class="d-lg-block d-none m-3 text-center">Length <br>(Please Select)</h3>
+            <div class="row">
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='length' value=72 ></input>
+                <span class="checkbox-custom rectangular">72</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='length' value=75 ></input>
+                <span class="checkbox-custom rectangular">75</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='length' value=78 ></input>
+                <span class="checkbox-custom rectangular">78</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='length' value=81 ></input>
+                <span class="checkbox-custom rectangular">81</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='length' value=84 ></input>
+                <span class="checkbox-custom rectangular">84</span>
+              </label>
+              
+             
+            </div>
+         </div>
+      </div>
+      </section> -->
+        <!--length ends-->
+        <!--width start-->
+        <!-- <section class="box-shadow mt-5 mb-5">
+        <div>
+         <div>
+            <h5 class="d-lg-none d-block m-3 text-center">Width <br>(Please Select)</h5>
+            <h3 class="d-lg-block d-none m-3 text-center">Width <br>(Please Select)</h3>
+            <div class="row">
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='width' value=30 ></input>
+                <span class="checkbox-custom rectangular">30</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='width' value=36 ></input>
+                <span class="checkbox-custom rectangular">36</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='width' value=42 ></input>
+                <span class="checkbox-custom rectangular">42</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='width' value=48 ></input>
+                <span class="checkbox-custom rectangular">48</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='width' value=60 ></input>
+                <span class="checkbox-custom rectangular">60</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='width' value=66 ></input>
+                <span class="checkbox-custom rectangular">66</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='width' value=72 ></input>
+                <span class="checkbox-custom rectangular">72</span>
+              </label>
+            </div>
+         </div>
+      </div>
+      </section> -->
+        <!--width end-->
+        <!--thickness section start-->
+        <!-- <section class="box-shadow mt-5 mb-5">
+        <div>
+         <div>
+            <h5 class="d-lg-none d-block m-3 text-center">Thickness <br>(Please Select)</h5>
+            <h3 class="d-lg-block d-none m-3 text-center">Thickness <br>(Please Select)</h3>
+            <div class="row">
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=3 ></input>
+                <span class="checkbox-custom rectangular">3</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=4 ></input>
+                <span class="checkbox-custom rectangular">4</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=4.5 ></input>
+                <span class="checkbox-custom rectangular">4.5</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=5 ></input>
+                <span class="checkbox-custom rectangular">5</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=6 ></input>
+                <span class="checkbox-custom rectangular">6</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=8 ></input>
+                <span class="checkbox-custom rectangular">8</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=10 ></input>
+                <span class="checkbox-custom rectangular">10</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label ">
+                <input class="" type='checkbox' name='thickness' value=12 ></input>
+                <span class="checkbox-custom rectangular">12</span>
+              </label>
+             
+            </div>
+         </div>
+      </div>
+      </section> -->
+        <!--thickness section end-->
 
         <!--No of sleepers start-->
         <section class="box-shadow mt-5 mb-5">
@@ -420,6 +537,25 @@
           <!-- mattress feel ends -->
         </div>
 
+        <!-- <section class="box-shadow mt-5 mb-5">
+        <div>
+           <div>
+              <h5 class="d-lg-none d-block m-3 text-center">Select Offers <br>(Please Select)</h5>
+              <h3 class="d-lg-block d-none m-3 text-center">Select Offers <br>(Please Select)</h3>
+              <div class="row filter-attributes">
+                 <label class="checkbox-inline p-4 col checkbox-label checkOffers">
+                 <input type='checkbox' name="offer" value='20%' ></input>
+                 <span class="checkbox-custom rectangular">20% Off</span>
+                 </label>
+                 <label class="checkbox-inline p-4 col checkbox-label checkOffers">
+                 <input type='checkbox' name="offer" value='30%' ></input>
+                 <span class="checkbox-custom rectangular">30% Off</span>
+                 </label>
+              </div>
+           </div>
+        </div>
+      </section> -->
+
         <section class="box-shadow">
           <h3 class="text-center">What is your budget ? <br>(Please Select)</h3>
           <div class="row filter-attributes">
@@ -580,79 +716,136 @@
     <center>
       <div class='sections' id="productList">
         <div class="sortingFilters">
-
           <div class="fixed-bottom text-center mb-3">
-            <button class="btn btn-danger" data-toggle="modal" data-target="#exampleModal">
-              <label for=""><i class="fas fa-filter" id="filterMenuBtn"></i>filters</label>
+            <button class="btn btn-danger">
+              <i class="fas fa-sort-amount-up-alt" id="sortPrice"></i>
+            </button>
+            <button class="btn btn-danger " data-toggle="modal" data-target="#exampleModal">
+              <label for="" class="text-light"><i class="fas fa-filter text-light"
+                  id="filterMenuBtn"></i>filters</label>
             </button>
           </div>
         </div>
 
-        <ul>
+        <ul class="mb-5">
 
         </ul>
       </div>
-      <!-- Modal -->
-      <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true" style="height:100vh !important;width:100vw !important">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLabel">All Filters</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-              <div class="container">
-                <div class="row">
-                  <div class="col-6" id="menuLeft">
-                    <button data-value="Length" class="btn btn-block btn-info">Length</button>
-                    <button data-value="Width" class="btn btn-block btn-info">Width</button>
-                    <button data-value="Thickness" class="btn btn-block btn-info">Thickness</button>
-                    <!-- <button data-value="Type" class="btn btn-block btn-info">Type</button> -->
-                  </div>
-                  <div class="col-6">
-                    <div id="optionRight">
-                      <div id="optionLength">
+    </center>
 
-                      </div>
-                      <div id="optionWidth">
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+      aria-hidden="true" style="height:100vh !important;width:100vw !important">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">All Filters</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="container">
+              <div class="row">
+                <div class="col-6" id="menuLeft">
+                  <button data-value="Length" class="btn btn-block btn-info">Length</button>
+                  <button data-value="Width" class="btn btn-block btn-info">Width</button>
+                  <button data-value="Thickness" class="btn btn-block btn-info">Thickness</button>
+                  <!-- <button data-value="Type" class="btn btn-block btn-info">Type</button> -->
+                </div>
+                <div class="col-6">
+                  <div id="optionRight">
+                    <div id="optionLength">
 
-                      </div>
-                      <div id="optionThickness">
+                    </div>
+                    <div id="optionWidth">
 
-                      </div>
-                      <div id="optionType">
+                    </div>
+                    <div id="optionThickness">
 
-                      </div>
+                    </div>
+                    <div id="optionType">
+
                     </div>
                   </div>
-
-
                 </div>
+
+
               </div>
             </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Apply Filters</button>
-              <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Apply Filters</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
           </div>
         </div>
       </div>
-    </center>
-
-
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="js/jquery-3.4.1.min.js"></script>
+
+    <!-- <script src="js/jquery-3.4.1.min.js"></script> -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>
     <script src="js/selectUser.js"></script>
     <script src="js/producttest.js"></script>
-    
+    <script src="js/filter.js"></script>
     <script src="js/selection.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-    <script src="js/filternew.js"></script>
+    <script>
+      addTofilterMenu = (array, target) => {
+        $(target).empty();
+        array.sort((a, b) => a - b).forEach(item => {
+          $(target).append(`
+  <div class="form-check text-left">
+    <input class="form-check-input" type="checkbox" value="${item}" >
+    <label class="form-check-label">
+      ${item}
+    </label>
+  </div>
+  `);
+        })
+      }
+      $("#exampleModal").on("show.bs.modal", () => {
+        addTofilterMenu(selectLength, "#optionLength");
+        addTofilterMenu(selectWidth, "#optionWidth");
+        addTofilterMenu(selectThickness, "#optionThickness");
+        $("#optionRight").children("div").hide();
+        $("#optionLength").show();
+      });
+      $("#menuLeft").click(function (event) {
+        $("#optionRight").children("div").hide();
+        $(eval("option" + event.target.dataset.value)).show();
+      });
+
+      $("[data-dismiss='modal']").click(() => {
+        resetResult();
+        getSelection();
+        arrFilters.length = [...new Set(getVal($("#optionLength input:checked").toArray()))];
+        arrFilters.width = [...new Set(getVal($("#optionWidth input:checked").toArray()))];
+        arrFilters.thickness = [...new Set(getVal($("#optionThickness input:checked").toArray()))];
+        const functionFilters = {
+          price: price => price < sortedLimit[1] && price >= sortedLimit[0]
+        };
+        filteredImages = filterSequence(Products, arrFilters, functionFilters);
+        genHtml(filteredImages.sort((a,b)=>a.price-b.price));
+        $(".sortingFilters").show();
+      });
+      $("#sortPrice").click(() => {
+        if ($("#sortPrice").hasClass("fa-sort-amount-up-alt")) {
+          //sort low to high
+          resetResult();
+          genHtml(filteredImages.sort((a,b)=>b.price-a.price));
+          $("#sortPrice").removeClass("fa-sort-amount-up-alt").addClass("fa-sort-amount-up");
+$(".sortingFilters").show();
+        } else {
+          //sort high to low
+          resetResult();
+          genHtml(filteredImages.sort((a,b)=>a.price-b.price));
+          $("#sortPrice").removeClass("fa-sort-amount-up").addClass("fa-sort-amount-up-alt");
+          $(".sortingFilters").show();
+        }
+      })
+    </script>
   </div>
 </body>
 
