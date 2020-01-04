@@ -15,7 +15,7 @@
 </head>
 
 <body>
-  <img class="w-100" src="img/banner.png">
+  <img class="w-100" src="img/Bamboo mattress banner.jpg">
   <div class="container p-0">
     <div id='filters' class="container">
       <form id="formFeed" action="send.php" method="post">
