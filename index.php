@@ -8,6 +8,7 @@
   <!-- Bootstrap CSS -->
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css' />
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css' />
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.3/nouislider.min.css'/>
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="shortcut icon" href="img/dr-back-favicon.png" />
   <title>Find your perfect mattress</title>
@@ -18,26 +19,7 @@
   <div class="container p-0">
     <div id='filters' class="container">
       <form id="formFeed" action="send.php" method="post">
-        <section class="row box-shadow mt-5 mb-5 ml-1 mr-1">
-          <div class="col-lg-5 col-md-7 p-lg-5 text-left d-flex flex-column text-center">
-            <h3>Personal Info.</h3><br>
-            <div class="d-flex justify-content-between p-2">
-              <input class="input-res" placeholder="Enter Name" type="text" name="name" required>
-            </div>
-            <div class="d-flex justify-content-between p-2">
-              <input class="input-res" placeholder="Enter Phone" type="tel" name="phone" required>
-            </div>
-            <div class="d-flex justify-content-between p-2">
-              <input class="input-res" placeholder="Enter Email" type="email" name="email" required>
-            </div>
-            <div class="d-flex justify-content-between p-2">
-              <input class="input-res" placeholder="Enter Address" type="address" name="address" required>
-            </div>
-          </div>
-          <div class="col p-5 text-right tablet-date d-none d-lg-block">
-            <h3>Date : <span id="currentDate"></span></h3>
-          </div>
-        </section>
+        
         <section class="box-shadow mt-5 mb-5">
           <div class="tablet-container">
             <h5 class="d-lg-none d-block m-3 text-center">What size mattress is needed ? <br>(Please Select)</h5>
@@ -76,34 +58,7 @@
             </div>
           </div>
         </section>
-        <!--No of sleepers start-->
-        <section class="box-shadow mt-5 mb-5">
-          <div id='filters'>
-            <div>
-              <h5 class="d-lg-none d-block m-3 text-center">How many Sleepers ? <br>(Please Select)</h5>
-              <h3 class="d-lg-block d-none m-3 text-center">How many Sleepers ? <br>(Please Select)</h3>
-              <div class="row">
-                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                  <input class="noOfSleeper1" type='checkbox' name='sleepers' value='1'></input>
-                  <span class="checkbox-custom rectangular">1</span>
-                </label>
-                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                  <input class="noOfSleeper2" type='checkbox' name='sleepers' value='2'></input>
-                  <span class="checkbox-custom rectangular">2</span>
-                </label>
-                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                  <input class="noOfSleeper3" type='checkbox' name='sleepers' value='3'></input>
-                  <span class="checkbox-custom rectangular">3</span>
-                </label>
-                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                  <input class="noOfSleeper4" type='checkbox' name='sleepers' value='4'></input>
-                  <span class="checkbox-custom rectangular">4</span>
-                </label>
-              </div>
-            </div>
-          </div>
-        </section>
-        <!--No of Sleepers end-->
+        
         <div id="mod">
           <!-- sleeping position starts -->
           <section class="box-shadow-padding mt-5 mb-5 box-shadow">
@@ -115,7 +70,7 @@
               <table class="table table-bordered text-center table-responsive">
                 <thead>
                   <tr>
-                    <td class="align-middle">Sleeper</td>
+                    
                     <td><img class="img img-fluid img-fluid-table" src="img/back.png">
                       <figcaption>Back</figcaption>
                     </td>
@@ -129,7 +84,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>1</td>
+                   
                     <td>
                       <label class="checkPositionS1">
                         <input type="checkbox" value="Back" name="position1">
@@ -146,60 +101,7 @@
                       </label>
                     </td>
                   </tr>
-                  <tr>
-                    <td>2</td>
-                    <td>
-                      <label class="checkPositionS2">
-                        <input type="checkbox" value="Back" name="position2">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkPositionS2">
-                        <input type="checkbox" value="Side" name="position2">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkPositionS2">
-                        <input type="checkbox" value="Stomach" name="position2">
-                      </label>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>3</td>
-                    <td>
-                      <label class="checkPositionS3">
-                        <input type="checkbox" value="Back" name="position3">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkPositionS3">
-                        <input type="checkbox" value="Side" name="position3">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkPositionS3">
-                        <input type="checkbox" value="Stomach" name="position3">
-                      </label>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>4</td>
-                    <td>
-                      <label class="checkPositionS4">
-                        <input type="checkbox" value="Back" name="position4">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkPositionS4">
-                        <input type="checkbox" value="Side" name="position4">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkPositionS4">
-                        <input type="checkbox" value="Stomach" name="position4">
-                      </label>
-                    </td>
-                  </tr>
+                 
                 </tbody>
               </table>
             </div>
@@ -215,7 +117,7 @@
               <table class="table table-bordered text-center table-responsive">
                 <thead>
                   <tr>
-                    <td class="align-middle">Sleeper</td>
+                 
                     <td><img class="img img-fluid img-fluid-table" src="img/rarely.png">
                       <figcaption>Rarely</figcaption>
                     </td>
@@ -229,7 +131,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>1</td>
+                  
                     <td>
                       <label class="checkBackPainS1">
                         <input type="checkbox" value="Rarely" name="backpain1">
@@ -246,60 +148,7 @@
                       </label>
                     </td>
                   </tr>
-                  <tr>
-                    <td>2</td>
-                    <td>
-                      <label class="checkBackPainS2">
-                        <input type="checkbox" value="Rarely" name="backpain2">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkBackPainS2">
-                        <input type="checkbox" value="Sometimes" name="backpain2">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkBackPainS2">
-                        <input type="checkbox" value="Often" name="backpain2">
-                      </label>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>3</td>
-                    <td>
-                      <label class="checkBackPainS3">
-                        <input type="checkbox" value="Rarely" name="backpain3">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkBackPainS3">
-                        <input type="checkbox" value="Sometimes" name="backpain3">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkBackPainS3">
-                        <input type="checkbox" value="Often" name="backpain3">
-                      </label>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>4</td>
-                    <td>
-                      <label class="checkBackPainS4">
-                        <input type="checkbox" value="Rarely" name="backpain4">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkBackPainS4">
-                        <input type="checkbox" value="Sometimes" name="backpain4">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkBackPainS4">
-                        <input type="checkbox" value="Often" name="backpain4">
-                      </label>
-                    </td>
-                  </tr>
+                 
                 </tbody>
               </table>
             </div>
@@ -315,7 +164,7 @@
               <table class="table table-bordered text-center table-responsive">
                 <thead>
                   <tr>
-                    <td class="align-middle">Sleeper</td>
+                    
                     <td><img class="img img-fluid img-fluid-table" src="img/soft-feel.png">
                       <figcaption>Soft <br class="brOnlyForResponsiveness"> Feel</figcaption>
                     </td>
@@ -329,7 +178,7 @@
                 </thead>
                 <tbody>
                   <tr class="filter-attributes">
-                    <td>1</td>
+                    
                     <td>
                       <label class="checkFeelTypeS1">
                         <input type="checkbox" value="SOFT" name="feel1">
@@ -346,105 +195,40 @@
                       </label>
                     </td>
                   </tr>
-                  <tr class="filter-attributes">
-                    <td>2</td>
-                    <td>
-                      <label class="checkFeelTypeS2">
-                        <input type="checkbox" value="SOFT" name="feel2">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkFeelTypeS2">
-                        <input type="checkbox" value="MEDIUM" name="feel2">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkFeelTypeS2">
-                        <input type="checkbox" value="FIRM" name="feel2">
-                      </label>
-                    </td>
-                  </tr>
-                  <tr class="filter-attributes">
-                    <td>3</td>
-                    <td>
-                      <label class="checkFeelTypeS3">
-                        <input type="checkbox" value="SOFT" name="feel3">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkFeelTypeS3">
-                        <input type="checkbox" value="MEDIUM" name="feel3">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkFeelTypeS3">
-                        <input type="checkbox" value="FIRM" name="feel3">
-                      </label>
-                    </td>
-                  </tr>
-                  <tr class="filter-attributes">
-                    <td>4</td>
-                    <td>
-                      <label class="checkFeelTypeS4">
-                        <input type="checkbox" value="SOFT" name="feel4">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkFeelTypeS4">
-                        <input type="checkbox" value="MEDIUM" name="feel4">
-                      </label>
-                    </td>
-                    <td>
-                      <label class="checkFeelTypeS4">
-                        <input type="checkbox" value="FIRM" name="feel4">
-                      </label>
-                    </td>
-                  </tr>
+                  
                 </tbody>
               </table>
             </div>
           </section>
           <!-- mattress feel ends -->
         </div>
-        <!-- <section class="box-shadow mt-5 mb-5">
-        <div>
-           <div>
-              <h5 class="d-lg-none d-block m-3 text-center">Select Offers <br>(Please Select)</h5>
-              <h3 class="d-lg-block d-none m-3 text-center">Select Offers <br>(Please Select)</h3>
-              <div class="row filter-attributes">
-                 <label class="checkbox-inline p-4 col checkbox-label checkOffers">
-                 <input type='checkbox' name="offer" value='20%' ></input>
-                 <span class="checkbox-custom rectangular">20% Off</span>
-                 </label>
-                 <label class="checkbox-inline p-4 col checkbox-label checkOffers">
-                 <input type='checkbox' name="offer" value='30%' ></input>
-                 <span class="checkbox-custom rectangular">30% Off</span>
-                 </label>
-              </div>
-           </div>
-        </div>
-      </section> -->
+       
         <section class="box-shadow">
-          <h3 class="text-center">What is your budget ? <br>(Please Select)</h3>
-          <div class="row filter-attributes">
-            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-              <input type='checkbox' name='budget' value='Less than 10,000'></input>
-              <span class="checkbox-custom rectangular">Less than 10,000</span>
-            </label>
-            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-              <input type='checkbox' name='budget' value='11,000-20,000'></input>
-              <span class="checkbox-custom rectangular">11,000-20,000</span>
-            </label>
-            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-              <input type='checkbox' name='budget' value='21,000-35,000'></input>
-              <span class="checkbox-custom rectangular">21,000-35,000</span>
-            </label>
-            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-              <input type='checkbox' name='budget' value='Above 35,000'></input>
-              <span class="checkbox-custom rectangular">Above 35,000</span>
-            </label>
+        <h3 class="text-center">What is your budget ? <br>(Please Select)</h3>
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div id="range"></div>
+            </div>
           </div>
-        </section>
+          <div class="row slider-labels">
+            <div class="col-xs-6 caption">
+              <strong>Min:</strong> <span id="slider-range-value1"></span>
+            </div>
+            <div class="col-xs-6 text-right caption">
+              <strong>Max:</strong> <span id="slider-range-value2"></span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <form>
+                <input type="hidden" name="min-value" value="">
+                <input type="hidden" name="max-value" value="">
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
         <section class="text-center">
           <div class="row pt-5">
             <h3 class="mx-auto"> Did you had a Mattress before? (Please &#9989;)</h3>
@@ -539,8 +323,7 @@
             <span>
               <input type="button" id="showResult" class="btn btn-danger" value="Show My Perfect Mattress">
               <input class="btn btn-danger text-center" type='reset' id='none' value='Reset'></input>
-              <!-- <input type="button" id="hideResult" class="btn btn-info" value="Hide My Perfect Mattress"> -->
-              <input type="submit" value="Email My Perfect Mattress" class="btn btn-success">
+              
             </span>
           </div>
           <div>
@@ -615,10 +398,45 @@
     <script src="js/selectUser.js"></script>
     <!-- <script src="js/producttest.js"></script> -->
     <!-- <script src="js/layertest.js"></script> -->
-    <script src="js/productlayer.js"></script>
+    <script src="js/productbamboo.js"></script>
     <script src="js/filter.js"></script>
     <script src="js/selection.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.3/nouislider.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/wnumb/1.2.0/wNumb.min.js'></script>
     <script>
+
+
+///slider section start
+$(()=> {
+  
+  var slider = document.getElementById('range');
+
+noUiSlider.create(slider, {
+    start: [5000, 15000],
+    connect: true,
+    range: {
+        'min': 3000,
+        'max': 25000
+    },
+    step: 1000,
+    format: wNumb({
+      decimals: 0
+  }),
+
+
+});
+  // Set visual min and max values and also update value hidden form inputs
+  slider.noUiSlider.on('update', function(values, handle) {
+    document.getElementById('slider-range-value1').innerHTML = values[0];
+    document.getElementById('slider-range-value2').innerHTML = values[1];
+    return sortedLimit=values;
+  });
+});
+
+
+
+
+///slider section end
       addTofilterMenu = (array, target) => {
         $(target).empty();
         array.sort((a, b) => a - b).forEach(item => {

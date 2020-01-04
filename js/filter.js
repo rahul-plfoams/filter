@@ -7,13 +7,13 @@ $(document).ready(() => {
     date.getFullYear()
 ];
   $("#currentDate").text(`${currDate}/${currMonth}/${currYear}`);
-  const budgetsLimit = {
-    "Less than 10,000": [0, 10000],
-    "11,000-20,000": [10001, 20000],
-    "21,000-35,000": [25001, 35000],
-    "Above 35,000": [35001, 1000000],
-    default: [0, 1000000]
-  };
+  // const budgetsLimit = {
+  //   "Less than 10,000": [0, 10000],
+  //   "11,000-20,000": [10001, 20000],
+  //   "21,000-35,000": [25001, 35000],
+  //   "Above 35,000": [35001, 1000000],
+  //   default: [0, 1000000]
+  // };
 
   //reset function
   resetResult = () => {
@@ -85,7 +85,7 @@ $(document).ready(() => {
       budgets = ["default"];
     }
     //sorting Limit
-    sortedLimit = budgetsLimit[budgets[0]];
+    // sortedLimit = budgetsLimit[budgets[0]];
 
     const functionFilters = {
       price: price => price < sortedLimit[1] && price >= sortedLimit[0]
@@ -113,29 +113,36 @@ $(document).ready(() => {
       filteredImages.length == 0
         ? "No Matches Found"
         : `${filteredImages.length} results Found<br>`;
-    for (i = 0; i < filteredImages.length; i++) {
-      html =
-        html +
-        `<li class="grid-products large-boxes"><img src="${filteredImages[i].src}"
-         class="grid-variants">
-          <table class="table table-bordered">
-          <tr>
-            <td class="border-dark">Size</td>
-            <td class="border-dark">${filteredImages[i].length} &times ${filteredImages[i].width} </td>
-          </tr>
-          <tr>
-            <td class="border-dark">Thickness</td>
-            <td class="border-dark">${filteredImages[i].thickness}</td>
-          </tr>
-          <tr>
-          <td class="border-dark">Price</td>
-          <td class="border-dark">&#8377 ${thousands_separators(filteredImages[i].price)} 
-          </td>
-          </tr>
-        </table>
-        
-         </li>`;
-    }
+        for (i = 0; i < filteredImages.length; i++) {
+          html = html + `<li class="grid-products large-boxes m-2"><img src="${filteredImages[i].src}"
+       class="grid-variants img-fluid">
+        <table class="table table-bordered">
+        <tr>
+          <td class="border-dark w-50">Size</td>
+          <td class="border-dark w-50">${filteredImages[i].length} &times ${filteredImages[i].width} </td>
+        </tr>
+        <tr>
+          <td class="border-dark w-50">Thickness</td>
+          <td class="border-dark w-50">${filteredImages[i].thickness}</td>
+        </tr>
+        <tr>
+          <td class="border-dark w-50">Feel Level</td>
+          <td class="border-dark w-50">${filteredImages[i].level}</td>
+        </tr>
+        <tr>
+        <td class="border-dark w-50">Price</td>
+        <td class="border-dark w-50">&#8377 ${thousands_separators(filteredImages[i].price)} 
+        </td>
+        </tr>
+        <tr>
+        <td class="border-dark" colspan="2"><a class="btn btn-danger btn-lg" href="
+        ${filteredImages[i].url}?type=${filteredImages[i].size}&size=${filteredImages[i].length}x${filteredImages[i].width}&thickness=${filteredImages[i].thickness}">Buy Now</a>
+        </td>
+        </tr>
+      </table>
+      
+       </li>`;
+      }
     $(".sections#productList ul").append(html);
   };
   //get values from objects and store in array
