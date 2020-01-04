@@ -129,7 +129,7 @@ $(document).ready(() => {
           </tr>
           <tr>
           <td class="border-dark">Price</td>
-          <td class="border-dark">&#8377 ${filteredImages[i].price} 
+          <td class="border-dark">&#8377 ${thousands_separators(filteredImages[i].price)} 
           </td>
           </tr>
         </table>
@@ -172,5 +172,12 @@ $(document).ready(() => {
         );
       });
     });
+  }
+
+  function thousands_separators(num)
+  {
+    var num_parts = num.toString().split(".");
+    num_parts[0] = num_parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return num_parts.join(".");
   }
 });
