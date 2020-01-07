@@ -450,6 +450,19 @@ noUiSlider.create(slider, {
   `);
         })
       }
+
+      function checkPreSelected(){
+
+        for(let i=0;i<arrFilters.length.length;i++){
+          $(`#optionLength input[value='${arrFilters.length[i]}']`).attr("checked",true);
+        }
+        for(let i=0;i<arrFilters.width.length;i++){
+          $(`#optionWidth input[value='${arrFilters.width[i]}']`).attr("checked",true);
+        }
+        for(let i=0;i<arrFilters.thickness.length;i++){
+          $(`#optionThickness input[value='${arrFilters.thickness[i]}']`).attr("checked",true);
+        }
+      }
       $("#exampleModal").on("show.bs.modal", () => {
         addTofilterMenu(selectLength, "#optionLength");
         addTofilterMenu(selectWidth, "#optionWidth");
@@ -457,14 +470,24 @@ noUiSlider.create(slider, {
         addTofilterMenu(selectType, "#optionType");
         $("#optionRight").children("div").hide();
         $("#optionLength").show();
+        if(!arrFilters.length){
+        return;}
+        else{
+          checkPreSelected();
+        }
       });
+     
+        
+      
       $("#menuLeft").click(function (event) {
         $("#optionRight").children("div").hide();
         $(eval("option" + event.target.dataset.value)).show();
+        // console.log(event.target.dataset.value.toLowerCase());
       });
       $("[data-dismiss='modal']").click(() => {
         resetResult();
         getSelection();
+  
         arrFilters.length = [...new Set(getVal($("#optionLength input:checked").toArray()))];
         arrFilters.width = [...new Set(getVal($("#optionWidth input:checked").toArray()))];
         arrFilters.thickness = [...new Set(getVal($("#optionThickness input:checked").toArray()))];
