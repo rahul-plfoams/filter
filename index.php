@@ -632,14 +632,32 @@
   `);
         })
       }
-      $("#exampleModal").on("show.bs.modal", () => {
-        addTofilterMenu(selectLength, "#optionLength");
-        addTofilterMenu(selectWidth, "#optionWidth");
-        addTofilterMenu(selectThickness, "#optionThickness");
-        addTofilterMenu(selectType, "#optionType");
-        $("#optionRight").children("div").hide();
-        $("#optionLength").show();
-      });
+      function checkPreSelected(){
+
+for(let i=0;i<arrFilters.length.length;i++){
+  $(`#optionLength input[value='${arrFilters.length[i]}']`).attr("checked",true);
+}
+for(let i=0;i<arrFilters.width.length;i++){
+  $(`#optionWidth input[value='${arrFilters.width[i]}']`).attr("checked",true);
+}
+for(let i=0;i<arrFilters.thickness.length;i++){
+  $(`#optionThickness input[value='${arrFilters.thickness[i]}']`).attr("checked",true);
+}
+}
+$("#exampleModal").on("show.bs.modal", () => {
+addTofilterMenu(selectLength, "#optionLength");
+addTofilterMenu(selectWidth, "#optionWidth");
+addTofilterMenu(selectThickness, "#optionThickness");
+addTofilterMenu(selectType, "#optionType");
+$("#optionRight").children("div").hide();
+$("#optionLength").show();
+if(!arrFilters.length){
+return;}
+else{
+  checkPreSelected();
+}
+});
+
       $("#menuLeft").click(function (event) {
         $("#optionRight").children("div").hide();
         $(eval("option" + event.target.dataset.value)).show();
