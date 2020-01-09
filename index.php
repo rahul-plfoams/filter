@@ -377,7 +377,43 @@
                     </div>
                     <div id="optionThickness">
                     </div>
-                    <div id="optionType">
+                    <div id="optionType" style="">
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Natural Latex">
+                        <label class="form-check-label">
+                        natural latex  
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Memory Foam">
+                        <label class="form-check-label">
+                        memory foam
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Rebonded Foam">
+                        <label class="form-check-label">
+                        rebonded foam
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Pocket Spring">
+                        <label class="form-check-label">
+                        pocket spring
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Bonnell Spring">
+                        <label class="form-check-label">
+                        bonnell spring
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Rubberised Coir">
+                        <label class="form-check-label">
+                        rubberised coir
+                        </label>
+                      </div>
                     </div>
                   </div>
                 </div>
