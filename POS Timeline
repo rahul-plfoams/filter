@@ -1,0 +1,80 @@
+Inventory Management
+● Product master
+● Product image upload
+● Rate management module
+● Part master
+● Vendor master
+● Customer master
+● Customer Allocation to Products
+● Inward and outward details of products
+● Minimum Qty level management
+● Color codes for low quantity
+● Physical stock audit
+● Recipe management for product part relation
+
+Purchase Module for Admin
+● Purchase order management
+● Multi approval matrix
+● Purchase order receipt management
+● GRN module
+● Auto recipe receipt management
+● Email and print of PO and challan
+Customer / Vendor PO module
+● Customer / Vendor login to raise PO
+● Auto population of assigned products
+● Vehicle selection for ordering
+● Truck capacity wise lock over ordering
+● E-way bill data export in JSON
+● Validation of credit limit / Time limit for ordering
+
+WareHouse and Dispatch Management 
+● Dispatch order list 
+● Barcode integration for dispatch 
+● Auto purchase order update over dispatch
+
+Franchise POS Module & Order Management 
+● Ordering module for franchise 
+● Amazon like module for ordering with images 
+● Delivery details for order 
+● Admin order management module 
+● TAT management for each order 
+● Delayed orders notification 
+● Unlimited franchise login 
+● Feedback management 
+● Invoice generation for customers 
+● Pre fed branded invoice design 
+● Email and sms integration 
+● Payment outstanding management 
+
+Other Features 
+● Transactional email notification 
+● Email communication module with vendor and customer 
+● Pre decided Graphical/ Data reports 
+● Export to excel, pdf 
+● Front end - JS and HTML CSS 
+● Back END - Spring MVC , Hibernate JAVA 
+● Database - MySql
+
+
+
+Complete WireFraming - 3 Days(+/- 1 days)
+-includes Admin, Vendor and POS
+
+Admin Module - 14 Days (+/- 3 days)
+-include Complete Management for Vendor, Inventory, Employee details And Data
+
+Vendor Module - 10 Days (+/- 2 days)
+-include Vendor Side Operations Like Placing Order and Doing Sales Using POS
+
+Inventory Module - 12 Days (+/- 4 days)
+-Contains Complete Management of Products From Raw Materails to Sales Done to customer
+
+POS Module - 7 Days (+/- 4 days)
+-Complete Front End of POS For performing Sales In retail Store
+
+Total Days- 46 Days (+ 14 days)
+
+Technology Used:
+Backend: Node.js with Express and MongoDB
+Frontend: HTML,CSS and Javascript
+
