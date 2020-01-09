@@ -594,7 +594,43 @@
                     </div>
                     <div id="optionThickness">
                     </div>
-                    <div id="optionType">
+                    <div id="optionType" style="">
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Natural Latex">
+                        <label class="form-check-label">
+                        natural latex  
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Memory Foam">
+                        <label class="form-check-label">
+                        memory foam
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Rebonded Foam">
+                        <label class="form-check-label">
+                        rebonded foam
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Pocket Spring">
+                        <label class="form-check-label">
+                        pocket spring
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Bonnell Spring">
+                        <label class="form-check-label">
+                        bonnell spring
+                        </label>
+                      </div>
+                      <div class="form-check text-left">
+                        <input class="form-check-input" type="checkbox" value="Rubberised Coir">
+                        <label class="form-check-label">
+                        rubberised coir
+                        </label>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -632,31 +668,14 @@
   `);
         })
       }
-      function checkPreSelected(){
 
-for(let i=0;i<arrFilters.length.length;i++){
-  $(`#optionLength input[value='${arrFilters.length[i]}']`).attr("checked",true);
-}
-for(let i=0;i<arrFilters.width.length;i++){
-  $(`#optionWidth input[value='${arrFilters.width[i]}']`).attr("checked",true);
-}
-for(let i=0;i<arrFilters.thickness.length;i++){
-  $(`#optionThickness input[value='${arrFilters.thickness[i]}']`).attr("checked",true);
-}
-}
-$("#exampleModal").on("show.bs.modal", () => {
-addTofilterMenu(selectLength, "#optionLength");
-addTofilterMenu(selectWidth, "#optionWidth");
-addTofilterMenu(selectThickness, "#optionThickness");
-addTofilterMenu(selectType, "#optionType");
-$("#optionRight").children("div").hide();
-$("#optionLength").show();
-if(!arrFilters.length){
-return;}
-else{
-  checkPreSelected();
-}
-});
+      $("#exampleModal").one("show.bs.modal", () => {
+        addTofilterMenu(selectLength, "#optionLength");
+        addTofilterMenu(selectWidth, "#optionWidth");
+        addTofilterMenu(selectThickness, "#optionThickness");
+        $("#optionRight").children("div").hide();
+        $("#optionLength").show();
+      });
 
       $("#menuLeft").click(function (event) {
         $("#optionRight").children("div").hide();
