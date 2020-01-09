@@ -11,7 +11,8 @@
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.3/nouislider.min.css'/>
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="shortcut icon" href="img/dr-back-favicon.png" />
-  <title>Find your perfect mattress</title>
+  <!-- <base href="/wp-content/themes/storefront/"> -->
+  <title>Perfect Match | Bamboo Mattress</title>
 </head>
 
 <body>
@@ -221,102 +222,13 @@
           </div>
           <div class="row">
             <div class="col-sm-12">
-              <form>
                 <input type="hidden" name="min-value" value="">
                 <input type="hidden" name="max-value" value="">
-              </form>
             </div>
           </div>
         </div>
       </section>
-        <section class="text-center">
-          <div class="row pt-5">
-            <h3 class="mx-auto"> Did you had a Mattress before? (Please &#9989;)</h3>
-          </div>
-          <label><input type="checkbox" id="cbshow"></label>
-        </section>
-        <section id="divshow" class="m-4 text-center box-shadow" style="display: none;">
-          <h5 class="center">Your current Mattress Details</h5>
-          <div class="block">
-            <input type="text" name="brand-name" class="input-res" placeholder="Enter Brand Name" required>
-          </div>
-          <div class="block">
-            <input type="text" name="model-name" class="input-res" placeholder="Enter Model Name" required>
-          </div>
-          <div class="block">
-            <input type="text" name="year-of-use" class="input-res" placeholder="Enter Year Of Use" required>
-          </div>
-          <!-- new -->
-          <div class="row mt-3" style="text-align: center; font-weight: bold;">
-            <div class="col p-1">Soft</div>
-            <div class="col p-1">Medium</div>
-            <div class="col p-1">Firm</div>
-          </div>
-          <div class="row" style="height: 10px;">
-            <div class="col" style="background-color: #bcbdc0;"></div>
-            <div class="col" style="background-color: #6c6d70;"></div>
-            <div class="col" style="background-color: #231f20;"></div>
-          </div>
-          <div class="row">
-            <div class="radio-group">
-              <input type="radio" id="feel1" value="1" name="customerFeel">
-              <label for="feel1">1</label>
-              <input type="radio" id="feel2" value="2" name="customerFeel">
-              <label for="feel2">2</label>
-              <input type="radio" id="feel3" value="3" name="customerFeel">
-              <label for="feel3">3</label>
-              <input type="radio" id="feel4" value="4" name="customerFeel">
-              <label for="feel4">4</label>
-              <input type="radio" id="feel5" value="5" name="customerFeel">
-              <label for="feel5">5</label>
-              <input type="radio" id="feel6" value="6" name="customerFeel">
-              <label for="feel6">6</label>
-              <input type="radio" id="feel7" value="7" name="customerFeel">
-              <label for="feel7">7</label>
-              <input type="radio" id="feel8" value="8" name="customerFeel">
-              <label for="feel8">8</label>
-              <input type="radio" id="feel9" value="9" name="customerFeel">
-              <label for="feel9">9</label>
-              <input type="radio" id="feel10" value="10" name="customerFeel">
-              <label for="feel10">10</label>
-            </div>
-          </div>
-          <!-- new -->
-          <div class="row mt-3" style="text-align: center; font-weight: bold;">
-            <div class="col p-1">Rarely</div>
-            <div class="col p-1">Sometimes</div>
-            <div class="col p-1">Often</div>
-          </div>
-          <div class="row" style="height: 10px;">
-            <div class="col" style="background-color: #bcbdc0;"></div>
-            <div class="col" style="background-color: #6c6d70;"></div>
-            <div class="col" style="background-color: #231f20;"></div>
-          </div>
-          <div class="row">
-            <div class="radio-group">
-              <input type="radio" id="relief1" value="1" name="customerRelief">
-              <label for="relief1">1</label>
-              <input type="radio" id="relief2" value="2" name="customerRelief">
-              <label for="relief2">2</label>
-              <input type="radio" id="relief3" value="3" name="customerRelief">
-              <label for="relief3">3</label>
-              <input type="radio" id="relief4" value="4" name="customerRelief">
-              <label for="relief4">4</label>
-              <input type="radio" id="relief5" value="5" name="customerRelief">
-              <label for="relief5">5</label>
-              <input type="radio" id="relief6" value="6" name="customerRelief">
-              <label for="relief6">6</label>
-              <input type="radio" id="relief7" value="7" name="customerRelief">
-              <label for="relief7">7</label>
-              <input type="radio" id="relief8" value="8" name="customerRelief">
-              <label for="relief8">8</label>
-              <input type="radio" id="relief9" value="9" name="customerRelief">
-              <label for="relief9">9</label>
-              <input type="radio" id="relief10" value="10" name="customerRelief">
-              <label for="relief10">10</label>
-            </div>
-          </div>
-        </section>
+        
         <section class="text-center">
           <div class="pb-5">
             <h3 class="p-3">Your Perfect Mattress</h3>
@@ -377,7 +289,7 @@
                     </div>
                     <div id="optionThickness">
                     </div>
-                    <div id="optionType" style="">
+                    <div id="optionType">
                       <div class="form-check text-left">
                         <input class="form-check-input" type="checkbox" value="Natural Latex">
                         <label class="form-check-label">
@@ -432,8 +344,6 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>
     <script src="js/selectUser.js"></script>
-    <!-- <script src="js/producttest.js"></script> -->
-    <!-- <script src="js/layertest.js"></script> -->
     <script src="js/productbamboo.js"></script>
     <script src="js/filter.js"></script>
     <script src="js/selection.js"></script>
@@ -487,18 +397,7 @@ noUiSlider.create(slider, {
         })
       }
 
-      function checkPreSelected(){
-
-        for(let i=0;i<arrFilters.length.length;i++){
-          $(`#optionLength input[value='${arrFilters.length[i]}']`).attr("checked",true);
-        }
-        for(let i=0;i<arrFilters.width.length;i++){
-          $(`#optionWidth input[value='${arrFilters.width[i]}']`).attr("checked",true);
-        }
-        for(let i=0;i<arrFilters.thickness.length;i++){
-          $(`#optionThickness input[value='${arrFilters.thickness[i]}']`).attr("checked",true);
-        }
-      }
+     
       $("#exampleModal").one("show.bs.modal", () => {
         addTofilterMenu(selectLength, "#optionLength");
         addTofilterMenu(selectWidth, "#optionWidth");
