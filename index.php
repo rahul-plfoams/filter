@@ -463,18 +463,13 @@ noUiSlider.create(slider, {
           $(`#optionThickness input[value='${arrFilters.thickness[i]}']`).attr("checked",true);
         }
       }
-      $("#exampleModal").on("show.bs.modal", () => {
+      $("#exampleModal").one("show.bs.modal", () => {
         addTofilterMenu(selectLength, "#optionLength");
         addTofilterMenu(selectWidth, "#optionWidth");
         addTofilterMenu(selectThickness, "#optionThickness");
-        addTofilterMenu(selectType, "#optionType");
+        // addTofilterMenu(selectType, "#optionType");
         $("#optionRight").children("div").hide();
         $("#optionLength").show();
-        if(!arrFilters.length){
-        return;}
-        else{
-          checkPreSelected();
-        }
       });
      
         
@@ -482,7 +477,6 @@ noUiSlider.create(slider, {
       $("#menuLeft").click(function (event) {
         $("#optionRight").children("div").hide();
         $(eval("option" + event.target.dataset.value)).show();
-        // console.log(event.target.dataset.value.toLowerCase());
       });
       $("[data-dismiss='modal']").click(() => {
         resetResult();
