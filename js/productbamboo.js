@@ -6,6 +6,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -19,6 +26,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -32,6 +46,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -45,6 +66,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -58,6 +86,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -71,6 +106,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -84,6 +126,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -97,6 +146,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -110,6 +166,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -123,6 +186,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -136,6 +206,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -149,6 +226,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -162,6 +246,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -175,6 +266,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -188,6 +286,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -201,6 +306,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -214,6 +326,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -227,6 +346,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -240,6 +366,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -253,6 +386,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -266,6 +406,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -279,6 +426,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -292,6 +446,13 @@ const Products=[
     "src": "img/Amber.jpg",
     "feel": "MEDIUM",
     "level": 5,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -305,6 +466,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -318,6 +486,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -331,6 +506,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -344,6 +526,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -357,6 +546,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -370,6 +566,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -383,6 +586,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -396,6 +606,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -409,6 +626,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -422,6 +646,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -435,6 +666,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -448,6 +686,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -461,6 +706,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -474,6 +726,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -487,6 +746,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -500,6 +766,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -513,6 +786,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -526,6 +806,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -539,6 +826,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -552,6 +846,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -565,6 +866,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -578,6 +886,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -591,6 +906,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -604,6 +926,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -617,6 +946,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -630,6 +966,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -643,6 +986,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -656,6 +1006,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -669,6 +1026,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -682,6 +1046,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -695,6 +1066,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -708,6 +1086,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -721,6 +1106,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -734,6 +1126,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -747,6 +1146,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -760,6 +1166,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -773,6 +1186,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -786,6 +1206,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -799,6 +1226,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -812,6 +1246,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -825,6 +1266,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -838,6 +1286,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -851,6 +1306,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -864,6 +1326,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -877,6 +1346,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -890,6 +1366,13 @@ const Products=[
     "src": "img/Asaba.jpg",
     "feel": "FIRM",
     "level": 9,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rubberised Coir",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -903,6 +1386,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -916,6 +1406,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -929,6 +1426,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -942,6 +1446,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -955,6 +1466,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -968,6 +1486,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -981,6 +1506,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -994,6 +1526,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -1007,6 +1546,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -1020,6 +1566,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -1033,6 +1586,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -1046,6 +1606,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -1059,6 +1626,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -1072,6 +1646,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -1085,6 +1666,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -1098,6 +1686,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -1111,6 +1706,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -1124,6 +1726,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -1137,6 +1746,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -1150,6 +1766,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -1163,6 +1786,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -1176,6 +1806,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -1189,6 +1826,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -1202,6 +1846,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -1215,6 +1866,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -1228,6 +1886,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -1241,6 +1906,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -1254,6 +1926,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -1267,6 +1946,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -1280,6 +1966,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -1293,6 +1986,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -1306,6 +2006,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -1319,6 +2026,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -1332,6 +2046,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -1345,6 +2066,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -1358,6 +2086,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -1371,6 +2106,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -1384,6 +2126,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -1397,6 +2146,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -1410,6 +2166,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -1423,6 +2186,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -1436,6 +2206,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -1449,6 +2226,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -1462,6 +2246,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -1475,6 +2266,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -1488,6 +2286,13 @@ const Products=[
     "src": "img/Aspen.jpg",
     "feel": "SOFT",
     "level": 3,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Convulated Profile Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -1501,6 +2306,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -1514,6 +2325,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -1527,6 +2344,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -1540,6 +2363,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -1553,6 +2382,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -1566,6 +2401,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -1579,6 +2420,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -1592,6 +2439,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -1605,6 +2458,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -1618,6 +2477,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -1631,6 +2496,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -1644,6 +2515,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -1657,6 +2534,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -1670,6 +2553,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -1683,6 +2572,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -1696,6 +2591,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -1709,6 +2610,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -1722,6 +2629,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -1735,6 +2648,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -1748,6 +2667,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -1761,6 +2686,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -1774,6 +2705,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -1787,6 +2724,12 @@ const Products=[
     "src": "img/Austin.jpg",
     "feel": "MEDIUM",
     "level": 6,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -1800,6 +2743,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -1813,6 +2761,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -1826,6 +2779,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -1839,6 +2797,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -1852,6 +2815,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -1865,6 +2833,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -1878,6 +2851,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -1891,6 +2869,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -1904,6 +2887,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -1917,6 +2905,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -1930,6 +2923,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -1943,6 +2941,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -1956,6 +2959,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -1969,6 +2977,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -1982,6 +2995,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -1995,6 +3013,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -2008,6 +3031,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -2021,6 +3049,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -2034,6 +3067,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -2047,6 +3085,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -2060,6 +3103,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -2073,6 +3121,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -2086,6 +3139,11 @@ const Products=[
     "src": "img/Avenue.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Resiliency Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -2099,6 +3157,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -2112,6 +3176,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -2125,6 +3195,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -2138,6 +3214,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -2151,6 +3233,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -2164,6 +3252,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -2177,6 +3271,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -2190,6 +3290,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -2203,6 +3309,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -2216,6 +3328,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -2229,6 +3347,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -2242,6 +3366,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -2255,6 +3385,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -2268,6 +3404,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -2281,6 +3423,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -2294,6 +3442,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -2307,6 +3461,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -2320,6 +3480,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -2333,6 +3499,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -2346,6 +3518,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -2359,6 +3537,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -2372,6 +3556,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -2385,6 +3575,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -2398,6 +3594,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -2411,6 +3613,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -2424,6 +3632,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -2437,6 +3651,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -2450,6 +3670,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -2463,6 +3689,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -2476,6 +3708,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -2489,6 +3727,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -2502,6 +3746,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -2515,6 +3765,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -2528,6 +3784,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -2541,6 +3803,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -2554,6 +3822,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -2567,6 +3841,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -2580,6 +3860,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -2593,6 +3879,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -2606,6 +3898,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -2619,6 +3917,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -2632,6 +3936,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -2645,6 +3955,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -2658,6 +3974,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -2671,6 +3993,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -2684,6 +4012,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -2697,6 +4031,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -2710,6 +4050,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -2723,6 +4069,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -2736,6 +4088,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -2749,6 +4107,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -2762,6 +4126,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -2775,6 +4145,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -2788,6 +4164,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -2801,6 +4183,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -2814,6 +4202,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -2827,6 +4221,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -2840,6 +4240,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -2853,6 +4259,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -2866,6 +4278,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -2879,6 +4297,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -2892,6 +4316,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -2905,6 +4335,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -2918,6 +4354,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -2931,6 +4373,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -2944,6 +4392,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -2957,6 +4411,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -2970,6 +4430,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -2983,6 +4449,12 @@ const Products=[
     "src": "img/Cairo.jpg",
     "feel": "FIRM",
     "level": 7,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "High Density Foam",
+      "Expanded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -2996,6 +4468,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -3009,6 +4488,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -3022,6 +4508,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -3035,6 +4528,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -3048,6 +4548,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -3061,6 +4568,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -3074,6 +4588,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 42,
@@ -3087,6 +4608,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 72,
     "width": 48,
@@ -3100,6 +4628,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 42,
@@ -3113,6 +4648,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 75,
     "width": 48,
@@ -3126,6 +4668,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 42,
@@ -3139,6 +4688,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Double",
     "length": 78,
     "width": 48,
@@ -3152,6 +4708,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -3165,6 +4728,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -3178,6 +4748,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -3191,6 +4768,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -3204,6 +4788,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -3217,6 +4808,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 72,
     "width": 72,
@@ -3230,6 +4828,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 75,
     "width": 72,
@@ -3243,6 +4848,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 78,
     "width": 72,
@@ -3256,6 +4868,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 81,
     "width": 72,
@@ -3269,6 +4888,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "King",
     "length": 84,
     "width": 72,
@@ -3282,6 +4908,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -3295,6 +4928,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -3308,6 +4948,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -3321,6 +4968,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -3334,6 +4988,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -3347,6 +5008,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -3360,6 +5028,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 60,
@@ -3373,6 +5048,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 72,
     "width": 66,
@@ -3386,6 +5068,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 60,
@@ -3399,6 +5088,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 75,
     "width": 66,
@@ -3412,6 +5108,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 60,
@@ -3425,6 +5128,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Queen",
     "length": 78,
     "width": 66,
@@ -3438,6 +5148,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -3451,6 +5168,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -3464,6 +5188,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -3477,6 +5208,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -3490,6 +5228,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -3503,6 +5248,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
@@ -3516,6 +5268,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 30,
@@ -3529,6 +5288,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 72,
     "width": 36,
@@ -3542,6 +5308,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 30,
@@ -3555,6 +5328,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 75,
     "width": 36,
@@ -3568,6 +5348,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 30,
@@ -3581,6 +5368,13 @@ const Products=[
     "src": "img/Chopper.jpg",
     "feel": "FIRM",
     "level": 8,
+    "layers": [
+      "Super Soft Foam Quilt",
+      "Rubberised Coir",
+      "Expanded Foam",
+      "Rebonded Foam",
+      "Super Soft Foam Quilt"
+    ],
     "size": "Single",
     "length": 78,
     "width": 36,
