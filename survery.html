@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Survey Js Test</title>
+    <link rel='stylesheet'
+        href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css' />
+    <link href="https://surveyjs.azureedge.net/1.1.31/modern.css" type="text/css" rel="stylesheet" />
+    <!-- <link href="https://surveyjs.azureedge.net/1.1.31/survey.css" type="text/css" rel="stylesheet" /> -->
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <div id="surveyElement"></div>
+        <div id="surveyResult"></div>
+    </div>
+
+
+
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/survey-jquery/1.1.31/survey.jquery.min.js'></script>
+
+    <script>
+        Survey
+            .StylesManager
+            .applyTheme("modern");
+        // Survey.defaultBootstrapCss.navigationButton = "btn btn-green";
+
+        var json = {
+            title: "Find Your Perfect Mattress.",
+            pages: [{
+                    questions: [{
+                            type: "text",
+                            name: "name",
+                            title: "Your Name", //isRequired: true,
+                        }, {
+                            type: "text",
+                            name: "email",
+                            title: "Your e-mail", //isRequired: true,
+                        },
+                        {
+                            type: "text",
+                            name: "phone",
+                            title: "Your phone", //isRequired: true,
+                        },
+                        {
+                            type: "text",
+                            name: "address",
+                            title: "Your Address", //isRequired: true,
+                        }
+                    ]
+                },
+                {
+                    questions: [{
+                        type: "checkbox",
+                        name: "size",
+                        title: "What size mattress is needed ?",//isRequired: true,
+                        choices: [
+                         {value:"Single"},
+                         {value:"Double"},
+                         {value:"Queen"},
+                         {value:"King"},]
+                    }]
+                }, {
+                    questions: [{
+                        type: "checkbox",
+                        name: "allSleepers",
+                        title: "How many Sleepers ?",
+                        //isRequired: true,
+                        choices: [{
+                                value: 1,
+                                // visible: false,
+                                // visibleIf: "{size} ='Single'"
+                            },
+                            {
+                                value: 2,
+                                // visible: false,
+                                // visibleIf: "{size} ='Double'"
+                            }, {
+                                value: 3,
+                                // visible: false,
+                                // visibleIf: "{size} ='Queen'"
+                            }, {
+                                value: 4,
+                                // visible: false,
+                                // visibleIf: "{size} ='King'"
+                            }
+                        ]
+                    }]
+                }
+            ]
+        };
+
+        window.survey = new Survey.Model(json);
+
+        survey
+            .onComplete
+            .add(function (result) {
+                document
+                    .querySelector('#surveyResult')
+                    .textContent = "Result JSON:\n" + JSON.stringify(result.data, null, 3);
+            });
+
+        survey.showProgressBar = 'bottom';
+
+        $("#surveyElement").Survey({
+            model: survey
+        });
+    </script>
+</body>
+
+</html>
