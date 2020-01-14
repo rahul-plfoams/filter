@@ -65,7 +65,7 @@ $(document).ready(() => {
     selectLength = [...new Set(filteredImages.map(item => item.length))];
     selectWidth = [...new Set(filteredImages.map(item => item.width))];
     layerTypes=[];
-    filteredImages.filter(item=>item.hasOwnProperty("layers")).forEach(item=>item.layers.forEach(sub=>layerTypes.push(sub)));
+    filteredImages.filter(item=>item.layers.forEach(sub=>layerTypes.push(sub)));
     selectType=[...new Set(layerTypes.sort())];
 
     genHtml(filteredImages);
