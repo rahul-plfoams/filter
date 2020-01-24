@@ -9,12 +9,13 @@
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css' />
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css' />
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/swipejs/2.2.13/style.min.css'/>
   <link rel="shortcut icon" href="img/dr-back-favicon.png" />
   <title>Find your perfect mattress</title>
 </head>
 
 <body>
-  <img class="w-100" src="img/banner.png">
+  <!-- <img class="w-100" src="img/banner.png"> -->
   <div class="container p-0">
     <div id='filters' class="container">
       <form id="formFeed" action="send.php" method="post">
@@ -598,37 +599,37 @@
                       <div class="form-check text-left">
                         <input class="form-check-input" type="checkbox" value="Natural Latex">
                         <label class="form-check-label">
-                        natural latex  
+                          natural latex
                         </label>
                       </div>
                       <div class="form-check text-left">
                         <input class="form-check-input" type="checkbox" value="Memory Foam">
                         <label class="form-check-label">
-                        memory foam
+                          memory foam
                         </label>
                       </div>
                       <div class="form-check text-left">
                         <input class="form-check-input" type="checkbox" value="Rebonded Foam">
                         <label class="form-check-label">
-                        rebonded foam
+                          rebonded foam
                         </label>
                       </div>
                       <div class="form-check text-left">
                         <input class="form-check-input" type="checkbox" value="Pocket Spring">
                         <label class="form-check-label">
-                        pocket spring
+                          pocket spring
                         </label>
                       </div>
                       <div class="form-check text-left">
                         <input class="form-check-input" type="checkbox" value="Bonnell Spring">
                         <label class="form-check-label">
-                        bonnell spring
+                          bonnell spring
                         </label>
                       </div>
                       <div class="form-check text-left">
                         <input class="form-check-input" type="checkbox" value="Rubberised Coir">
                         <label class="form-check-label">
-                        rubberised coir
+                          rubberised coir
                         </label>
                       </div>
                     </div>
@@ -654,73 +655,12 @@
     <script src="js/productlayer.js"></script>
     <script src="js/filter.js"></script>
     <script src="js/selection.js"></script>
+    <script src="js/index.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/swipejs/2.2.13/swipe.js'></script>
+    <style>
+    
+    </style>
     <script>
-      addTofilterMenu = (array, target) => {
-        $(target).empty();
-        array.sort((a, b) => a - b).forEach(item => {
-          $(target).append(`
-  <div class="form-check text-left">
-    <input class="form-check-input" type="checkbox" value="${item}" >
-    <label class="form-check-label">
-      ${item}
-    </label>
-  </div>
-  `);
-        })
-      }
-
-      $("#exampleModal").one("show.bs.modal", () => {
-        addTofilterMenu(selectLength, "#optionLength");
-        addTofilterMenu(selectWidth, "#optionWidth");
-        addTofilterMenu(selectThickness, "#optionThickness");
-        $("#optionRight").children("div").hide();
-        $("#optionLength").show();
-      });
-
-      $("#menuLeft").click(function (event) {
-        $("#optionRight").children("div").hide();
-        $(eval("option" + event.target.dataset.value)).show();
-      });
-      $("[data-dismiss='modal']").click(() => {
-        resetResult();
-        getSelection();
-        arrFilters.length = [...new Set(getVal($("#optionLength input:checked").toArray()))];
-        arrFilters.width = [...new Set(getVal($("#optionWidth input:checked").toArray()))];
-        arrFilters.thickness = [...new Set(getVal($("#optionThickness input:checked").toArray()))];
-        selectedLayers = [...new Set(getVal($("#optionType input:checked").toArray()))];
-        const functionFilters = {
-          price: price => price < sortedLimit[1] && price >= sortedLimit[0],
-          layers: layers => {
-            if (!selectedLayers.length) {
-              return true;
-            } else {
-              for (let i = 0; i < layers.length; i++) {
-                if (selectedLayers.includes(layers[i])) {
-                  return true;
-                }
-              }
-            }
-          }
-        };
-        filteredImages = filterSequence(Products, arrFilters, functionFilters);
-        genHtml(filteredImages.sort((a, b) => a.price - b.price));
-        $(".sortingFilters").show();
-      });
-      $("#sortPrice").click(() => {
-        if ($("#sortPrice").hasClass("fa-sort-amount-up-alt")) {
-          //sort low to high
-          resetResult();
-          genHtml(filteredImages.sort((a, b) => b.price - a.price));
-          $("#sortPrice").removeClass("fa-sort-amount-up-alt").addClass("fa-sort-amount-up");
-          $(".sortingFilters").show();
-        } else {
-          //sort high to low
-          resetResult();
-          genHtml(filteredImages.sort((a, b) => a.price - b.price));
-          $("#sortPrice").removeClass("fa-sort-amount-up").addClass("fa-sort-amount-up-alt");
-          $(".sortingFilters").show();
-        }
-      })
     </script>
   </div>
 </body>
