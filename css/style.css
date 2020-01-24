@@ -111,8 +111,7 @@
       
       html,body
 {
-    width: 100%;
-    height: 100%;
+  
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
@@ -127,6 +126,9 @@ td input{
     padding: 10px;
 }
       
+td.border-dark {
+    padding: 3px;
+}
 
 span{
   font-size:30px;
@@ -144,24 +146,26 @@ span{
     left: 0px;
     width: 90%;
     background-color: transparent;
-    border-radius: 5px;
+    border-radius: 15px;
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
     -ms-transition: all 0.3s ease-out;
     -o-transition: all 0.3s ease-out;
-    border: 2px solid darkslategrey;
-    padding: 5px;
+    border: 2px solid white;
+    padding: 3px;
     margin-left: 5%;
-    font-size: 15px;
+    font-size: 20px;
+    color: white;
+    background-color: #13539a;
 }
 
 
 .checkbox-label input:checked ~ .checkbox-custom {
-    background-color: grey;
-    border-radius: 5px;
+    background-color: #cf1b24;
+    border-radius: 15px;
     opacity:1;
-    border: 2px solid #000;
+    border: 2px solid #fff;
     color: white;
 }
 
@@ -221,7 +225,7 @@ padding: 0px;
 .box-shadow-padding{
 padding: 0px !important;
 border: 2px solid #888888;
-box-shadow: 5px 5px #888888;
+/* box-shadow: 5px 5px #888888; */
 }
 .img-fluid-table {
 max-height: 60px;
@@ -240,7 +244,7 @@ padding: 5px;
 .box-shadow-padding{
 padding: 0px !important;
 border: 2px solid #888888;
-box-shadow: 5px 5px #888888;
+/* box-shadow: 5px 5px #888888; */
 }
 .img-fluid-table {
 max-height: 60px;
@@ -457,5 +461,6 @@ input[type="email"]::-ms-input-placeholder {
 .box-shadow{
   border: 2px solid #888888;
   padding: 25px;
-  box-shadow: 5px 5px #888888;
+  background-color: #f2f2f2;
+  /* box-shadow: 5px 5px #888888; */
 }

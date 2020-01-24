@@ -17,8 +17,9 @@ $(document).ready(() => {
 
   //reset function
   resetResult = () => {
-    $(".sections#productList ul").empty();
+    $(".sections#productList .deepshit").empty();
     $(".sortingFilters").hide();
+    $("#outputNo").text("");
   };
 
   //funtion for single Selection in checkbox
@@ -65,7 +66,7 @@ $(document).ready(() => {
     selectLength = [...new Set(filteredImages.map(item => item.length))];
     selectWidth = [...new Set(filteredImages.map(item => item.width))];
     layerTypes=[];
-    filteredImages.filter(item=>item.layers.forEach(sub=>layerTypes.push(sub)));
+    filteredImages.filter(item=>item.hasOwnProperty("layers")).forEach(item=>item.layers.forEach(sub=>layerTypes.push(sub)));
     selectType=[...new Set(layerTypes.sort())];
 
     genHtml(filteredImages);
@@ -109,15 +110,15 @@ $(document).ready(() => {
     addValuetoDropdown(selectThickness, "#selectThickness");
     addValuetoDropdown(selectLength, "#selectLength");
     addValuetoDropdown(selectWidth, "#selectWidth");
-    html =
+    outputNo =
       filteredImages.length == 0
         ? "No Matches Found"
-        : `${filteredImages.length} results Found<br>`;
+        : `${filteredImages.length} results Found`;
     for (i = 0; i < filteredImages.length; i++) {
       html =
         html +
-        `<li class="grid-products large-boxes"><img src="${filteredImages[i].src}"
-         class="grid-variants">
+        `<div class="p-1"><img src="${filteredImages[i].src}"
+         class="">
           <table class="table table-bordered">
           <tr>
             <td class="border-dark">Size</td>
@@ -128,15 +129,33 @@ $(document).ready(() => {
             <td class="border-dark">${filteredImages[i].thickness}</td>
           </tr>
           <tr>
-          <td class="border-dark">Price</td>
+          <td class="border-dark">MRP</td>
+          <td class="border-dark">&#8377 ${thousands_separators(filteredImages[i].mrp)} 
+          </td>
+          </tr>
+          <tr>
+          <td class="border-dark">Offer Price</td>
           <td class="border-dark">&#8377 ${thousands_separators(filteredImages[i].price)} 
           </td>
           </tr>
+          <tr>
+          <td class="border-dark">Discount</td>
+          <td class="border-dark"> ${filteredImages[i].offer} %
+          </td>
+          </tr>
         </table>
-        
-         </li>`;
+        </div>`;
     }
-    $(".sections#productList ul").append(html);
+    $(".sections#productList .deepshit").append(html);
+    $("#outputNo").text(outputNo);
+     // deep shit
+     deepShit = new Siema({
+      selector: '.deepshit',
+      perPage: 3
+    });
+
+  
+    
   };
   //get values from objects and store in array
   getVal = array => {

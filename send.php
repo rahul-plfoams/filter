@@ -25,7 +25,7 @@ $message='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https:
                 <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="border: 1px solid #cccccc; border-collapse: collapse;">
                     <tr>
                         <td align="center" style="padding: 0; color: #153643; font-size: 28px; font-weight: bold; font-family: Arial, sans-serif;">
-                            <img src="https://plfoams.in/find-your-perfect-mattress/banner.png" alt="dr-back-banner" width="600" height="auto" style="display: block;" />
+                            <img src="https://plfoams.in/find-your-perfect-mattress/img/banner.png" alt="dr-back-banner" width="600" height="auto" style="display: block;" />
                         </td>
                     </tr>
                     <tr>

@@ -1,10 +1,13 @@
 $(()=>{
-const position=$("[class^=checkPositionS]").parents("section").html();
-        const back=$("[class^=checkBackPainS]").parents("section").html();
-        const feel=$("[class^=checkFeelTypeS]").parents("section").html();
-    $("[name='sleepers']").change(()=>{
+  prevHTML=$("#mod").html();
+const position=$("[class^=checkPositionS]").parents(".content").html();
+        const back=$("[class^=checkBackPainS]").parents(".content").html();
+        const feel=$("[class^=checkFeelTypeS]").parents(".content").html();
+        
+    $("[name='sleepers']").on("change",()=>{
         let selection=$("[name='sleepers']:checked").val();
-        $("#mod").html(position+back+feel);
+        $("#mod").html(prevHTML);
+        console.log(prevHTML);
         let positionHtml="",backHtml="",feelHtml="";
         for(let i=1;i<=selection;i++){
             positionHtml+="<tr>"+$(".checkPositionS"+i).parents("tr").html()+"</tr>";

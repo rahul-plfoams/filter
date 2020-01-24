@@ -12,7 +12,7 @@ addTofilterMenu = (array, target) => {
         })
       }
 
-      $("#exampleModal").one("show.bs.modal", () => {
+      $("#exampleModal").on("show.bs.modal", () => {
         addTofilterMenu(selectLength, "#optionLength");
         addTofilterMenu(selectWidth, "#optionWidth");
         addTofilterMenu(selectThickness, "#optionThickness");

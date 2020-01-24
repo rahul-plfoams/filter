@@ -5,13 +5,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 3,
-    "price": 4786,
-    "layers":["Jacquard Fabric","PU Foam Quilt","High Density Foam","PU Foam Quilt"]
+    "price": 3350,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 2,
@@ -19,13 +24,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 3,
-    "price": 4986,
-    "layers":["Jacquard Fabric","PU Foam Quilt","High Density Foam","PU Foam Quilt"]
+    "price": 3490,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 3,
@@ -33,12 +43,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 3,
-    "price": 5185
+    "price": 3629,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 4,
@@ -46,12 +62,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 3,
-    "price": 5863
+    "price": 4104,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 5,
@@ -59,12 +81,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 3,
-    "price": 5743
+    "price": 4020,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 6,
@@ -72,12 +100,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 3,
-    "price": 5983
+    "price": 4188,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 7,
@@ -85,12 +119,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 3,
-    "price": 6222
+    "price": 4355,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 8,
@@ -98,12 +138,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 3,
-    "price": 7036
+    "price": 4925,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 9,
@@ -111,12 +157,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 3,
-    "price": 6701
+    "price": 4690,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 10,
@@ -124,12 +176,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 3,
-    "price": 6980
+    "price": 4886,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 11,
@@ -137,12 +195,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 3,
-    "price": 7259
+    "price": 5081,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 12,
@@ -150,12 +214,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 3,
-    "price": 8208
+    "price": 5745,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 13,
@@ -163,12 +233,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 3,
-    "price": 7658
+    "price": 5360,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 14,
@@ -176,12 +252,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 3,
-    "price": 7977
+    "price": 5583,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 15,
@@ -189,12 +271,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 3,
-    "price": 8296
+    "price": 5807,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 16,
@@ -202,12 +290,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 3,
-    "price": 9381
+    "price": 6566,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 17,
@@ -215,12 +309,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 3,
-    "price": 9572
+    "price": 6700,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 18,
@@ -228,12 +328,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 3,
-    "price": 9971
+    "price": 6979,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 19,
@@ -241,12 +347,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 3,
-    "price": 10370
+    "price": 7259,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 20,
@@ -254,12 +366,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 3,
-    "price": 11726
+    "price": 8208,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 21,
@@ -267,12 +385,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 3,
-    "price": 10530
+    "price": 7371,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 22,
@@ -280,12 +404,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 3,
-    "price": 10968
+    "price": 7677,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 23,
@@ -293,12 +423,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 3,
-    "price": 11407
+    "price": 7984,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 24,
@@ -306,12 +442,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 3,
-    "price": 12899
+    "price": 9029,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 25,
@@ -319,12 +461,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 3,
-    "price": 11487
+    "price": 8040,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 26,
@@ -332,12 +480,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 3,
-    "price": 11965
+    "price": 8375,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 27,
@@ -345,12 +499,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 3,
-    "price": 12444
+    "price": 8710,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 28,
@@ -358,12 +518,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 3,
-    "price": 14071
+    "price": 9849,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 29,
@@ -371,12 +537,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4.5,
-    "price": 6326
+    "price": 4428,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 30,
@@ -384,12 +556,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4.5,
-    "price": 6590
+    "price": 4613,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 31,
@@ -397,12 +575,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4.5,
-    "price": 6853
+    "price": 4797,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 32,
@@ -410,12 +594,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4.5,
-    "price": 7750
+    "price": 5425,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 33,
@@ -423,12 +613,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4.5,
-    "price": 7591
+    "price": 5313,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 34,
@@ -436,12 +632,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4.5,
-    "price": 7908
+    "price": 5535,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 35,
@@ -449,12 +651,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4.5,
-    "price": 8224
+    "price": 5756,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 36,
@@ -462,12 +670,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4.5,
-    "price": 9299
+    "price": 6509,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 37,
@@ -475,12 +689,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4.5,
-    "price": 8857
+    "price": 6199,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 38,
@@ -488,12 +708,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4.5,
-    "price": 9226
+    "price": 6458,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 39,
@@ -501,12 +727,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4.5,
-    "price": 9595
+    "price": 6716,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 40,
@@ -514,12 +746,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4.5,
-    "price": 10849
+    "price": 7594,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 41,
@@ -527,12 +765,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4.5,
-    "price": 10122
+    "price": 7085,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 42,
@@ -540,12 +784,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4.5,
-    "price": 10544
+    "price": 7380,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 43,
@@ -553,12 +803,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4.5,
-    "price": 10965
+    "price": 7675,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 44,
@@ -566,12 +822,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4.5,
-    "price": 12399
+    "price": 8679,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 45,
@@ -579,12 +841,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4.5,
-    "price": 12652
+    "price": 8856,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 46,
@@ -592,12 +860,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4.5,
-    "price": 13180
+    "price": 9226,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 47,
@@ -605,12 +879,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4.5,
-    "price": 13707
+    "price": 9594,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 48,
@@ -618,12 +898,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4.5,
-    "price": 15499
+    "price": 10849,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 49,
@@ -631,12 +917,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4.5,
-    "price": 13918
+    "price": 9742,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 50,
@@ -644,12 +936,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4.5,
-    "price": 14498
+    "price": 10148,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 51,
@@ -657,12 +955,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4.5,
-    "price": 15077
+    "price": 10553,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 52,
@@ -670,12 +974,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4.5,
-    "price": 17049
+    "price": 11934,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 53,
@@ -683,12 +993,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4.5,
-    "price": 15183
+    "price": 10628,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 54,
@@ -696,12 +1012,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4.5,
-    "price": 15815
+    "price": 11070,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 55,
@@ -709,12 +1031,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4.5,
-    "price": 16448
+    "price": 11513,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 56,
@@ -722,12 +1050,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4.5,
-    "price": 18599
+    "price": 13019,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 57,
@@ -735,12 +1069,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 8087
+    "price": 5660,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 58,
@@ -748,12 +1088,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 8424
+    "price": 5896,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 59,
@@ -761,12 +1107,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 8761
+    "price": 6132,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 60,
@@ -774,12 +1126,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 10732
+    "price": 7512,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 61,
@@ -787,12 +1145,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 9704
+    "price": 6792,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 62,
@@ -800,12 +1164,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 10109
+    "price": 7076,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 63,
@@ -813,12 +1183,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 10513
+    "price": 7359,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 64,
@@ -826,12 +1202,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 11888
+    "price": 8321,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 65,
@@ -839,12 +1221,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 11322
+    "price": 7925,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 66,
@@ -852,12 +1240,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 11793
+    "price": 8255,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 67,
@@ -865,12 +1259,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 12265
+    "price": 8585,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 68,
@@ -878,12 +1278,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 13869
+    "price": 9708,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 69,
@@ -891,12 +1297,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 12939
+    "price": 9057,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 70,
@@ -904,12 +1316,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 13478
+    "price": 9434,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 71,
@@ -917,12 +1335,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 14017
+    "price": 9811,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 72,
@@ -930,12 +1354,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 15850
+    "price": 11095,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 73,
@@ -943,12 +1373,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 16174
+    "price": 11321,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 74,
@@ -956,12 +1392,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 16848
+    "price": 11793,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 75,
@@ -969,12 +1411,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 17521
+    "price": 12264,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 76,
@@ -982,12 +1430,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 19813
+    "price": 13869,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 77,
@@ -995,12 +1449,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 17791
+    "price": 12453,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 78,
@@ -1008,12 +1468,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 18532
+    "price": 12972,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 79,
@@ -1021,12 +1487,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 19274
+    "price": 13491,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 80,
@@ -1034,12 +1506,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 21794
+    "price": 15255,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 81,
@@ -1047,12 +1525,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 19408
+    "price": 13585,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 82,
@@ -1060,12 +1544,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 20217
+    "price": 14151,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 83,
@@ -1073,12 +1563,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 21026
+    "price": 14718,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 84,
@@ -1086,12 +1582,18 @@ const Products=[
     "src": "img/tuf puf.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 23775
+    "price": 16642,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 85,
@@ -1099,13 +1601,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 6750,
-    "layers":["Knitted Fabric","PU Foam Quilt","Super Soft Foam","Rebonded Foam","PU Foam Quilt"]
+    "price": 4725,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 86,
@@ -1113,13 +1621,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 7031,
-    "layers":["Knitted Fabric","PU Foam Quilt","Super Soft Foam","Rebonded Foam","PU Foam Quilt"]
+    "price": 4921,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 87,
@@ -1127,12 +1641,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4,
-    "price": 7312
+    "price": 5118,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 88,
@@ -1140,12 +1661,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4,
-    "price": 8268
+    "price": 5787,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 89,
@@ -1153,12 +1681,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4,
-    "price": 8100
+    "price": 5670,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 90,
@@ -1166,12 +1701,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4,
-    "price": 8438
+    "price": 5906,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 91,
@@ -1179,12 +1721,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4,
-    "price": 8775
+    "price": 6142,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 92,
@@ -1192,12 +1741,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4,
-    "price": 9923
+    "price": 6946,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 93,
@@ -1205,12 +1761,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4,
-    "price": 9450
+    "price": 6615,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 94,
@@ -1218,12 +1781,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4,
-    "price": 9844
+    "price": 6890,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 95,
@@ -1231,12 +1801,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4,
-    "price": 10238
+    "price": 7166,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 96,
@@ -1244,12 +1821,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4,
-    "price": 11577
+    "price": 8103,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 97,
@@ -1257,12 +1841,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4,
-    "price": 10800
+    "price": 7560,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 98,
@@ -1270,12 +1861,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4,
-    "price": 11250
+    "price": 7875,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 99,
@@ -1283,12 +1881,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4,
-    "price": 11701
+    "price": 8190,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 100,
@@ -1296,12 +1901,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4,
-    "price": 13231
+    "price": 9261,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 101,
@@ -1309,12 +1921,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4,
-    "price": 13500
+    "price": 9450,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 102,
@@ -1322,12 +1941,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4,
-    "price": 14062
+    "price": 9843,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 103,
@@ -1335,12 +1961,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4,
-    "price": 14625
+    "price": 10237,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 104,
@@ -1348,12 +1981,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4,
-    "price": 16537
+    "price": 11575,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 105,
@@ -1361,12 +2001,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4,
-    "price": 14850
+    "price": 10395,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 106,
@@ -1374,12 +2021,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4,
-    "price": 15470
+    "price": 10829,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 107,
@@ -1387,12 +2041,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4,
-    "price": 16088
+    "price": 11261,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 108,
@@ -1400,12 +2061,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4,
-    "price": 18192
+    "price": 12734,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 109,
@@ -1413,12 +2081,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4,
-    "price": 16200
+    "price": 11340,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 110,
@@ -1426,12 +2101,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4,
-    "price": 16875
+    "price": 11812,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 111,
@@ -1439,12 +2121,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4,
-    "price": 17750
+    "price": 12425,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 112,
@@ -1452,12 +2141,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4,
-    "price": 19845
+    "price": 13891,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 113,
@@ -1465,12 +2161,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 7732
+    "price": 5412,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 114,
@@ -1478,12 +2181,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 8054
+    "price": 5637,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 115,
@@ -1491,12 +2201,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 8377
+    "price": 5863,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 116,
@@ -1504,12 +2221,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 9473
+    "price": 6631,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 117,
@@ -1517,12 +2241,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 9278
+    "price": 6494,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 118,
@@ -1530,12 +2261,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 9665
+    "price": 6765,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 119,
@@ -1543,12 +2281,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 10052
+    "price": 7036,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 120,
@@ -1556,12 +2301,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 11366
+    "price": 7956,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 121,
@@ -1569,12 +2321,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 10825
+    "price": 7577,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 122,
@@ -1582,12 +2341,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 11276
+    "price": 7893,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 123,
@@ -1595,12 +2361,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 11727
+    "price": 8208,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 124,
@@ -1608,12 +2381,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 13261
+    "price": 9282,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 125,
@@ -1621,12 +2401,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 12371
+    "price": 8659,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 126,
@@ -1634,12 +2421,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 12887
+    "price": 9020,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 127,
@@ -1647,12 +2441,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 13402
+    "price": 9381,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 128,
@@ -1660,12 +2461,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 15155
+    "price": 10608,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 129,
@@ -1673,12 +2481,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 15464
+    "price": 10824,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 130,
@@ -1686,12 +2501,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 16109
+    "price": 11276,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 131,
@@ -1699,12 +2521,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 16753
+    "price": 11727,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 132,
@@ -1712,12 +2541,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 18944
+    "price": 13260,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 133,
@@ -1725,12 +2561,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 17010
+    "price": 11907,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 134,
@@ -1738,12 +2581,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 17719
+    "price": 12403,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 135,
@@ -1751,12 +2601,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 18429
+    "price": 12900,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 136,
@@ -1764,12 +2621,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 20839
+    "price": 14587,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 137,
@@ -1777,12 +2641,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 18557
+    "price": 12989,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 138,
@@ -1790,12 +2661,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 19330
+    "price": 13531,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 139,
@@ -1803,12 +2681,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 20103
+    "price": 14072,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 140,
@@ -1816,12 +2701,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 22732
+    "price": 15912,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 141,
@@ -1829,12 +2721,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 8714
+    "price": 6099,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 142,
@@ -1842,12 +2741,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 9076
+    "price": 6353,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 143,
@@ -1855,12 +2761,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 9440
+    "price": 6608,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 144,
@@ -1868,12 +2781,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 10675
+    "price": 7472,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 145,
@@ -1881,12 +2801,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 10457
+    "price": 7319,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 146,
@@ -1894,12 +2821,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 10893
+    "price": 7625,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 147,
@@ -1907,12 +2841,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 11328
+    "price": 7929,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 148,
@@ -1920,12 +2861,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 12809
+    "price": 8966,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 149,
@@ -1933,12 +2881,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 12199
+    "price": 8539,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 150,
@@ -1946,12 +2901,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 12708
+    "price": 8895,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 151,
@@ -1959,12 +2921,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 13216
+    "price": 9251,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 152,
@@ -1972,12 +2941,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 14945
+    "price": 10461,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 153,
@@ -1985,12 +2961,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 13942
+    "price": 9759,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 154,
@@ -1998,12 +2981,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 14524
+    "price": 10166,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 155,
@@ -2011,12 +3001,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 15104
+    "price": 10572,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 156,
@@ -2024,12 +3021,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 17079
+    "price": 11955,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 157,
@@ -2037,12 +3041,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 17428
+    "price": 12199,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 158,
@@ -2050,12 +3061,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 18154
+    "price": 12707,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 159,
@@ -2063,12 +3081,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 18880
+    "price": 13216,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 160,
@@ -2076,12 +3101,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 21349
+    "price": 14944,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 161,
@@ -2089,12 +3121,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 19170
+    "price": 13419,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 162,
@@ -2102,12 +3141,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 19969
+    "price": 13978,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 163,
@@ -2115,12 +3161,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 20768
+    "price": 14537,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 164,
@@ -2128,12 +3181,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 23484
+    "price": 16438,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 165,
@@ -2141,12 +3201,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 20913
+    "price": 14639,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 166,
@@ -2154,12 +3221,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 21785
+    "price": 15249,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 167,
@@ -2167,12 +3241,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 22656
+    "price": 15859,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 168,
@@ -2180,12 +3261,19 @@ const Products=[
     "src": "img/dura bond.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 25619
+    "price": 17933,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Super Soft Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 169,
@@ -2193,12 +3281,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 10268
+    "price": 7187,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 170,
@@ -2206,12 +3301,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 10697
+    "price": 7487,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 171,
@@ -2219,12 +3321,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 11123
+    "price": 7786,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 172,
@@ -2232,12 +3341,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 12577
+    "price": 8803,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 173,
@@ -2245,12 +3361,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 12322
+    "price": 8625,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 174,
@@ -2258,12 +3381,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 12835
+    "price": 8984,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 175,
@@ -2271,12 +3401,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 13349
+    "price": 9344,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 176,
@@ -2284,12 +3421,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 15093
+    "price": 10565,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 177,
@@ -2297,12 +3441,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 14375
+    "price": 10062,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 178,
@@ -2310,12 +3461,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 14974
+    "price": 10481,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 179,
@@ -2323,12 +3481,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 15573
+    "price": 10901,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 180,
@@ -2336,12 +3501,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 17610
+    "price": 12327,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 181,
@@ -2349,12 +3521,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 16429
+    "price": 11500,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 182,
@@ -2362,12 +3541,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 17113
+    "price": 11979,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 183,
@@ -2375,12 +3561,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 17798
+    "price": 12458,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 184,
@@ -2388,12 +3581,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 20126
+    "price": 14088,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 185,
@@ -2401,12 +3601,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 20536
+    "price": 14375,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 186,
@@ -2414,12 +3621,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 21392
+    "price": 14974,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 187,
@@ -2427,12 +3641,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 22248
+    "price": 15573,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 188,
@@ -2440,12 +3661,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 25157
+    "price": 17609,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 189,
@@ -2453,12 +3681,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 22590
+    "price": 15813,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 190,
@@ -2466,12 +3701,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 23531
+    "price": 16471,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 191,
@@ -2479,12 +3721,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 24472
+    "price": 17130,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 192,
@@ -2492,12 +3741,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 27673
+    "price": 19371,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 193,
@@ -2505,12 +3761,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 24643
+    "price": 17250,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 194,
@@ -2518,12 +3781,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 25671
+    "price": 17969,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 195,
@@ -2531,12 +3801,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 26696
+    "price": 18687,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 196,
@@ -2544,12 +3821,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 30187
+    "price": 21130,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 197,
@@ -2557,12 +3841,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 12322
+    "price": 8625,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 198,
@@ -2570,12 +3861,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 12835
+    "price": 8984,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 199,
@@ -2583,12 +3881,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 13350
+    "price": 9345,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 200,
@@ -2596,12 +3901,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 15095
+    "price": 10566,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 201,
@@ -2609,12 +3921,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 14787
+    "price": 10350,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 202,
@@ -2622,12 +3941,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 15403
+    "price": 10782,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 203,
@@ -2635,12 +3961,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 16019
+    "price": 11213,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 204,
@@ -2648,12 +3981,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 18114
+    "price": 12679,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 205,
@@ -2661,12 +4001,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 17251
+    "price": 12075,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 206,
@@ -2674,12 +4021,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 17970
+    "price": 12579,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 207,
@@ -2687,12 +4041,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 18688
+    "price": 13081,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 208,
@@ -2700,12 +4061,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 21132
+    "price": 14792,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 209,
@@ -2713,12 +4081,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 19715
+    "price": 13800,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 210,
@@ -2726,12 +4101,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 20536
+    "price": 14375,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 211,
@@ -2739,12 +4121,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 21358
+    "price": 14950,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 212,
@@ -2752,12 +4141,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 24151
+    "price": 16905,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 213,
@@ -2765,12 +4161,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 24644
+    "price": 17250,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 214,
@@ -2778,12 +4181,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 25672
+    "price": 17970,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 215,
@@ -2791,12 +4201,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 26697
+    "price": 18687,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 216,
@@ -2804,12 +4221,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 30188
+    "price": 21131,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 217,
@@ -2817,12 +4241,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 27109
+    "price": 18976,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 218,
@@ -2830,12 +4261,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 28238
+    "price": 19766,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 219,
@@ -2843,12 +4281,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 29368
+    "price": 20557,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 220,
@@ -2856,12 +4301,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 33209
+    "price": 23246,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 221,
@@ -2869,12 +4321,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 29574
+    "price": 20701,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 222,
@@ -2882,12 +4341,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 30805
+    "price": 21563,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 223,
@@ -2895,12 +4361,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 32037
+    "price": 22425,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 224,
@@ -2908,12 +4381,19 @@ const Products=[
     "src": "img/natura bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 36227
+    "price": 25358,
+    "layers": [
+      "Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 225,
@@ -2921,12 +4401,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 10268
+    "price": 7187,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 226,
@@ -2934,12 +4421,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 10697
+    "price": 7487,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 227,
@@ -2947,12 +4441,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 11123
+    "price": 7786,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 228,
@@ -2960,12 +4461,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 12577
+    "price": 8803,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 229,
@@ -2973,12 +4481,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 12322
+    "price": 8625,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 230,
@@ -2986,12 +4501,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 12835
+    "price": 8984,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 231,
@@ -2999,12 +4521,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 13349
+    "price": 9344,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 232,
@@ -3012,12 +4541,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 15093
+    "price": 10565,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 233,
@@ -3025,12 +4561,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 14375
+    "price": 10062,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 234,
@@ -3038,12 +4581,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 14974
+    "price": 10481,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 235,
@@ -3051,12 +4601,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 15573
+    "price": 10901,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 236,
@@ -3064,12 +4621,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 17610
+    "price": 12327,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 237,
@@ -3077,12 +4641,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 16429
+    "price": 11500,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 238,
@@ -3090,12 +4661,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 17113
+    "price": 11979,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 239,
@@ -3103,12 +4681,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 17798
+    "price": 12458,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 240,
@@ -3116,12 +4701,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 20126
+    "price": 14088,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 241,
@@ -3129,12 +4721,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 20536
+    "price": 14375,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 242,
@@ -3142,12 +4741,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 21392
+    "price": 14974,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 243,
@@ -3155,12 +4761,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 22248
+    "price": 15573,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 244,
@@ -3168,12 +4781,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 25157
+    "price": 17609,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 245,
@@ -3181,12 +4801,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 22590
+    "price": 15813,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 246,
@@ -3194,12 +4821,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 23531
+    "price": 16471,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 247,
@@ -3207,12 +4841,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 24472
+    "price": 17130,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 248,
@@ -3220,12 +4861,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 27673
+    "price": 19371,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 249,
@@ -3233,12 +4881,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 24643
+    "price": 17250,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 250,
@@ -3246,12 +4901,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 25671
+    "price": 17969,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 251,
@@ -3259,12 +4921,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 26696
+    "price": 18687,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 252,
@@ -3272,12 +4941,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 30187
+    "price": 21130,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 253,
@@ -3285,12 +4961,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 12322
+    "price": 8625,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 254,
@@ -3298,12 +4981,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 12835
+    "price": 8984,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 255,
@@ -3311,12 +5001,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 13350
+    "price": 9345,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 256,
@@ -3324,12 +5021,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 15095
+    "price": 10566,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 257,
@@ -3337,12 +5041,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 14787
+    "price": 10350,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 258,
@@ -3350,12 +5061,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 15403
+    "price": 10782,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 259,
@@ -3363,12 +5081,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 16019
+    "price": 11213,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 260,
@@ -3376,12 +5101,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 18114
+    "price": 12679,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 261,
@@ -3389,12 +5121,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 17251
+    "price": 12075,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 262,
@@ -3402,12 +5141,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 17970
+    "price": 12579,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 263,
@@ -3415,12 +5161,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 18688
+    "price": 13081,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 264,
@@ -3428,12 +5181,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 21132
+    "price": 14792,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 265,
@@ -3441,12 +5201,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 19715
+    "price": 13800,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 266,
@@ -3454,12 +5221,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 20536
+    "price": 14375,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 267,
@@ -3467,12 +5241,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 21358
+    "price": 14950,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 268,
@@ -3480,12 +5261,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 24151
+    "price": 16905,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 269,
@@ -3493,12 +5281,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 24644
+    "price": 17250,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 270,
@@ -3506,12 +5301,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 25672
+    "price": 17970,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 271,
@@ -3519,12 +5321,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 26697
+    "price": 18687,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 272,
@@ -3532,12 +5341,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 30188
+    "price": 21131,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 273,
@@ -3545,12 +5361,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 27109
+    "price": 18976,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 274,
@@ -3558,12 +5381,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 28238
+    "price": 19766,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 275,
@@ -3571,12 +5401,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 29368
+    "price": 20557,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 276,
@@ -3584,12 +5421,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 33209
+    "price": 23246,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 277,
@@ -3597,12 +5441,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 29574
+    "price": 20701,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 278,
@@ -3610,12 +5461,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 30805
+    "price": 21563,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 279,
@@ -3623,12 +5481,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 32037
+    "price": 22425,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 280,
@@ -3636,12 +5501,19 @@ const Products=[
     "src": "img/luxury bond.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 36227
+    "price": 25358,
+    "layers": [
+      "Knitted Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Rebonded Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 281,
@@ -3649,12 +5521,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 9758
+    "price": 6830,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 282,
@@ -3662,12 +5541,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 10166
+    "price": 7116,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 283,
@@ -3675,12 +5561,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 10571
+    "price": 7399,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 284,
@@ -3688,12 +5581,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 11954
+    "price": 8367,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 285,
@@ -3701,12 +5601,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 11711
+    "price": 8197,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 286,
@@ -3714,12 +5621,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 12199
+    "price": 8539,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 287,
@@ -3727,12 +5641,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 12686
+    "price": 8880,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 288,
@@ -3740,12 +5661,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 14345
+    "price": 10041,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 289,
@@ -3753,12 +5681,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 13663
+    "price": 9564,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 290,
@@ -3766,12 +5701,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 14232
+    "price": 9962,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 291,
@@ -3779,12 +5721,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 14801
+    "price": 10360,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 292,
@@ -3792,12 +5741,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 16737
+    "price": 11715,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 293,
@@ -3805,12 +5761,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 15614
+    "price": 10929,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 294,
@@ -3818,12 +5781,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 16265
+    "price": 11385,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 295,
@@ -3831,12 +5801,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 16916
+    "price": 11841,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 296,
@@ -3844,12 +5821,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 19128
+    "price": 13389,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 297,
@@ -3857,12 +5841,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 19518
+    "price": 13662,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 298,
@@ -3870,12 +5861,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 20331
+    "price": 14231,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 299,
@@ -3883,12 +5881,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 21144
+    "price": 14800,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 300,
@@ -3896,12 +5901,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 23909
+    "price": 16736,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 301,
@@ -3909,12 +5921,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 21470
+    "price": 15029,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 302,
@@ -3922,12 +5941,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 22364
+    "price": 15654,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 303,
@@ -3935,12 +5961,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 23259
+    "price": 16281,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 304,
@@ -3948,12 +5981,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 26300
+    "price": 18410,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 305,
@@ -3961,12 +6001,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 23421
+    "price": 16394,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 306,
@@ -3974,12 +6021,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 24397
+    "price": 17077,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 307,
@@ -3987,12 +6041,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 25373
+    "price": 17761,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 308,
@@ -4000,12 +6061,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 28690
+    "price": 20083,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 309,
@@ -4013,12 +6081,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 11711
+    "price": 8197,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 310,
@@ -4026,12 +6101,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 12199
+    "price": 8539,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 311,
@@ -4039,12 +6121,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 12687
+    "price": 8880,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 312,
@@ -4052,12 +6141,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 14347
+    "price": 10042,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 313,
@@ -4065,12 +6161,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 14053
+    "price": 9837,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 314,
@@ -4078,12 +6181,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 14639
+    "price": 10247,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 315,
@@ -4091,12 +6201,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 15224
+    "price": 10656,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 316,
@@ -4104,12 +6221,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 17215
+    "price": 12050,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 317,
@@ -4117,12 +6241,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 16396
+    "price": 11477,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 318,
@@ -4130,12 +6261,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 17079
+    "price": 11955,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 319,
@@ -4143,12 +6281,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 17761
+    "price": 12432,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 320,
@@ -4156,12 +6301,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 20084
+    "price": 14058,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 321,
@@ -4169,12 +6321,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 18738
+    "price": 13116,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 322,
@@ -4182,12 +6341,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 19518
+    "price": 13662,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 323,
@@ -4195,12 +6361,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 20300
+    "price": 14210,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 324,
@@ -4208,12 +6381,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 22954
+    "price": 16067,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 325,
@@ -4221,12 +6401,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 23422
+    "price": 16395,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 326,
@@ -4234,12 +6421,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 24399
+    "price": 17079,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 327,
@@ -4247,12 +6441,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 25374
+    "price": 17761,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 328,
@@ -4260,12 +6461,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 28692
+    "price": 20084,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 329,
@@ -4273,12 +6481,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 25764
+    "price": 18034,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 330,
@@ -4286,12 +6501,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 26838
+    "price": 18786,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 331,
@@ -4299,12 +6521,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 27912
+    "price": 19538,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 332,
@@ -4312,12 +6541,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 31562
+    "price": 22093,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 333,
@@ -4325,12 +6561,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 28107
+    "price": 19674,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 334,
@@ -4338,12 +6581,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 29278
+    "price": 20494,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 335,
@@ -4351,12 +6601,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 30449
+    "price": 21314,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 336,
@@ -4364,12 +6621,19 @@ const Products=[
     "src": "img/memory bliss.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 34431
+    "price": 24101,
+    "layers": [
+      "High GSM Premium fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 337,
@@ -4377,12 +6641,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 6670
+    "price": 4669,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 338,
@@ -4390,12 +6662,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 6948
+    "price": 4863,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 339,
@@ -4403,12 +6683,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4,
-    "price": 7226
+    "price": 5058,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 340,
@@ -4416,12 +6704,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4,
-    "price": 8171
+    "price": 5719,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 341,
@@ -4429,12 +6725,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4,
-    "price": 8004
+    "price": 5602,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 342,
@@ -4442,12 +6746,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4,
-    "price": 8338
+    "price": 5836,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 343,
@@ -4455,12 +6767,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4,
-    "price": 8671
+    "price": 6069,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 344,
@@ -4468,12 +6788,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4,
-    "price": 9805
+    "price": 6863,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 345,
@@ -4481,12 +6809,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4,
-    "price": 9338
+    "price": 6536,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 346,
@@ -4494,12 +6830,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4,
-    "price": 9727
+    "price": 6808,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 347,
@@ -4507,12 +6851,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4,
-    "price": 10116
+    "price": 7081,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 348,
@@ -4520,12 +6872,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4,
-    "price": 11439
+    "price": 8007,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 349,
@@ -4533,12 +6893,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4,
-    "price": 10672
+    "price": 7470,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 350,
@@ -4546,12 +6914,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4,
-    "price": 11117
+    "price": 7781,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 351,
@@ -4559,12 +6935,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4,
-    "price": 11562
+    "price": 8093,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 352,
@@ -4572,12 +6956,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4,
-    "price": 13073
+    "price": 9151,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 353,
@@ -4585,12 +6977,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4,
-    "price": 13340
+    "price": 9338,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 354,
@@ -4598,12 +6998,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4,
-    "price": 13896
+    "price": 9727,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 355,
@@ -4611,12 +7019,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4,
-    "price": 14452
+    "price": 10116,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 356,
@@ -4624,12 +7040,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4,
-    "price": 16342
+    "price": 11439,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 357,
@@ -4637,12 +7061,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4,
-    "price": 14674
+    "price": 10271,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 358,
@@ -4650,12 +7082,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4,
-    "price": 15286
+    "price": 10700,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 359,
@@ -4663,12 +7103,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4,
-    "price": 15897
+    "price": 11127,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 360,
@@ -4676,12 +7124,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4,
-    "price": 17976
+    "price": 12583,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 361,
@@ -4689,12 +7145,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4,
-    "price": 16008
+    "price": 11205,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 362,
@@ -4702,12 +7166,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4,
-    "price": 16675
+    "price": 11672,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 363,
@@ -4715,12 +7187,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4,
-    "price": 17342
+    "price": 12139,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 364,
@@ -4728,12 +7208,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4,
-    "price": 19610
+    "price": 13727,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 365,
@@ -4741,12 +7229,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 7640
+    "price": 5348,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 366,
@@ -4754,12 +7250,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 7959
+    "price": 5571,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 367,
@@ -4767,12 +7271,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 8277
+    "price": 5793,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 368,
@@ -4780,12 +7292,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 9359
+    "price": 6551,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 369,
@@ -4793,12 +7313,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 9168
+    "price": 6417,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 370,
@@ -4806,12 +7334,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 9550
+    "price": 6685,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 371,
@@ -4819,12 +7355,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 9932
+    "price": 6952,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 372,
@@ -4832,12 +7376,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 11231
+    "price": 7861,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 373,
@@ -4845,12 +7397,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 10696
+    "price": 7487,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 374,
@@ -4858,12 +7418,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 11142
+    "price": 7799,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 375,
@@ -4871,12 +7439,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 11158
+    "price": 7810,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 376,
@@ -4884,12 +7460,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 13103
+    "price": 9172,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 377,
@@ -4897,12 +7481,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 12225
+    "price": 8557,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 378,
@@ -4910,12 +7502,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 12734
+    "price": 8913,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 379,
@@ -4923,12 +7523,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 13243
+    "price": 9270,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 380,
@@ -4936,12 +7544,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 14975
+    "price": 10482,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 381,
@@ -4949,12 +7565,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 15281
+    "price": 10696,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 382,
@@ -4962,12 +7586,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 15917
+    "price": 11141,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 383,
@@ -4975,12 +7607,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 16554
+    "price": 11587,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 384,
@@ -4988,12 +7628,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 18719
+    "price": 13103,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 385,
@@ -5001,12 +7649,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 16809
+    "price": 11766,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 386,
@@ -5014,12 +7670,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 17509
+    "price": 12256,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 387,
@@ -5027,12 +7691,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 18209
+    "price": 12746,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 388,
@@ -5040,12 +7712,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 20591
+    "price": 14413,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 389,
@@ -5053,12 +7733,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 18337
+    "price": 12835,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 390,
@@ -5066,12 +7754,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 19101
+    "price": 13370,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 391,
@@ -5079,12 +7775,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 19865
+    "price": 13905,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 392,
@@ -5092,12 +7796,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 22463
+    "price": 15724,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 393,
@@ -5105,12 +7817,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 8611
+    "price": 6027,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 394,
@@ -5118,12 +7838,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 8969
+    "price": 6278,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 395,
@@ -5131,12 +7859,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 9328
+    "price": 6529,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 396,
@@ -5144,12 +7880,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 10548
+    "price": 7383,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 397,
@@ -5157,12 +7901,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 10333
+    "price": 7233,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 398,
@@ -5170,12 +7922,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 10763
+    "price": 7534,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 399,
@@ -5183,12 +7943,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 11194
+    "price": 7835,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 400,
@@ -5196,12 +7964,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 12657
+    "price": 8859,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 401,
@@ -5209,12 +7985,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 12055
+    "price": 8438,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 402,
@@ -5222,12 +8006,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 12557
+    "price": 8789,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 403,
@@ -5235,12 +8027,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 13059
+    "price": 9141,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 404,
@@ -5248,12 +8048,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 14676
+    "price": 10273,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 405,
@@ -5261,12 +8069,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 13777
+    "price": 9643,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 406,
@@ -5274,12 +8090,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 14351
+    "price": 10045,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 407,
@@ -5287,12 +8111,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 14925
+    "price": 10447,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 408,
@@ -5300,12 +8132,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 16877
+    "price": 11813,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 409,
@@ -5313,12 +8153,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 17221
+    "price": 12054,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 410,
@@ -5326,12 +8174,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 17939
+    "price": 12557,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 411,
@@ -5339,12 +8195,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 18656
+    "price": 13059,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 412,
@@ -5352,12 +8216,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 21096
+    "price": 14767,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 413,
@@ -5365,12 +8237,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 18943
+    "price": 13260,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 414,
@@ -5378,12 +8258,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 19732
+    "price": 13812,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 415,
@@ -5391,12 +8279,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 20522
+    "price": 14365,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 416,
@@ -5404,12 +8300,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 23205
+    "price": 16243,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 417,
@@ -5417,12 +8321,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 20665
+    "price": 14465,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 418,
@@ -5430,12 +8342,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 21526
+    "price": 15068,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 419,
@@ -5443,12 +8363,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 22387
+    "price": 15670,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 420,
@@ -5456,12 +8384,20 @@ const Products=[
     "src": "img/bliss line.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 25315
+    "price": 17720,
+    "layers": [
+      "High GSM Premium fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "High Density Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 421,
@@ -5469,12 +8405,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 10005
+    "price": 7003,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 422,
@@ -5482,12 +8426,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 10402
+    "price": 7281,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 423,
@@ -5495,12 +8447,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4,
-    "price": 10839
+    "price": 7587,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 424,
@@ -5508,12 +8468,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4,
-    "price": 12256
+    "price": 8579,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 425,
@@ -5521,12 +8489,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4,
-    "price": 12006
+    "price": 8404,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 426,
@@ -5534,12 +8510,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4,
-    "price": 12506
+    "price": 8754,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 427,
@@ -5547,12 +8531,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4,
-    "price": 13007
+    "price": 9104,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 428,
@@ -5560,12 +8552,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4,
-    "price": 14708
+    "price": 10295,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 429,
@@ -5573,12 +8573,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4,
-    "price": 14007
+    "price": 9804,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 430,
@@ -5586,12 +8594,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4,
-    "price": 14591
+    "price": 10213,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 431,
@@ -5599,12 +8615,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4,
-    "price": 15175
+    "price": 10622,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 432,
@@ -5612,12 +8636,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4,
-    "price": 17159
+    "price": 12011,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 433,
@@ -5625,12 +8657,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4,
-    "price": 16008
+    "price": 11205,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 434,
@@ -5638,12 +8678,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4,
-    "price": 16675
+    "price": 11672,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 435,
@@ -5651,12 +8699,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4,
-    "price": 17342
+    "price": 12139,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 436,
@@ -5664,12 +8720,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4,
-    "price": 19610
+    "price": 13727,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 437,
@@ -5677,12 +8741,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4,
-    "price": 20010
+    "price": 14007,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 438,
@@ -5690,12 +8762,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4,
-    "price": 20844
+    "price": 14590,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 439,
@@ -5703,12 +8783,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4,
-    "price": 21678
+    "price": 15174,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 440,
@@ -5716,12 +8804,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4,
-    "price": 24513
+    "price": 17159,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 441,
@@ -5729,12 +8825,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4,
-    "price": 22011
+    "price": 15407,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 442,
@@ -5742,12 +8846,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4,
-    "price": 22929
+    "price": 16050,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 443,
@@ -5755,12 +8867,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4,
-    "price": 23846
+    "price": 16692,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 444,
@@ -5768,12 +8888,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4,
-    "price": 26964
+    "price": 18874,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 445,
@@ -5781,12 +8909,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4,
-    "price": 24012
+    "price": 16808,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 446,
@@ -5794,12 +8930,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4,
-    "price": 25013
+    "price": 17509,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 447,
@@ -5807,12 +8951,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4,
-    "price": 26013
+    "price": 18209,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 448,
@@ -5820,12 +8972,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4,
-    "price": 29415
+    "price": 20590,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 449,
@@ -5833,12 +8993,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 11218
+    "price": 7852,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 450,
@@ -5846,12 +9014,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 11685
+    "price": 8179,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 451,
@@ -5859,12 +9035,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 12153
+    "price": 8507,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 452,
@@ -5872,12 +9056,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 13742
+    "price": 9619,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 453,
@@ -5885,12 +9077,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 13462
+    "price": 9423,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 454,
@@ -5898,12 +9098,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 14022
+    "price": 9815,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 455,
@@ -5911,12 +9119,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 14583
+    "price": 10208,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 456,
@@ -5924,12 +9140,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 16490
+    "price": 11543,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 457,
@@ -5937,12 +9161,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 15705
+    "price": 10993,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 458,
@@ -5950,12 +9182,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 16359
+    "price": 11451,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 459,
@@ -5963,12 +9203,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 17014
+    "price": 11909,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 460,
@@ -5976,12 +9224,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 19239
+    "price": 13467,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 461,
@@ -5989,12 +9245,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 17949
+    "price": 12564,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 462,
@@ -6002,12 +9266,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 18697
+    "price": 13087,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 463,
@@ -6015,12 +9287,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 19444
+    "price": 13610,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 464,
@@ -6028,12 +9308,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 21987
+    "price": 15390,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 465,
@@ -6041,12 +9329,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 22436
+    "price": 15705,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 466,
@@ -6054,12 +9350,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 23371
+    "price": 16359,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 467,
@@ -6067,12 +9371,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 24306
+    "price": 17014,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 468,
@@ -6080,12 +9392,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 27484
+    "price": 19238,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 469,
@@ -6093,12 +9413,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 24679
+    "price": 17275,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 470,
@@ -6106,12 +9434,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 25708
+    "price": 17995,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 471,
@@ -6119,12 +9455,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 26736
+    "price": 18715,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 472,
@@ -6132,12 +9476,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 30232
+    "price": 21162,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 473,
@@ -6145,12 +9497,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 26923
+    "price": 18846,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 474,
@@ -6158,12 +9518,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 28045
+    "price": 19631,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 475,
@@ -6171,12 +9539,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 29167
+    "price": 20416,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 476,
@@ -6184,12 +9560,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 32981
+    "price": 23086,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 477,
@@ -6197,12 +9581,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 12431
+    "price": 8701,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 478,
@@ -6210,12 +9602,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 12949
+    "price": 9064,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 479,
@@ -6223,12 +9623,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 13467
+    "price": 9426,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 480,
@@ -6236,12 +9644,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 15228
+    "price": 10659,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 481,
@@ -6249,12 +9665,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 14917
+    "price": 10441,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 482,
@@ -6262,12 +9686,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 15538
+    "price": 10876,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 483,
@@ -6275,12 +9707,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 16160
+    "price": 11312,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 484,
@@ -6288,12 +9728,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 18273
+    "price": 12791,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 485,
@@ -6301,12 +9749,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 17403
+    "price": 12182,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 486,
@@ -6314,12 +9770,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 18128
+    "price": 12689,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 487,
@@ -6327,12 +9791,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 18853
+    "price": 13197,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 488,
@@ -6340,12 +9812,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 21319
+    "price": 14923,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 489,
@@ -6353,12 +9833,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 19889
+    "price": 13922,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 490,
@@ -6366,12 +9854,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 20718
+    "price": 14502,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 491,
@@ -6379,12 +9875,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 21547
+    "price": 15082,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 492,
@@ -6392,12 +9896,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 24364
+    "price": 17054,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 493,
@@ -6405,12 +9917,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 24861
+    "price": 17402,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 494,
@@ -6418,12 +9938,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 25897
+    "price": 18127,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 495,
@@ -6431,12 +9959,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 26933
+    "price": 18853,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 496,
@@ -6444,12 +9980,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 30455
+    "price": 21318,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 497,
@@ -6457,12 +10001,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 27348
+    "price": 19143,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 498,
@@ -6470,12 +10022,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 28487
+    "price": 19940,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 499,
@@ -6483,12 +10043,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 29626
+    "price": 20738,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 500,
@@ -6496,12 +10064,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 33501
+    "price": 23450,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 501,
@@ -6509,12 +10085,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 29834
+    "price": 20883,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 502,
@@ -6522,12 +10106,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 31077
+    "price": 21753,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 503,
@@ -6535,12 +10127,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 32320
+    "price": 22624,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 504,
@@ -6548,12 +10148,20 @@ const Products=[
     "src": "img/body line.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 36546
+    "price": 25582,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 505,
@@ -6561,12 +10169,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 10672
+    "price": 7470,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 506,
@@ -6574,12 +10191,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 11117
+    "price": 7781,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 507,
@@ -6587,12 +10213,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 11561
+    "price": 8092,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 508,
@@ -6600,12 +10235,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 13073
+    "price": 9151,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 509,
@@ -6613,12 +10257,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 12807
+    "price": 8964,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 510,
@@ -6626,12 +10279,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 13340
+    "price": 9338,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 511,
@@ -6639,12 +10301,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 13874
+    "price": 9711,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 512,
@@ -6652,12 +10323,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 15688
+    "price": 10981,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 513,
@@ -6665,12 +10345,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 14941
+    "price": 10458,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 514,
@@ -6678,12 +10367,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 15563
+    "price": 10894,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 515,
@@ -6691,12 +10389,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 16187
+    "price": 11330,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 516,
@@ -6704,12 +10411,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 18303
+    "price": 12812,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 517,
@@ -6717,12 +10433,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 17076
+    "price": 11953,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 518,
@@ -6730,12 +10455,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 17787
+    "price": 12450,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 519,
@@ -6743,12 +10477,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 18498
+    "price": 12948,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 520,
@@ -6756,12 +10499,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 20917
+    "price": 14641,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 521,
@@ -6769,12 +10521,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 21344
+    "price": 14940,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 522,
@@ -6782,12 +10543,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 22233
+    "price": 15563,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 523,
@@ -6795,12 +10565,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 23124
+    "price": 16186,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 524,
@@ -6808,12 +10587,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 26147
+    "price": 18302,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 525,
@@ -6821,12 +10609,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 23479
+    "price": 16435,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 526,
@@ -6834,12 +10631,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 24458
+    "price": 17120,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 527,
@@ -6847,12 +10653,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 25435
+    "price": 17804,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 528,
@@ -6860,12 +10675,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 28761
+    "price": 20132,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 529,
@@ -6873,12 +10697,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 25613
+    "price": 17929,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 530,
@@ -6886,12 +10719,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 26681
+    "price": 18676,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 531,
@@ -6899,12 +10741,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 27748
+    "price": 19423,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 532,
@@ -6912,12 +10763,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 31376
+    "price": 21963,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 533,
@@ -6925,12 +10785,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 11885
+    "price": 8319,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 534,
@@ -6938,12 +10807,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 12380
+    "price": 8666,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 535,
@@ -6951,12 +10829,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 12876
+    "price": 9013,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 536,
@@ -6964,12 +10851,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 14560
+    "price": 10192,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 537,
@@ -6977,12 +10873,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 14262
+    "price": 9983,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 538,
@@ -6990,12 +10895,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 14856
+    "price": 10399,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 539,
@@ -7003,12 +10917,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 15450
+    "price": 10815,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 540,
@@ -7016,12 +10939,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 17471
+    "price": 12229,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 541,
@@ -7029,12 +10961,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 16639
+    "price": 11647,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 542,
@@ -7042,12 +10983,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 17333
+    "price": 12133,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 543,
@@ -7055,12 +11005,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 18025
+    "price": 12617,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 544,
@@ -7068,12 +11027,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 20382
+    "price": 14267,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 545,
@@ -7081,12 +11049,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 19016
+    "price": 13311,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 546,
@@ -7094,12 +11071,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 19808
+    "price": 13865,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 547,
@@ -7107,12 +11093,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 20601
+    "price": 14420,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 548,
@@ -7120,12 +11115,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 23295
+    "price": 16306,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 549,
@@ -7133,12 +11137,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 23770
+    "price": 16639,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 550,
@@ -7146,12 +11159,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 24761
+    "price": 17332,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 551,
@@ -7159,12 +11181,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 25750
+    "price": 18025,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 552,
@@ -7172,12 +11203,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 29118
+    "price": 20382,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 553,
@@ -7185,12 +11225,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 26147
+    "price": 18302,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 554,
@@ -7198,12 +11247,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 27236
+    "price": 19065,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 555,
@@ -7211,12 +11269,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 28326
+    "price": 19828,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 556,
@@ -7224,12 +11291,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 32030
+    "price": 22421,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 557,
@@ -7237,12 +11313,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 28524
+    "price": 19966,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 558,
@@ -7250,12 +11335,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 29712
+    "price": 20798,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 559,
@@ -7263,12 +11357,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 30901
+    "price": 21630,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 560,
@@ -7276,12 +11379,21 @@ const Products=[
     "src": "img/duet.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 34942
+    "price": 24459,
+    "layers": [
+      "Viscose fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 561,
@@ -7289,12 +11401,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 17741
+    "price": 12418,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 562,
@@ -7302,12 +11423,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 18480
+    "price": 12936,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 563,
@@ -7315,12 +11445,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 19219
+    "price": 13453,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 564,
@@ -7328,12 +11467,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 21732
+    "price": 15212,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 565,
@@ -7341,12 +11489,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 21289
+    "price": 14902,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 566,
@@ -7354,12 +11511,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 22176
+    "price": 15523,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 567,
@@ -7367,12 +11533,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 23063
+    "price": 16144,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 568,
@@ -7380,12 +11555,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 26079
+    "price": 18255,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 569,
@@ -7393,12 +11577,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 24837
+    "price": 17385,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 570,
@@ -7406,12 +11599,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 25872
+    "price": 18110,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 571,
@@ -7419,12 +11621,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 26907
+    "price": 18834,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 572,
@@ -7432,12 +11643,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 30425
+    "price": 21297,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 573,
@@ -7445,12 +11665,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 28385
+    "price": 19869,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 574,
@@ -7458,12 +11687,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 29568
+    "price": 20697,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 575,
@@ -7471,12 +11709,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 30751
+    "price": 21525,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 576,
@@ -7484,12 +11731,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 34772
+    "price": 24340,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 577,
@@ -7497,12 +11753,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 35482
+    "price": 24837,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 578,
@@ -7510,12 +11775,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 36960
+    "price": 25872,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 579,
@@ -7523,12 +11797,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 38438
+    "price": 26906,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 580,
@@ -7536,12 +11819,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 43465
+    "price": 30425,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 581,
@@ -7549,12 +11841,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 39030
+    "price": 27321,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 582,
@@ -7562,12 +11863,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 40656
+    "price": 28459,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 583,
@@ -7575,12 +11885,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 42282
+    "price": 29597,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 584,
@@ -7588,12 +11907,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 47811
+    "price": 33467,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 585,
@@ -7601,12 +11929,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 42578
+    "price": 29804,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 586,
@@ -7614,12 +11951,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 44352
+    "price": 31046,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 587,
@@ -7627,12 +11973,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 46126
+    "price": 32288,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 588,
@@ -7640,12 +11995,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 52158
+    "price": 36510,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 589,
@@ -7653,12 +12017,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 20051
+    "price": 14035,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 590,
@@ -7666,12 +12039,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 20886
+    "price": 14620,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 591,
@@ -7679,12 +12061,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 21722
+    "price": 15205,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 592,
@@ -7692,12 +12083,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 24562
+    "price": 17193,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 593,
@@ -7705,12 +12105,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 24061
+    "price": 16842,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 594,
@@ -7718,12 +12127,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 25064
+    "price": 17544,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 595,
@@ -7731,12 +12149,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 26066
+    "price": 18246,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 596,
@@ -7744,12 +12171,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 29475
+    "price": 20632,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 597,
@@ -7757,12 +12193,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 28071
+    "price": 19649,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 598,
@@ -7770,12 +12215,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 29242
+    "price": 20469,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 599,
@@ -7783,12 +12237,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 30410
+    "price": 21287,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 600,
@@ -7796,12 +12259,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 34387
+    "price": 24070,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 601,
@@ -7809,12 +12281,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 32081
+    "price": 22456,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 602,
@@ -7822,12 +12303,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 33418
+    "price": 23392,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 603,
@@ -7835,12 +12325,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 34755
+    "price": 24328,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 604,
@@ -7848,12 +12347,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 39300
+    "price": 27510,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 605,
@@ -7861,12 +12369,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 40102
+    "price": 28071,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 606,
@@ -7874,12 +12391,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 41773
+    "price": 29241,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 607,
@@ -7887,12 +12413,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 43443
+    "price": 30410,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 608,
@@ -7900,12 +12435,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 49124
+    "price": 34386,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 609,
@@ -7913,12 +12457,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 44112
+    "price": 30878,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 610,
@@ -7926,12 +12479,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 45950
+    "price": 32165,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 611,
@@ -7939,12 +12501,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 47788
+    "price": 33451,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 612,
@@ -7952,12 +12523,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 54037
+    "price": 37825,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 613,
@@ -7965,12 +12545,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 48122
+    "price": 33685,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 614,
@@ -7978,12 +12567,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 50127
+    "price": 35088,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 615,
@@ -7991,12 +12589,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 52132
+    "price": 36492,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 616,
@@ -8004,12 +12611,21 @@ const Products=[
     "src": "img/natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 58949
+    "price": 41264,
+    "layers": [
+      "Imported Tencil Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 617,
@@ -8017,12 +12633,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 18628
+    "price": 13039,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 618,
@@ -8030,12 +12655,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 19404
+    "price": 13582,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 619,
@@ -8043,12 +12677,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 20180
+    "price": 14126,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 620,
@@ -8056,12 +12699,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 22819
+    "price": 15973,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 621,
@@ -8069,12 +12721,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 22354
+    "price": 15647,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 622,
@@ -8082,12 +12743,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 23285
+    "price": 16299,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 623,
@@ -8095,12 +12765,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 24216
+    "price": 16951,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 624,
@@ -8108,12 +12787,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 27382
+    "price": 19167,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 625,
@@ -8121,12 +12809,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 26079
+    "price": 18255,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 626,
@@ -8134,12 +12831,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 25872
+    "price": 18110,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 627,
@@ -8147,12 +12853,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 28522
+    "price": 19965,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 628,
@@ -8160,12 +12875,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 31947
+    "price": 22362,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 629,
@@ -8173,12 +12897,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 29805
+    "price": 20863,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 630,
@@ -8186,12 +12919,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 31046
+    "price": 21732,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 631,
@@ -8199,12 +12941,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 32288
+    "price": 22601,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 632,
@@ -8212,12 +12963,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 36510
+    "price": 25557,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 633,
@@ -8225,12 +12985,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 37256
+    "price": 26079,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 634,
@@ -8238,12 +13007,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 38808
+    "price": 27165,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 635,
@@ -8251,12 +13029,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 40360
+    "price": 28252,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 636,
@@ -8264,12 +13051,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 45638
+    "price": 31946,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 637,
@@ -8277,12 +13073,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 40982
+    "price": 28687,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 638,
@@ -8290,12 +13095,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 42689
+    "price": 29882,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 639,
@@ -8303,12 +13117,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 44396
+    "price": 31077,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 640,
@@ -8316,12 +13139,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 50202
+    "price": 35141,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 641,
@@ -8329,12 +13161,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 44707
+    "price": 31294,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 642,
@@ -8342,12 +13183,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 46570
+    "price": 32599,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 643,
@@ -8355,12 +13205,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 48433
+    "price": 33903,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 644,
@@ -8368,12 +13227,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 54766
+    "price": 38336,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 645,
@@ -8381,12 +13249,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 21053
+    "price": 14737,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 646,
@@ -8394,12 +13271,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 21931
+    "price": 15351,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 647,
@@ -8407,12 +13293,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 22808
+    "price": 15965,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 648,
@@ -8420,12 +13315,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 25790
+    "price": 18053,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 649,
@@ -8433,12 +13337,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 25264
+    "price": 17684,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 650,
@@ -8446,12 +13359,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 26317
+    "price": 18421,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 651,
@@ -8459,12 +13381,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 27369
+    "price": 19158,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 652,
@@ -8472,12 +13403,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 30948
+    "price": 21663,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 653,
@@ -8485,12 +13425,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 29475
+    "price": 20632,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 654,
@@ -8498,12 +13447,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 30703
+    "price": 21492,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 655,
@@ -8511,12 +13469,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 31931
+    "price": 22351,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 656,
@@ -8524,12 +13491,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 36106
+    "price": 25274,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 657,
@@ -8537,12 +13513,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 33685
+    "price": 23579,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 658,
@@ -8550,12 +13535,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 35089
+    "price": 24562,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 659,
@@ -8563,12 +13557,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 36492
+    "price": 25544,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 660,
@@ -8576,12 +13579,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 41265
+    "price": 28885,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 661,
@@ -8589,12 +13601,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 42107
+    "price": 29474,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 662,
@@ -8602,12 +13623,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 43861
+    "price": 30702,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 663,
@@ -8615,12 +13645,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 45616
+    "price": 31931,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 664,
@@ -8628,12 +13667,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 51581
+    "price": 36106,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 665,
@@ -8641,12 +13689,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 46317
+    "price": 32421,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 666,
@@ -8654,12 +13711,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 48247
+    "price": 33772,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 667,
@@ -8667,12 +13733,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 50177
+    "price": 35123,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 668,
@@ -8680,12 +13755,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 56739
+    "price": 39717,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 669,
@@ -8693,12 +13777,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 50528
+    "price": 35369,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 670,
@@ -8706,12 +13799,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 52633
+    "price": 36843,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 671,
@@ -8719,12 +13821,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 54739
+    "price": 38317,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 672,
@@ -8732,12 +13843,21 @@ const Products=[
     "src": "img/impression.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 61897
+    "price": 43327,
+    "layers": [
+      "Belgium velour Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Rebonded Foam",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 673,
@@ -8745,12 +13865,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 7361
+    "price": 5152,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 674,
@@ -8758,12 +13886,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 7668
+    "price": 5367,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 675,
@@ -8771,12 +13907,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 7974
+    "price": 5581,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 676,
@@ -8784,12 +13928,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 9017
+    "price": 6311,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 677,
@@ -8797,12 +13949,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 8833
+    "price": 6183,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 678,
@@ -8810,12 +13970,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 9201
+    "price": 6440,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 679,
@@ -8823,12 +13991,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 9569
+    "price": 6698,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 680,
@@ -8836,12 +14012,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 10821
+    "price": 7574,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 681,
@@ -8849,12 +14033,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 10305
+    "price": 7213,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 682,
@@ -8862,12 +14054,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 10735
+    "price": 7514,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 683,
@@ -8875,12 +14075,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 11164
+    "price": 7814,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 684,
@@ -8888,12 +14096,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 12624
+    "price": 8836,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 685,
@@ -8901,12 +14117,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 11777
+    "price": 8243,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 686,
@@ -8914,12 +14138,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 12268
+    "price": 8587,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 687,
@@ -8927,12 +14159,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 12759
+    "price": 8931,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 688,
@@ -8940,12 +14180,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 14427
+    "price": 10098,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 689,
@@ -8953,12 +14201,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 14722
+    "price": 10305,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 690,
@@ -8966,12 +14222,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 15335
+    "price": 10734,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 691,
@@ -8979,12 +14243,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 15949
+    "price": 11164,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 692,
@@ -8992,12 +14264,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 18034
+    "price": 12623,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 693,
@@ -9005,12 +14285,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 16194
+    "price": 11335,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 694,
@@ -9018,12 +14306,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 16869
+    "price": 11808,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 695,
@@ -9031,12 +14327,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 17544
+    "price": 12280,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 696,
@@ -9044,12 +14348,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 19838
+    "price": 13886,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 697,
@@ -9057,12 +14369,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 17666
+    "price": 12366,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 698,
@@ -9070,12 +14390,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 18402
+    "price": 12881,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 699,
@@ -9083,12 +14411,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 19138
+    "price": 13396,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 700,
@@ -9096,12 +14432,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 21641
+    "price": 15148,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 701,
@@ -9109,12 +14453,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 8907
+    "price": 6234,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 702,
@@ -9122,12 +14474,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 9278
+    "price": 6494,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 703,
@@ -9135,12 +14495,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 9649
+    "price": 6754,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 704,
@@ -9148,12 +14516,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 10910
+    "price": 7637,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 705,
@@ -9161,12 +14537,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 10688
+    "price": 7481,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 706,
@@ -9174,12 +14558,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 11133
+    "price": 7793,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 707,
@@ -9187,12 +14579,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 11578
+    "price": 8104,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 708,
@@ -9200,12 +14600,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 13093
+    "price": 9165,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 709,
@@ -9213,12 +14621,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 12469
+    "price": 8728,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 710,
@@ -9226,12 +14642,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 12989
+    "price": 9092,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 711,
@@ -9239,12 +14663,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 13508
+    "price": 9455,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 712,
@@ -9252,12 +14684,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 15275
+    "price": 10692,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 713,
@@ -9265,12 +14705,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 14250
+    "price": 9975,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 714,
@@ -9278,12 +14726,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 14844
+    "price": 10390,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 715,
@@ -9291,12 +14747,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 15438
+    "price": 10806,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 716,
@@ -9304,12 +14768,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 17457
+    "price": 12219,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 717,
@@ -9317,12 +14789,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 17813
+    "price": 12469,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 718,
@@ -9330,12 +14810,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 18555
+    "price": 12988,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 719,
@@ -9343,12 +14831,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 19297
+    "price": 13507,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 720,
@@ -9356,12 +14852,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 21821
+    "price": 15274,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 721,
@@ -9369,12 +14873,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 19594
+    "price": 13715,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 722,
@@ -9382,12 +14894,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 20411
+    "price": 14287,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 723,
@@ -9395,12 +14915,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 21227
+    "price": 14858,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 724,
@@ -9408,12 +14936,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 24003
+    "price": 16802,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 725,
@@ -9421,12 +14957,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 21376
+    "price": 14963,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 726,
@@ -9434,12 +14978,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 22266
+    "price": 15586,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 727,
@@ -9447,12 +14999,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 23157
+    "price": 16209,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 728,
@@ -9460,12 +15020,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 26185
+    "price": 18329,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 729,
@@ -9473,12 +15041,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 10452
+    "price": 7316,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 730,
@@ -9486,12 +15062,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 10888
+    "price": 7621,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 731,
@@ -9499,12 +15083,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 11323
+    "price": 7926,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 732,
@@ -9512,12 +15104,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 12804
+    "price": 8962,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 733,
@@ -9525,12 +15125,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 12543
+    "price": 8780,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 734,
@@ -9538,12 +15146,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 13065
+    "price": 9145,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 735,
@@ -9551,12 +15167,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 13588
+    "price": 9511,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 736,
@@ -9564,12 +15188,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 15365
+    "price": 10755,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 737,
@@ -9577,12 +15209,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 14633
+    "price": 10243,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 738,
@@ -9590,12 +15230,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 15243
+    "price": 10670,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 739,
@@ -9603,12 +15251,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 15852
+    "price": 11096,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 740,
@@ -9616,12 +15272,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 17925
+    "price": 12547,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 741,
@@ -9629,12 +15293,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 16723
+    "price": 11706,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 742,
@@ -9642,12 +15314,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 17420
+    "price": 12194,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 743,
@@ -9655,12 +15335,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 18117
+    "price": 12681,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 744,
@@ -9668,12 +15356,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 20486
+    "price": 14340,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 745,
@@ -9681,12 +15377,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 20904
+    "price": 14632,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 746,
@@ -9694,12 +15398,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 21775
+    "price": 15242,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 747,
@@ -9707,12 +15419,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 22646
+    "price": 15852,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 748,
@@ -9720,12 +15440,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 25608
+    "price": 17925,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 749,
@@ -9733,12 +15461,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 22995
+    "price": 16096,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 750,
@@ -9746,12 +15482,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 23953
+    "price": 16767,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 751,
@@ -9759,12 +15503,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 24911
+    "price": 17437,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 752,
@@ -9772,12 +15524,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 28168
+    "price": 19717,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 753,
@@ -9785,12 +15545,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 25085
+    "price": 17559,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 754,
@@ -9798,12 +15566,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 26130
+    "price": 18291,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 755,
@@ -9811,12 +15587,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 27176
+    "price": 19023,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 756,
@@ -9824,12 +15608,20 @@ const Products=[
     "src": "img/bonnel comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 30729
+    "price": 21510,
+    "layers": [
+      "High GSM Jacquard fabric",
+      "PU Foam Quilt",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 757,
@@ -9837,12 +15629,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 10175
+    "price": 7122,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 758,
@@ -9850,12 +15651,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 10599
+    "price": 7419,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 759,
@@ -9863,12 +15673,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 11023
+    "price": 7716,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 760,
@@ -9876,12 +15695,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 12464
+    "price": 8724,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 761,
@@ -9889,12 +15717,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 12210
+    "price": 8547,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 762,
@@ -9902,12 +15739,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 12719
+    "price": 8903,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 763,
@@ -9915,12 +15761,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 13227
+    "price": 9258,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 764,
@@ -9928,12 +15783,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 14957
+    "price": 10469,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 765,
@@ -9941,12 +15805,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 14246
+    "price": 9972,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 766,
@@ -9954,12 +15827,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 14839
+    "price": 10387,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 767,
@@ -9967,12 +15849,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 15433
+    "price": 10803,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 768,
@@ -9980,12 +15871,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 17451
+    "price": 12215,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 769,
@@ -9993,12 +15893,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 16280
+    "price": 11396,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 770,
@@ -10006,12 +15915,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 16959
+    "price": 11871,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 771,
@@ -10019,12 +15937,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 17637
+    "price": 12345,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 772,
@@ -10032,12 +15959,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 19944
+    "price": 13960,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 773,
@@ -10045,12 +15981,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 20351
+    "price": 14245,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 774,
@@ -10058,12 +16003,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 21198
+    "price": 14838,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 775,
@@ -10071,12 +16025,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 22046
+    "price": 15432,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 776,
@@ -10084,12 +16047,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 24929
+    "price": 17450,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 777,
@@ -10097,12 +16069,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 22385
+    "price": 15669,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 778,
@@ -10110,12 +16091,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 23318
+    "price": 16322,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 779,
@@ -10123,12 +16113,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 24250
+    "price": 16975,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 780,
@@ -10136,12 +16135,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 27422
+    "price": 19195,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 781,
@@ -10149,12 +16157,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 24420
+    "price": 17094,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 782,
@@ -10162,12 +16179,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 25438
+    "price": 17806,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 783,
@@ -10175,12 +16201,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 26456
+    "price": 18519,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 784,
@@ -10188,12 +16223,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 29915
+    "price": 20940,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 785,
@@ -10201,12 +16245,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 12188
+    "price": 8531,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 786,
@@ -10214,12 +16267,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 12695
+    "price": 8886,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 787,
@@ -10227,12 +16289,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 13203
+    "price": 9242,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 788,
@@ -10240,12 +16311,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 14930
+    "price": 10451,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 789,
@@ -10253,12 +16333,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 14625
+    "price": 10237,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 790,
@@ -10266,12 +16355,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 15235
+    "price": 10664,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 791,
@@ -10279,12 +16377,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 15844
+    "price": 11090,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 792,
@@ -10292,12 +16399,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 17916
+    "price": 12541,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 793,
@@ -10305,12 +16421,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 17062
+    "price": 11943,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 794,
@@ -10318,12 +16443,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 17773
+    "price": 12441,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 795,
@@ -10331,12 +16465,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 18484
+    "price": 12938,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 796,
@@ -10344,12 +16487,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 20902
+    "price": 14631,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 797,
@@ -10357,12 +16509,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 19501
+    "price": 13650,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 798,
@@ -10370,12 +16531,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 20313
+    "price": 14219,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 799,
@@ -10383,12 +16553,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 21125
+    "price": 14787,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 800,
@@ -10396,12 +16575,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 23888
+    "price": 16721,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 801,
@@ -10409,12 +16597,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 24375
+    "price": 17062,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 802,
@@ -10422,12 +16619,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 25391
+    "price": 17773,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 803,
@@ -10435,12 +16641,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 26407
+    "price": 18484,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 804,
@@ -10448,12 +16663,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 29860
+    "price": 20902,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 805,
@@ -10461,12 +16685,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 26813
+    "price": 18769,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 806,
@@ -10474,12 +16707,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 27930
+    "price": 19551,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 807,
@@ -10487,12 +16729,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 29048
+    "price": 20333,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 808,
@@ -10500,12 +16751,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 32846
+    "price": 22992,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 809,
@@ -10513,12 +16773,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 29250
+    "price": 20475,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 810,
@@ -10526,12 +16795,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 30470
+    "price": 21329,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 811,
@@ -10539,12 +16817,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 31688
+    "price": 22181,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 812,
@@ -10552,12 +16839,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 35831
+    "price": 25081,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 813,
@@ -10565,12 +16861,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 14200
+    "price": 9940,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 814,
@@ -10578,12 +16883,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 14792
+    "price": 10354,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 815,
@@ -10591,12 +16905,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 15384
+    "price": 10768,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 816,
@@ -10604,12 +16927,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 17395
+    "price": 12176,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 817,
@@ -10617,12 +16949,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 17040
+    "price": 11928,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 818,
@@ -10630,12 +16971,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 17750
+    "price": 12425,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 819,
@@ -10643,12 +16993,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 18460
+    "price": 12922,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 820,
@@ -10656,12 +17015,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 20874
+    "price": 14611,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 821,
@@ -10669,12 +17037,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 19880
+    "price": 13916,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 822,
@@ -10682,12 +17059,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 20709
+    "price": 14496,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 823,
@@ -10695,12 +17081,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 21537
+    "price": 15075,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 824,
@@ -10708,12 +17103,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 24353
+    "price": 17047,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 825,
@@ -10721,12 +17125,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 22720
+    "price": 15904,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 826,
@@ -10734,12 +17147,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 23667
+    "price": 16566,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 827,
@@ -10747,12 +17169,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 24614
+    "price": 17229,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 828,
@@ -10760,12 +17191,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 27832
+    "price": 19482,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 829,
@@ -10773,12 +17213,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 28400
+    "price": 19880,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 830,
@@ -10786,12 +17235,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 29584
+    "price": 20708,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 831,
@@ -10799,12 +17257,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 30767
+    "price": 21536,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 832,
@@ -10812,12 +17279,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 34790
+    "price": 24353,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 833,
@@ -10825,12 +17301,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 31240
+    "price": 21868,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 834,
@@ -10838,12 +17323,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 32543
+    "price": 22780,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 835,
@@ -10851,12 +17345,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 33844
+    "price": 23690,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 836,
@@ -10864,12 +17367,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 38270
+    "price": 26789,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 837,
@@ -10877,12 +17389,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 34080
+    "price": 23856,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 838,
@@ -10890,12 +17411,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 35501
+    "price": 24850,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 839,
@@ -10903,12 +17433,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 36921
+    "price": 25844,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 840,
@@ -10916,12 +17455,21 @@ const Products=[
     "src": "img/pocket comfort.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 41749
+    "price": 29224,
+    "layers": [
+      "Imported FR/Turkey Fabric",
+      "PU Foam Quilt",
+      "Convulated Super Soft Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 841,
@@ -10929,12 +17477,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 15458
+    "price": 10820,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 842,
@@ -10942,12 +17499,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 16102
+    "price": 11271,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 843,
@@ -10955,12 +17521,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 16746
+    "price": 11722,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 844,
@@ -10968,12 +17543,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 18936
+    "price": 13255,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 845,
@@ -10981,12 +17565,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 18550
+    "price": 12985,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 846,
@@ -10994,12 +17587,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 19322
+    "price": 13525,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 847,
@@ -11007,12 +17609,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 20095
+    "price": 14066,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 848,
@@ -11020,12 +17631,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 22723
+    "price": 15906,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 849,
@@ -11033,12 +17653,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 21641
+    "price": 15148,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 850,
@@ -11046,12 +17675,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 22543
+    "price": 15780,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 851,
@@ -11059,12 +17697,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 23445
+    "price": 16411,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 852,
@@ -11072,12 +17719,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 26510
+    "price": 18557,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 853,
@@ -11085,12 +17741,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 24733
+    "price": 17313,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 854,
@@ -11098,12 +17763,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 25763
+    "price": 18034,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 855,
@@ -11111,12 +17785,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 26794
+    "price": 18755,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 856,
@@ -11124,12 +17807,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 30298
+    "price": 21208,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 857,
@@ -11137,12 +17829,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 30916
+    "price": 21641,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 858,
@@ -11150,12 +17851,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 32204
+    "price": 22542,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 859,
@@ -11163,12 +17873,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 33492
+    "price": 23444,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 860,
@@ -11176,12 +17895,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 37872
+    "price": 26510,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 861,
@@ -11189,12 +17917,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 34007
+    "price": 23804,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 862,
@@ -11202,12 +17939,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 35424
+    "price": 24796,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 863,
@@ -11215,12 +17961,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 36841
+    "price": 25788,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 864,
@@ -11228,12 +17983,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 41659
+    "price": 29161,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 865,
@@ -11241,12 +18005,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 37099
+    "price": 25969,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 866,
@@ -11254,12 +18027,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 38645
+    "price": 27051,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 867,
@@ -11267,12 +18049,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 40191
+    "price": 28133,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 868,
@@ -11280,12 +18071,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 45446
+    "price": 31812,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 869,
@@ -11293,12 +18093,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 18704
+    "price": 13092,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 870,
@@ -11306,12 +18115,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 19483
+    "price": 13638,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 871,
@@ -11319,12 +18137,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 20262
+    "price": 14183,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 872,
@@ -11332,12 +18159,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 22912
+    "price": 16038,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 873,
@@ -11345,12 +18181,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 22444
+    "price": 15710,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 874,
@@ -11358,12 +18203,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 23380
+    "price": 16366,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 875,
@@ -11371,12 +18225,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 24315
+    "price": 17020,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 876,
@@ -11384,12 +18247,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 27494
+    "price": 19245,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 877,
@@ -11397,12 +18269,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 26185
+    "price": 18329,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 878,
@@ -11410,12 +18291,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 27276
+    "price": 19093,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 879,
@@ -11423,12 +18313,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 28367
+    "price": 19856,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 880,
@@ -11436,12 +18335,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 32077
+    "price": 22453,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 881,
@@ -11449,12 +18357,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 29926
+    "price": 20948,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 882,
@@ -11462,12 +18379,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 31173
+    "price": 21821,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 883,
@@ -11475,12 +18401,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 32420
+    "price": 22694,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 884,
@@ -11488,12 +18423,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 36659
+    "price": 25661,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 885,
@@ -11501,12 +18445,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 37407
+    "price": 26184,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 886,
@@ -11514,12 +18467,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 38966
+    "price": 27276,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 887,
@@ -11527,12 +18489,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 40525
+    "price": 28367,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 888,
@@ -11540,12 +18511,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 45824
+    "price": 32076,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 889,
@@ -11553,12 +18533,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 41148
+    "price": 28803,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 890,
@@ -11566,12 +18555,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 42863
+    "price": 30004,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 891,
@@ -11579,12 +18577,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 44577
+    "price": 31203,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 892,
@@ -11592,12 +18599,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 50406
+    "price": 35284,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 893,
@@ -11605,12 +18621,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 44889
+    "price": 31422,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 894,
@@ -11618,12 +18643,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 46759
+    "price": 32731,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 895,
@@ -11631,12 +18665,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 48630
+    "price": 34041,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 896,
@@ -11644,12 +18687,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 54989
+    "price": 38492,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 897,
@@ -11657,12 +18709,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 12,
-    "price": 21949
+    "price": 15364,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 898,
@@ -11670,12 +18731,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 12,
-    "price": 22864
+    "price": 16004,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 899,
@@ -11683,12 +18753,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 12,
-    "price": 23779
+    "price": 16645,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 900,
@@ -11696,12 +18775,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 12,
-    "price": 26888
+    "price": 18821,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 901,
@@ -11709,12 +18797,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 12,
-    "price": 26339
+    "price": 18437,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 902,
@@ -11722,12 +18819,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 12,
-    "price": 27437
+    "price": 19205,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 903,
@@ -11735,12 +18841,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 12,
-    "price": 28534
+    "price": 19973,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 904,
@@ -11748,12 +18863,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 12,
-    "price": 32266
+    "price": 22586,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 905,
@@ -11761,12 +18885,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 12,
-    "price": 30729
+    "price": 21510,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 906,
@@ -11774,12 +18907,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 12,
-    "price": 32010
+    "price": 22407,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 907,
@@ -11787,12 +18929,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 12,
-    "price": 33290
+    "price": 23303,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 908,
@@ -11800,12 +18951,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 12,
-    "price": 37643
+    "price": 26350,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 909,
@@ -11813,12 +18973,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 12,
-    "price": 35119
+    "price": 24583,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 910,
@@ -11826,12 +18995,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 12,
-    "price": 36582
+    "price": 25607,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 911,
@@ -11839,12 +19017,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 12,
-    "price": 38046
+    "price": 26632,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 912,
@@ -11852,12 +19039,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 12,
-    "price": 43021
+    "price": 30114,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 913,
@@ -11865,12 +19061,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 12,
-    "price": 43899
+    "price": 30729,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 914,
@@ -11878,12 +19083,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 12,
-    "price": 45728
+    "price": 32009,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 915,
@@ -11891,12 +19105,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 12,
-    "price": 47557
+    "price": 33289,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 916,
@@ -11904,12 +19127,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 12,
-    "price": 53777
+    "price": 37643,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 917,
@@ -11917,12 +19149,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 12,
-    "price": 48289
+    "price": 33802,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 918,
@@ -11930,12 +19171,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 12,
-    "price": 50301
+    "price": 35210,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 919,
@@ -11943,12 +19193,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 12,
-    "price": 52313
+    "price": 36619,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 920,
@@ -11956,12 +19215,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 12,
-    "price": 59154
+    "price": 41407,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 921,
@@ -11969,12 +19237,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 12,
-    "price": 52679
+    "price": 36875,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 922,
@@ -11982,12 +19259,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 12,
-    "price": 54874
+    "price": 38411,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 923,
@@ -11995,12 +19281,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 12,
-    "price": 57069
+    "price": 39948,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 924,
@@ -12008,12 +19303,21 @@ const Products=[
     "src": "img/bonnel natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 12,
-    "price": 64531
+    "price": 45171,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 925,
@@ -12021,12 +19325,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 20852
+    "price": 14596,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 926,
@@ -12034,12 +19347,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 21721
+    "price": 15204,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 927,
@@ -12047,12 +19369,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 22590
+    "price": 15813,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 928,
@@ -12060,12 +19391,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 25545
+    "price": 17881,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 929,
@@ -12073,12 +19413,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 25023
+    "price": 17516,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 930,
@@ -12086,12 +19435,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 26065
+    "price": 18245,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 931,
@@ -12099,12 +19457,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 27108
+    "price": 18975,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 932,
@@ -12112,12 +19479,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 30653
+    "price": 21457,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 933,
@@ -12125,12 +19501,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 29194
+    "price": 20435,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 934,
@@ -12138,12 +19523,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 30410
+    "price": 21287,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 935,
@@ -12151,12 +19545,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 31626
+    "price": 22138,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 936,
@@ -12164,12 +19567,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 35762
+    "price": 25033,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 937,
@@ -12177,12 +19589,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 33363
+    "price": 23354,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 938,
@@ -12190,12 +19611,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 34754
+    "price": 24327,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 939,
@@ -12203,12 +19633,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 36144
+    "price": 25300,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 940,
@@ -12216,12 +19655,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 40870
+    "price": 28609,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 941,
@@ -12229,12 +19677,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 41705
+    "price": 29193,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 942,
@@ -12242,12 +19699,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 43442
+    "price": 30409,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 943,
@@ -12255,12 +19721,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 45180
+    "price": 31626,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 944,
@@ -12268,12 +19743,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 51088
+    "price": 35761,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 945,
@@ -12281,12 +19765,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 45875
+    "price": 32112,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 946,
@@ -12294,12 +19787,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 47787
+    "price": 33450,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 947,
@@ -12307,12 +19809,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 49698
+    "price": 34788,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 948,
@@ -12320,12 +19831,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 56197
+    "price": 39337,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 949,
@@ -12333,12 +19853,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 50046
+    "price": 35032,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 950,
@@ -12346,12 +19875,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 52131
+    "price": 36491,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 951,
@@ -12359,12 +19897,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 54216
+    "price": 37951,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 952,
@@ -12372,12 +19919,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 60306
+    "price": 42214,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 953,
@@ -12385,12 +19941,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 23625
+    "price": 16537,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 954,
@@ -12398,12 +19963,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 24609
+    "price": 17226,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 955,
@@ -12411,12 +19985,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 25594
+    "price": 17915,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 956,
@@ -12424,12 +20007,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 28941
+    "price": 20258,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 957,
@@ -12437,12 +20029,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 28350
+    "price": 19845,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 958,
@@ -12450,12 +20051,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 29531
+    "price": 20671,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 959,
@@ -12463,12 +20073,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 30712
+    "price": 21498,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 960,
@@ -12476,12 +20095,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 34728
+    "price": 24309,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 961,
@@ -12489,12 +20117,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 33074
+    "price": 23151,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 962,
@@ -12502,12 +20139,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 34453
+    "price": 24117,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 963,
@@ -12515,12 +20161,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 35831
+    "price": 25081,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 964,
@@ -12528,12 +20183,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 40517
+    "price": 28361,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 965,
@@ -12541,12 +20205,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 37800
+    "price": 26460,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 966,
@@ -12554,12 +20227,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 39374
+    "price": 27561,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 967,
@@ -12567,12 +20249,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 40949
+    "price": 28664,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 968,
@@ -12580,12 +20271,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 46304
+    "price": 32412,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 969,
@@ -12593,12 +20293,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 47249
+    "price": 33074,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 970,
@@ -12606,12 +20315,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 49218
+    "price": 34452,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 971,
@@ -12619,12 +20337,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 51187
+    "price": 35830,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 972,
@@ -12632,12 +20359,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 57880
+    "price": 40516,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 973,
@@ -12645,12 +20381,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 51975
+    "price": 36382,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 974,
@@ -12658,12 +20403,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 54140
+    "price": 37898,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 975,
@@ -12671,12 +20425,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 56306
+    "price": 39414,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 976,
@@ -12684,12 +20447,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 63669
+    "price": 44568,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 977,
@@ -12697,12 +20469,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 56699
+    "price": 39689,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 978,
@@ -12710,12 +20491,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 59062
+    "price": 41343,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 979,
@@ -12723,12 +20513,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 61424
+    "price": 42996,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 980,
@@ -12736,12 +20535,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 69456
+    "price": 48619,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 981,
@@ -12749,12 +20557,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 12,
-    "price": 28350
+    "price": 19845,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 982,
@@ -12762,12 +20579,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 12,
-    "price": 29530
+    "price": 20671,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 983,
@@ -12775,12 +20601,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 12,
-    "price": 30713
+    "price": 21499,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 984,
@@ -12788,12 +20623,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 12,
-    "price": 34729
+    "price": 24310,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 985,
@@ -12801,12 +20645,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 12,
-    "price": 34020
+    "price": 23814,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 986,
@@ -12814,12 +20667,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 12,
-    "price": 35438
+    "price": 24806,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 987,
@@ -12827,12 +20689,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 12,
-    "price": 36855
+    "price": 25798,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 988,
@@ -12840,12 +20711,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 12,
-    "price": 41674
+    "price": 29171,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 989,
@@ -12853,12 +20733,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 12,
-    "price": 39690
+    "price": 27783,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 990,
@@ -12866,12 +20755,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 12,
-    "price": 41343
+    "price": 28940,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 991,
@@ -12879,12 +20777,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 12,
-    "price": 42997
+    "price": 30097,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 992,
@@ -12892,12 +20799,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 12,
-    "price": 48620
+    "price": 34034,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 993,
@@ -12905,12 +20821,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 12,
-    "price": 45359
+    "price": 31751,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 994,
@@ -12918,12 +20843,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 12,
-    "price": 47249
+    "price": 33074,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 995,
@@ -12931,12 +20865,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 12,
-    "price": 49140
+    "price": 34398,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 996,
@@ -12944,12 +20887,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 12,
-    "price": 55566
+    "price": 38896,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 997,
@@ -12957,12 +20909,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 12,
-    "price": 56699
+    "price": 39689,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 998,
@@ -12970,12 +20931,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 12,
-    "price": 59062
+    "price": 41343,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 999,
@@ -12983,12 +20953,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 12,
-    "price": 61424
+    "price": 42996,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1000,
@@ -12996,12 +20975,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 12,
-    "price": 69456
+    "price": 48619,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1001,
@@ -13009,12 +20997,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 12,
-    "price": 62369
+    "price": 43658,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1002,
@@ -13022,12 +21019,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 12,
-    "price": 64968
+    "price": 45477,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1003,
@@ -13035,12 +21041,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 12,
-    "price": 67567
+    "price": 47296,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1004,
@@ -13048,12 +21063,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 12,
-    "price": 76402
+    "price": 53481,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1005,
@@ -13061,12 +21085,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 12,
-    "price": 68039
+    "price": 47627,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1006,
@@ -13074,12 +21107,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 12,
-    "price": 70874
+    "price": 49611,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1007,
@@ -13087,12 +21129,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 12,
-    "price": 73709
+    "price": 51596,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1008,
@@ -13100,12 +21151,21 @@ const Products=[
     "src": "img/pocket natura.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 12,
-    "price": 83348
+    "price": 58343,
+    "layers": [
+      "High GSM Knitted Fabric",
+      "PU Foam Quilt",
+      "Natural Latex",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1009,
@@ -13113,12 +21173,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 15458
+    "price": 10820,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1010,
@@ -13126,12 +21195,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 16102
+    "price": 11271,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1011,
@@ -13139,12 +21217,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 16746
+    "price": 11722,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1012,
@@ -13152,12 +21239,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 18936
+    "price": 13255,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1013,
@@ -13165,12 +21261,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 18550
+    "price": 12985,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1014,
@@ -13178,12 +21283,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 19322
+    "price": 13525,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1015,
@@ -13191,12 +21305,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 20095
+    "price": 14066,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1016,
@@ -13204,12 +21327,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 22723
+    "price": 15906,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1017,
@@ -13217,12 +21349,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 21641
+    "price": 15148,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1018,
@@ -13230,12 +21371,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 22543
+    "price": 15780,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1019,
@@ -13243,12 +21393,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 23445
+    "price": 16411,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1020,
@@ -13256,12 +21415,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 26510
+    "price": 18557,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1021,
@@ -13269,12 +21437,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 24733
+    "price": 17313,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1022,
@@ -13282,12 +21459,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 25763
+    "price": 18034,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1023,
@@ -13295,12 +21481,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 26794
+    "price": 18755,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1024,
@@ -13308,12 +21503,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 30298
+    "price": 21208,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1025,
@@ -13321,12 +21525,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 30916
+    "price": 21641,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1026,
@@ -13334,12 +21547,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 32204
+    "price": 22542,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1027,
@@ -13347,12 +21569,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 33492
+    "price": 23444,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1028,
@@ -13360,12 +21591,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 37872
+    "price": 26510,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1029,
@@ -13373,12 +21613,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 34007
+    "price": 23804,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1030,
@@ -13386,12 +21635,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 35424
+    "price": 24796,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1031,
@@ -13399,12 +21657,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 36841
+    "price": 25788,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1032,
@@ -13412,12 +21679,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 41659
+    "price": 29161,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1033,
@@ -13425,12 +21701,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 37099
+    "price": 25969,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1034,
@@ -13438,12 +21723,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 38645
+    "price": 27051,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1035,
@@ -13451,12 +21745,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 40191
+    "price": 28133,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1036,
@@ -13464,12 +21767,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 45446
+    "price": 31812,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1037,
@@ -13477,12 +21789,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 18704
+    "price": 13092,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1038,
@@ -13490,12 +21811,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 19483
+    "price": 13638,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1039,
@@ -13503,12 +21833,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 20262
+    "price": 14183,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1040,
@@ -13516,12 +21855,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 22912
+    "price": 16038,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1041,
@@ -13529,12 +21877,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 22444
+    "price": 15710,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1042,
@@ -13542,12 +21899,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 23380
+    "price": 16366,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1043,
@@ -13555,12 +21921,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 24315
+    "price": 17020,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1044,
@@ -13568,12 +21943,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 27494
+    "price": 19245,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1045,
@@ -13581,12 +21965,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 26185
+    "price": 18329,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1046,
@@ -13594,12 +21987,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 27276
+    "price": 19093,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1047,
@@ -13607,12 +22009,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 28367
+    "price": 19856,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1048,
@@ -13620,12 +22031,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 32077
+    "price": 22453,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1049,
@@ -13633,12 +22053,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 29926
+    "price": 20948,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1050,
@@ -13646,12 +22075,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 31173
+    "price": 21821,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1051,
@@ -13659,12 +22097,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 32420
+    "price": 22694,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1052,
@@ -13672,12 +22119,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 36659
+    "price": 25661,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1053,
@@ -13685,12 +22141,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 37407
+    "price": 26184,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1054,
@@ -13698,12 +22163,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 38966
+    "price": 27276,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1055,
@@ -13711,12 +22185,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 40525
+    "price": 28367,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1056,
@@ -13724,12 +22207,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 45824
+    "price": 32076,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1057,
@@ -13737,12 +22229,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 41148
+    "price": 28803,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1058,
@@ -13750,12 +22251,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 42863
+    "price": 30004,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1059,
@@ -13763,12 +22273,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 44577
+    "price": 31203,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1060,
@@ -13776,12 +22295,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 50406
+    "price": 35284,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1061,
@@ -13789,12 +22317,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 44889
+    "price": 31422,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1062,
@@ -13802,12 +22339,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 46759
+    "price": 32731,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1063,
@@ -13815,12 +22361,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 48630
+    "price": 34041,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1064,
@@ -13828,12 +22383,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 54989
+    "price": 38492,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1065,
@@ -13841,12 +22405,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 12,
-    "price": 21949
+    "price": 15364,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1066,
@@ -13854,12 +22427,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 12,
-    "price": 22864
+    "price": 16004,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1067,
@@ -13867,12 +22449,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 12,
-    "price": 23779
+    "price": 16645,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1068,
@@ -13880,12 +22471,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 12,
-    "price": 26888
+    "price": 18821,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1069,
@@ -13893,12 +22493,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 12,
-    "price": 26339
+    "price": 18437,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1070,
@@ -13906,12 +22515,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 12,
-    "price": 27437
+    "price": 19205,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1071,
@@ -13919,12 +22537,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 12,
-    "price": 28534
+    "price": 19973,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1072,
@@ -13932,12 +22559,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 12,
-    "price": 32266
+    "price": 22586,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1073,
@@ -13945,12 +22581,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 12,
-    "price": 30729
+    "price": 21510,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1074,
@@ -13958,12 +22603,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 12,
-    "price": 32010
+    "price": 22407,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1075,
@@ -13971,12 +22625,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 12,
-    "price": 33290
+    "price": 23303,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1076,
@@ -13984,12 +22647,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 12,
-    "price": 37643
+    "price": 26350,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1077,
@@ -13997,12 +22669,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 12,
-    "price": 35119
+    "price": 24583,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1078,
@@ -14010,12 +22691,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 12,
-    "price": 36582
+    "price": 25607,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1079,
@@ -14023,12 +22713,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 12,
-    "price": 38046
+    "price": 26632,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1080,
@@ -14036,12 +22735,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 12,
-    "price": 43021
+    "price": 30114,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1081,
@@ -14049,12 +22757,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 12,
-    "price": 43899
+    "price": 30729,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1082,
@@ -14062,12 +22779,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 12,
-    "price": 45728
+    "price": 32009,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1083,
@@ -14075,12 +22801,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 12,
-    "price": 47557
+    "price": 33289,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1084,
@@ -14088,12 +22823,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 12,
-    "price": 53777
+    "price": 37643,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1085,
@@ -14101,12 +22845,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 12,
-    "price": 48289
+    "price": 33802,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1086,
@@ -14114,12 +22867,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 12,
-    "price": 50301
+    "price": 35210,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1087,
@@ -14127,12 +22889,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 12,
-    "price": 52313
+    "price": 36619,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1088,
@@ -14140,12 +22911,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 12,
-    "price": 59154
+    "price": 41407,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1089,
@@ -14153,12 +22933,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 12,
-    "price": 52679
+    "price": 36875,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1090,
@@ -14166,12 +22955,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 12,
-    "price": 54874
+    "price": 38411,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1091,
@@ -14179,12 +22977,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 12,
-    "price": 57069
+    "price": 39948,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1092,
@@ -14192,12 +22999,21 @@ const Products=[
     "src": "img/bonnel luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 12,
-    "price": 64531
+    "price": 45171,
+    "layers": [
+      "High GSM Viscose Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Coir",
+      "Bonell Spring",
+      "Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1093,
@@ -14205,12 +23021,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 20852
+    "price": 14596,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1094,
@@ -14218,12 +23043,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 21721
+    "price": 15204,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1095,
@@ -14231,12 +23065,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 22590
+    "price": 15813,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1096,
@@ -14244,12 +23087,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 25545
+    "price": 17881,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1097,
@@ -14257,12 +23109,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 25023
+    "price": 17516,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1098,
@@ -14270,12 +23131,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 26065
+    "price": 18245,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1099,
@@ -14283,12 +23153,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 27108
+    "price": 18975,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1100,
@@ -14296,12 +23175,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 30653
+    "price": 21457,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1101,
@@ -14309,12 +23197,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 29194
+    "price": 20435,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1102,
@@ -14322,12 +23219,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 30410
+    "price": 21287,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1103,
@@ -14335,12 +23241,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 31626
+    "price": 22138,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1104,
@@ -14348,12 +23263,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 35762
+    "price": 25033,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1105,
@@ -14361,12 +23285,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 33363
+    "price": 23354,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1106,
@@ -14374,12 +23307,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 34754
+    "price": 24327,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1107,
@@ -14387,12 +23329,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 36144
+    "price": 25300,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1108,
@@ -14400,12 +23351,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 40870
+    "price": 28609,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1109,
@@ -14413,12 +23373,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 41705
+    "price": 29193,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1110,
@@ -14426,12 +23395,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 43442
+    "price": 30409,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1111,
@@ -14439,12 +23417,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 45180
+    "price": 31626,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1112,
@@ -14452,12 +23439,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 51088
+    "price": 35761,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1113,
@@ -14465,12 +23461,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 45875
+    "price": 32112,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1114,
@@ -14478,12 +23483,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 47787
+    "price": 33450,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1115,
@@ -14491,12 +23505,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 49698
+    "price": 34788,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1116,
@@ -14504,12 +23527,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 56197
+    "price": 39337,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1117,
@@ -14517,12 +23549,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 50046
+    "price": 35032,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1118,
@@ -14530,12 +23571,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 52131
+    "price": 36491,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1119,
@@ -14543,12 +23593,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 54216
+    "price": 37951,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1120,
@@ -14556,12 +23615,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 61306
+    "price": 42914,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1121,
@@ -14569,12 +23637,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 23625
+    "price": 16537,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1122,
@@ -14582,12 +23659,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 24609
+    "price": 17226,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1123,
@@ -14595,12 +23681,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 25594
+    "price": 17915,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1124,
@@ -14608,12 +23703,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 28941
+    "price": 20258,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1125,
@@ -14621,12 +23725,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 28350
+    "price": 19845,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1126,
@@ -14634,12 +23747,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 29531
+    "price": 20671,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1127,
@@ -14647,12 +23769,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 30712
+    "price": 21498,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1128,
@@ -14660,12 +23791,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 34728
+    "price": 24309,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1129,
@@ -14673,12 +23813,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 33074
+    "price": 23151,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1130,
@@ -14686,12 +23835,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 34453
+    "price": 24117,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1131,
@@ -14699,12 +23857,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 35831
+    "price": 25081,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1132,
@@ -14712,12 +23879,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 40517
+    "price": 28361,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1133,
@@ -14725,12 +23901,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 37800
+    "price": 26460,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1134,
@@ -14738,12 +23923,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 39374
+    "price": 27561,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1135,
@@ -14751,12 +23945,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 40949
+    "price": 28664,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1136,
@@ -14764,12 +23967,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 46304
+    "price": 32412,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1137,
@@ -14777,12 +23989,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 47249
+    "price": 33074,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1138,
@@ -14790,12 +24011,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 49218
+    "price": 34452,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1139,
@@ -14803,12 +24033,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 51187
+    "price": 35830,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1140,
@@ -14816,12 +24055,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 57880
+    "price": 40516,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1141,
@@ -14829,12 +24077,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 51975
+    "price": 36382,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1142,
@@ -14842,12 +24099,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 54140
+    "price": 37898,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1143,
@@ -14855,12 +24121,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 56306
+    "price": 39414,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1144,
@@ -14868,12 +24143,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 63669
+    "price": 44568,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1145,
@@ -14881,12 +24165,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 56699
+    "price": 39689,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1146,
@@ -14894,12 +24187,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 59062
+    "price": 41343,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1147,
@@ -14907,12 +24209,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 61424
+    "price": 42996,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1148,
@@ -14920,12 +24231,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 69456
+    "price": 48619,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1149,
@@ -14933,12 +24253,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 12,
-    "price": 28350
+    "price": 19845,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1150,
@@ -14946,12 +24275,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 12,
-    "price": 29530
+    "price": 20671,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1151,
@@ -14959,12 +24297,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 12,
-    "price": 30713
+    "price": 21499,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1152,
@@ -14972,12 +24319,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 12,
-    "price": 34729
+    "price": 24310,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1153,
@@ -14985,12 +24341,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 12,
-    "price": 34020
+    "price": 23814,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1154,
@@ -14998,12 +24363,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 12,
-    "price": 35438
+    "price": 24806,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1155,
@@ -15011,12 +24385,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 12,
-    "price": 36855
+    "price": 25798,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1156,
@@ -15024,12 +24407,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 12,
-    "price": 41674
+    "price": 29171,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1157,
@@ -15037,12 +24429,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 12,
-    "price": 39690
+    "price": 27783,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1158,
@@ -15050,12 +24451,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 12,
-    "price": 41343
+    "price": 28940,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1159,
@@ -15063,12 +24473,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 12,
-    "price": 42997
+    "price": 30097,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1160,
@@ -15076,12 +24495,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 12,
-    "price": 48620
+    "price": 34034,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1161,
@@ -15089,12 +24517,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 12,
-    "price": 45359
+    "price": 31751,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1162,
@@ -15102,12 +24539,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 12,
-    "price": 47249
+    "price": 33074,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1163,
@@ -15115,12 +24561,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 12,
-    "price": 49140
+    "price": 34398,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1164,
@@ -15128,12 +24583,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 12,
-    "price": 55565
+    "price": 38895,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1165,
@@ -15141,12 +24605,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 12,
-    "price": 56699
+    "price": 39689,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1166,
@@ -15154,12 +24627,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 12,
-    "price": 59062
+    "price": 41343,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1167,
@@ -15167,12 +24649,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 12,
-    "price": 61424
+    "price": 42996,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1168,
@@ -15180,12 +24671,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 12,
-    "price": 69456
+    "price": 48619,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1169,
@@ -15193,12 +24693,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 12,
-    "price": 62369
+    "price": 43658,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1170,
@@ -15206,12 +24715,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 12,
-    "price": 64968
+    "price": 45477,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1171,
@@ -15219,12 +24737,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 12,
-    "price": 67567
+    "price": 47296,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1172,
@@ -15232,12 +24759,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 12,
-    "price": 76402
+    "price": 53481,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1173,
@@ -15245,12 +24781,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 12,
-    "price": 68039
+    "price": 47627,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1174,
@@ -15258,12 +24803,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 12,
-    "price": 70874
+    "price": 49611,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1175,
@@ -15271,12 +24825,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 12,
-    "price": 73709
+    "price": 51596,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1176,
@@ -15284,12 +24847,21 @@ const Products=[
     "src": "img/pocket luxury.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 12,
-    "price": 83348
+    "price": 58343,
+    "layers": [
+      "Premium Jacquard Fabric",
+      "Thermo Memory Quilt",
+      "Memory Foam",
+      "Turkish Felt",
+      "Pocket Spring",
+      "Turkish Felt",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1177,
@@ -15297,12 +24869,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 15423
+    "price": 10796,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1178,
@@ -15310,12 +24888,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 16067
+    "price": 11246,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1179,
@@ -15323,12 +24907,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4,
-    "price": 16710
+    "price": 11697,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1180,
@@ -15336,12 +24926,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4,
-    "price": 18895
+    "price": 13226,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1181,
@@ -15349,12 +24945,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4,
-    "price": 18509
+    "price": 12956,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1182,
@@ -15362,12 +24964,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4,
-    "price": 19280
+    "price": 13496,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1183,
@@ -15375,12 +24983,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4,
-    "price": 20052
+    "price": 14036,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1184,
@@ -15388,12 +25002,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4,
-    "price": 22674
+    "price": 15871,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1185,
@@ -15401,12 +25021,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4,
-    "price": 21593
+    "price": 15115,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1186,
@@ -15414,12 +25040,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4,
-    "price": 22493
+    "price": 15745,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1187,
@@ -15427,12 +25059,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4,
-    "price": 23393
+    "price": 16375,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1188,
@@ -15440,12 +25078,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4,
-    "price": 26452
+    "price": 18516,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1189,
@@ -15453,12 +25097,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4,
-    "price": 24678
+    "price": 17274,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1190,
@@ -15466,12 +25116,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4,
-    "price": 25706
+    "price": 17994,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1191,
@@ -15479,12 +25135,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4,
-    "price": 26734
+    "price": 18713,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1192,
@@ -15492,12 +25154,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4,
-    "price": 30230
+    "price": 21161,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1193,
@@ -15505,12 +25173,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4,
-    "price": 30848
+    "price": 21593,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1194,
@@ -15518,12 +25192,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4,
-    "price": 32133
+    "price": 22493,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1195,
@@ -15531,12 +25211,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4,
-    "price": 33418
+    "price": 23392,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1196,
@@ -15544,12 +25230,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4,
-    "price": 37788
+    "price": 26451,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1197,
@@ -15557,12 +25249,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4,
-    "price": 33932
+    "price": 23752,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1198,
@@ -15570,12 +25268,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4,
-    "price": 35346
+    "price": 24742,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1199,
@@ -15583,12 +25287,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4,
-    "price": 36759
+    "price": 25731,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1200,
@@ -15596,12 +25306,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4,
-    "price": 41566
+    "price": 29096,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1201,
@@ -15609,12 +25325,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4,
-    "price": 37017
+    "price": 25911,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1202,
@@ -15622,12 +25344,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4,
-    "price": 38560
+    "price": 26992,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1203,
@@ -15635,12 +25363,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4,
-    "price": 40098
+    "price": 28068,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1204,
@@ -15648,12 +25382,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4,
-    "price": 45342
+    "price": 31739,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1205,
@@ -15661,12 +25401,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 17994
+    "price": 12595,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1206,
@@ -15674,12 +25420,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 18744
+    "price": 13120,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1207,
@@ -15687,12 +25439,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 19494
+    "price": 13645,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1208,
@@ -15700,12 +25458,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 22043
+    "price": 15430,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1209,
@@ -15713,12 +25477,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 21593
+    "price": 15115,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1210,
@@ -15726,12 +25496,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 22493
+    "price": 15745,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1211,
@@ -15739,12 +25515,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 23393
+    "price": 16375,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1212,
@@ -15752,12 +25534,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 26452
+    "price": 18516,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1213,
@@ -15765,12 +25553,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 25192
+    "price": 17634,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1214,
@@ -15778,12 +25572,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 26242
+    "price": 18369,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1215,
@@ -15791,12 +25591,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 27291
+    "price": 19103,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1216,
@@ -15804,12 +25610,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 30860
+    "price": 21602,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1217,
@@ -15817,12 +25629,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 28791
+    "price": 20153,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1218,
@@ -15830,12 +25648,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 29991
+    "price": 20993,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1219,
@@ -15843,12 +25667,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 31190
+    "price": 21833,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1220,
@@ -15856,12 +25686,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 35269
+    "price": 24688,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1221,
@@ -15869,12 +25705,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 35989
+    "price": 25192,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1222,
@@ -15882,12 +25724,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 37489
+    "price": 26242,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1223,
@@ -15895,12 +25743,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 38988
+    "price": 27291,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1224,
@@ -15908,12 +25762,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 44087
+    "price": 30860,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1225,
@@ -15921,12 +25781,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 39588
+    "price": 27711,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1226,
@@ -15934,12 +25800,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 41237
+    "price": 28865,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1227,
@@ -15947,12 +25819,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 42886
+    "price": 30020,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1228,
@@ -15960,12 +25838,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 48494
+    "price": 33945,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1229,
@@ -15973,12 +25857,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 43186
+    "price": 30230,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1230,
@@ -15986,12 +25876,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 44986
+    "price": 31490,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1231,
@@ -15999,12 +25895,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 46785
+    "price": 32749,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1232,
@@ -16012,12 +25914,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 52903
+    "price": 37032,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1233,
@@ -16025,12 +25933,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 21593
+    "price": 15115,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1234,
@@ -16038,12 +25952,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 22493
+    "price": 15745,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1235,
@@ -16051,12 +25971,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 23393
+    "price": 16375,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1236,
@@ -16064,12 +25990,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 26452
+    "price": 18516,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1237,
@@ -16077,12 +26009,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 25912
+    "price": 18138,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1238,
@@ -16090,12 +26028,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 26992
+    "price": 18894,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1239,
@@ -16103,12 +26047,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 28072
+    "price": 19650,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1240,
@@ -16116,12 +26066,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 31743
+    "price": 22220,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1241,
@@ -16129,12 +26085,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 30230
+    "price": 21161,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1242,
@@ -16142,12 +26104,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 31490
+    "price": 22043,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1243,
@@ -16155,12 +26123,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 32749
+    "price": 22924,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1244,
@@ -16168,12 +26142,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 37032
+    "price": 25922,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1245,
@@ -16181,12 +26161,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 34549
+    "price": 24184,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1246,
@@ -16194,12 +26180,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 35989
+    "price": 25192,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1247,
@@ -16207,12 +26199,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 37428
+    "price": 26199,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1248,
@@ -16220,12 +26218,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 42322
+    "price": 29625,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1249,
@@ -16233,12 +26237,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 43186
+    "price": 30230,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1250,
@@ -16246,12 +26256,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 44986
+    "price": 31490,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1251,
@@ -16259,12 +26275,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 46785
+    "price": 32749,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1252,
@@ -16272,12 +26294,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 52903
+    "price": 37032,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1253,
@@ -16285,12 +26313,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 47505
+    "price": 33253,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1254,
@@ -16298,12 +26332,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 49485
+    "price": 34639,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1255,
@@ -16311,12 +26351,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 51464
+    "price": 36024,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1256,
@@ -16324,12 +26370,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 58194
+    "price": 40735,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1257,
@@ -16337,12 +26389,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 51824
+    "price": 36276,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1258,
@@ -16350,12 +26408,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 53983
+    "price": 37788,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1259,
@@ -16363,12 +26427,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 56142
+    "price": 39299,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1260,
@@ -16376,12 +26446,18 @@ const Products=[
     "src": "img/naturalex.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 69484
+    "price": 48638,
+    "layers": [
+      "100% Organic Fabric",
+      "Cotton Wool Quilt",
+      "Natural Latex",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1261,
@@ -16389,12 +26465,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 4135
+    "price": 2894,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1262,
@@ -16402,12 +26485,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 4307
+    "price": 3014,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1263,
@@ -16415,12 +26505,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4,
-    "price": 4479
+    "price": 3135,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1264,
@@ -16428,12 +26525,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4,
-    "price": 5064
+    "price": 3544,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1265,
@@ -16441,12 +26545,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4,
-    "price": 4961
+    "price": 3472,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1266,
@@ -16454,12 +26565,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4,
-    "price": 5168
+    "price": 3617,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1267,
@@ -16467,12 +26585,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4,
-    "price": 5375
+    "price": 3762,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1268,
@@ -16480,12 +26605,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4,
-    "price": 6077
+    "price": 4253,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1269,
@@ -16493,12 +26625,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4,
-    "price": 5789
+    "price": 4052,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1270,
@@ -16506,12 +26645,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4,
-    "price": 6029
+    "price": 4220,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1271,
@@ -16519,12 +26665,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4,
-    "price": 6271
+    "price": 4389,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1272,
@@ -16532,12 +26685,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4,
-    "price": 7091
+    "price": 4963,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1273,
@@ -16545,12 +26705,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4,
-    "price": 6615
+    "price": 4630,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1274,
@@ -16558,12 +26725,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4,
-    "price": 6891
+    "price": 4823,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1275,
@@ -16571,12 +26745,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4,
-    "price": 7166
+    "price": 5016,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1276,
@@ -16584,12 +26765,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4,
-    "price": 8104
+    "price": 5672,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1277,
@@ -16597,12 +26785,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4,
-    "price": 8269
+    "price": 5788,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1278,
@@ -16610,12 +26805,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4,
-    "price": 8613
+    "price": 6029,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1279,
@@ -16623,12 +26825,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4,
-    "price": 8958
+    "price": 6270,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1280,
@@ -16636,12 +26845,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4,
-    "price": 10129
+    "price": 7090,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1281,
@@ -16649,12 +26865,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4,
-    "price": 9096
+    "price": 6367,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1282,
@@ -16662,12 +26885,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4,
-    "price": 9474
+    "price": 6631,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1283,
@@ -16675,12 +26905,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4,
-    "price": 9853
+    "price": 6897,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1284,
@@ -16688,12 +26925,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4,
-    "price": 11143
+    "price": 7800,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1285,
@@ -16701,12 +26945,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4,
-    "price": 9923
+    "price": 6946,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1286,
@@ -16714,12 +26965,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4,
-    "price": 10336
+    "price": 7235,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1287,
@@ -16727,12 +26985,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4,
-    "price": 10750
+    "price": 7525,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1288,
@@ -16740,12 +27005,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4,
-    "price": 12155
+    "price": 8508,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1289,
@@ -16753,12 +27025,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 5168
+    "price": 3617,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1290,
@@ -16766,12 +27045,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 5383
+    "price": 3768,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1291,
@@ -16779,12 +27065,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 5599
+    "price": 3919,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1292,
@@ -16792,12 +27085,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 6330
+    "price": 4431,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1293,
@@ -16805,12 +27105,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 6201
+    "price": 4340,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1294,
@@ -16818,12 +27125,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 6460
+    "price": 4522,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1295,
@@ -16831,12 +27145,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 6718
+    "price": 4702,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1296,
@@ -16844,12 +27165,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 7597
+    "price": 5317,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1297,
@@ -16857,12 +27185,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 7236
+    "price": 5065,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1298,
@@ -16870,12 +27205,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 7537
+    "price": 5275,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1299,
@@ -16883,12 +27225,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 7838
+    "price": 5486,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1300,
@@ -16896,12 +27245,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 8863
+    "price": 6204,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1301,
@@ -16909,12 +27265,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 8269
+    "price": 5788,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1302,
@@ -16922,12 +27285,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 8613
+    "price": 6029,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1303,
@@ -16935,12 +27305,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 8958
+    "price": 6270,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1304,
@@ -16948,12 +27325,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 10129
+    "price": 7090,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1305,
@@ -16961,12 +27345,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 10336
+    "price": 7235,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1306,
@@ -16974,12 +27365,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 10767
+    "price": 7536,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1307,
@@ -16987,12 +27385,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 11197
+    "price": 7837,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1308,
@@ -17000,12 +27405,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 12662
+    "price": 8863,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1309,
@@ -17013,12 +27425,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 11369
+    "price": 7958,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1310,
@@ -17026,12 +27445,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 11843
+    "price": 8290,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1311,
@@ -17039,12 +27465,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 12317
+    "price": 8621,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1312,
@@ -17052,12 +27485,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 13927
+    "price": 9748,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1313,
@@ -17065,12 +27505,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 12404
+    "price": 8682,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1314,
@@ -17078,12 +27525,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 12920
+    "price": 9044,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1315,
@@ -17091,12 +27545,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 13437
+    "price": 9405,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1316,
@@ -17104,12 +27565,19 @@ const Products=[
     "src": "img/eco coir.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 15194
+    "price": 10635,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Col",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1317,
@@ -17117,12 +27585,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 3479
+    "price": 2435,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1318,
@@ -17130,12 +27604,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 3624
+    "price": 2536,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1319,
@@ -17143,12 +27623,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4,
-    "price": 3768
+    "price": 2637,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1320,
@@ -17156,12 +27642,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4,
-    "price": 4261
+    "price": 2982,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1321,
@@ -17169,12 +27661,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4,
-    "price": 4174
+    "price": 2921,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1322,
@@ -17182,12 +27680,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4,
-    "price": 4348
+    "price": 3043,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1323,
@@ -17195,12 +27699,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4,
-    "price": 4521
+    "price": 3164,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1324,
@@ -17208,12 +27718,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4,
-    "price": 5112
+    "price": 3578,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1325,
@@ -17221,12 +27737,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4,
-    "price": 4870
+    "price": 3409,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1326,
@@ -17234,12 +27756,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4,
-    "price": 5073
+    "price": 3551,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1327,
@@ -17247,12 +27775,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4,
-    "price": 5275
+    "price": 3692,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1328,
@@ -17260,12 +27794,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4,
-    "price": 5965
+    "price": 4175,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1329,
@@ -17273,12 +27813,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4,
-    "price": 5565
+    "price": 3895,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1330,
@@ -17286,12 +27832,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4,
-    "price": 5797
+    "price": 4057,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1331,
@@ -17299,12 +27851,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4,
-    "price": 6029
+    "price": 4220,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1332,
@@ -17312,12 +27870,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4,
-    "price": 6818
+    "price": 4772,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1333,
@@ -17325,12 +27889,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4,
-    "price": 6956
+    "price": 4869,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1334,
@@ -17338,12 +27908,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4,
-    "price": 7246
+    "price": 5072,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1335,
@@ -17351,12 +27927,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4,
-    "price": 7536
+    "price": 5275,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1336,
@@ -17364,12 +27946,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4,
-    "price": 8522
+    "price": 5965,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1337,
@@ -17377,12 +27965,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4,
-    "price": 7652
+    "price": 5356,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1338,
@@ -17390,12 +27984,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4,
-    "price": 7971
+    "price": 5579,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1339,
@@ -17403,12 +28003,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4,
-    "price": 8290
+    "price": 5803,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1340,
@@ -17416,12 +28022,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4,
-    "price": 9373
+    "price": 6561,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1341,
@@ -17429,12 +28041,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4,
-    "price": 8348
+    "price": 5843,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1342,
@@ -17442,12 +28060,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4,
-    "price": 8695
+    "price": 6086,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1343,
@@ -17455,12 +28079,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4,
-    "price": 9044
+    "price": 6330,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1344,
@@ -17468,12 +28098,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4,
-    "price": 10226
+    "price": 7158,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1345,
@@ -17481,12 +28117,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 4348
+    "price": 3043,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1346,
@@ -17494,12 +28136,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 4529
+    "price": 3170,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1347,
@@ -17507,12 +28155,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 4710
+    "price": 3297,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1348,
@@ -17520,12 +28174,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 5326
+    "price": 3728,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1349,
@@ -17533,12 +28193,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 5217
+    "price": 3651,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1350,
@@ -17546,12 +28212,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 5435
+    "price": 3804,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1351,
@@ -17559,12 +28231,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 5652
+    "price": 3956,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1352,
@@ -17572,12 +28250,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 6391
+    "price": 4473,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1353,
@@ -17585,12 +28269,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 6087
+    "price": 4260,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1354,
@@ -17598,12 +28288,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 6340
+    "price": 4438,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1355,
@@ -17611,12 +28307,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 6594
+    "price": 4615,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1356,
@@ -17624,12 +28326,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 7456
+    "price": 5219,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1357,
@@ -17637,12 +28345,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 6956
+    "price": 4869,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1358,
@@ -17650,12 +28364,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 7246
+    "price": 5072,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1359,
@@ -17663,12 +28383,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 7536
+    "price": 5275,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1360,
@@ -17676,12 +28402,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 8522
+    "price": 5965,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1361,
@@ -17689,12 +28421,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 8695
+    "price": 6086,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1362,
@@ -17702,12 +28440,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 9057
+    "price": 6339,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1363,
@@ -17715,12 +28459,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 9420
+    "price": 6594,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1364,
@@ -17728,12 +28478,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 10652
+    "price": 7456,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1365,
@@ -17741,12 +28497,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 9564
+    "price": 6694,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1366,
@@ -17754,12 +28516,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 9963
+    "price": 6974,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1367,
@@ -17767,12 +28535,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 10361
+    "price": 7252,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1368,
@@ -17780,12 +28554,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 11717
+    "price": 8201,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1369,
@@ -17793,12 +28573,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 10435
+    "price": 7304,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1370,
@@ -17806,12 +28592,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 10870
+    "price": 7609,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1371,
@@ -17819,12 +28611,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 11304
+    "price": 7912,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1372,
@@ -17832,12 +28630,18 @@ const Products=[
     "src": "img/eco foam.png",
     "feel": "FIRM",
     "budget": "Less than 10,000",
-    "offer": 20,
+    "offer": 30,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 12782
+    "price": 8947,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "High Density Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1373,
@@ -17845,12 +28649,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 15075
+    "price": 9045,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1374,
@@ -17858,12 +28670,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 15703
+    "price": 9421,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1375,
@@ -17871,12 +28691,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 16331
+    "price": 9798,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1376,
@@ -17884,12 +28712,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 17588
+    "price": 10552,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1377,
@@ -17897,12 +28733,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 18090
+    "price": 10854,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1378,
@@ -17910,12 +28754,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 18844
+    "price": 11306,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1379,
@@ -17923,12 +28775,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 19598
+    "price": 11758,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1380,
@@ -17936,12 +28796,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 21105
+    "price": 12663,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1381,
@@ -17949,12 +28817,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 21105
+    "price": 12663,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1382,
@@ -17962,12 +28838,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 21984
+    "price": 13190,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1383,
@@ -17975,12 +28859,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 22864
+    "price": 13718,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1384,
@@ -17988,12 +28880,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 24623
+    "price": 14773,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1385,
@@ -18001,12 +28901,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 24120
+    "price": 14472,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1386,
@@ -18014,12 +28922,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 25125
+    "price": 15075,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1387,
@@ -18027,12 +28943,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 26130
+    "price": 15678,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1388,
@@ -18040,12 +28964,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 28140
+    "price": 16884,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1389,
@@ -18053,12 +28985,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 30150
+    "price": 18090,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1390,
@@ -18066,12 +29006,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 31406
+    "price": 18843,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1391,
@@ -18079,12 +29027,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 32663
+    "price": 19597,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1392,
@@ -18092,12 +29048,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 35175
+    "price": 21105,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1393,
@@ -18105,12 +29069,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 33165
+    "price": 19899,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1394,
@@ -18118,12 +29090,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 34547
+    "price": 20728,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1395,
@@ -18131,12 +29111,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 35929
+    "price": 21557,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1396,
@@ -18144,12 +29132,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 38693
+    "price": 23215,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1397,
@@ -18157,12 +29153,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 36180
+    "price": 21708,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1398,
@@ -18170,12 +29174,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 37688
+    "price": 22612,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1399,
@@ -18183,12 +29195,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 39195
+    "price": 23517,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1400,
@@ -18196,12 +29216,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 42210
+    "price": 25326,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1401,
@@ -18209,12 +29237,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 18000
+    "price": 10800,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1402,
@@ -18222,12 +29258,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 18750
+    "price": 11250,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1403,
@@ -18235,12 +29279,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 19500
+    "price": 11700,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1404,
@@ -18248,12 +29300,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 21000
+    "price": 12600,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1405,
@@ -18261,12 +29321,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 21600
+    "price": 12960,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1406,
@@ -18274,12 +29342,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 22500
+    "price": 13500,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1407,
@@ -18287,12 +29363,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 23400
+    "price": 14040,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1408,
@@ -18300,12 +29384,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 25200
+    "price": 15120,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1409,
@@ -18313,12 +29405,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 25200
+    "price": 15120,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1410,
@@ -18326,12 +29426,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 26250
+    "price": 15750,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1411,
@@ -18339,12 +29447,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 27300
+    "price": 16380,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1412,
@@ -18352,12 +29468,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 29400
+    "price": 17640,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1413,
@@ -18365,12 +29489,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 28800
+    "price": 17280,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1414,
@@ -18378,12 +29510,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 30000
+    "price": 18000,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1415,
@@ -18391,12 +29531,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 31200
+    "price": 18720,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1416,
@@ -18404,12 +29552,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 33600
+    "price": 20160,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1417,
@@ -18417,12 +29573,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 36000
+    "price": 21600,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1418,
@@ -18430,12 +29594,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 37500
+    "price": 22500,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1419,
@@ -18443,12 +29615,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 39000
+    "price": 23400,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1420,
@@ -18456,12 +29636,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 42000
+    "price": 25200,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1421,
@@ -18469,12 +29657,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 39600
+    "price": 23760,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1422,
@@ -18482,12 +29678,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 41250
+    "price": 24750,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1423,
@@ -18495,12 +29699,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 42900
+    "price": 25740,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1424,
@@ -18508,12 +29720,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 46200
+    "price": 27720,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1425,
@@ -18521,12 +29741,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 43200
+    "price": 25920,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1426,
@@ -18534,12 +29762,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 45000
+    "price": 27000,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1427,
@@ -18547,12 +29783,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 46800
+    "price": 28080,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1428,
@@ -18560,12 +29804,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 50400
+    "price": 30240,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1429,
@@ -18573,12 +29825,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 12,
-    "price": 20700
+    "price": 12420,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1430,
@@ -18586,12 +29846,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 12,
-    "price": 21563
+    "price": 12937,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1431,
@@ -18599,12 +29867,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 12,
-    "price": 22425
+    "price": 13455,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1432,
@@ -18612,12 +29888,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 12,
-    "price": 24150
+    "price": 14490,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1433,
@@ -18625,12 +29909,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 12,
-    "price": 24840
+    "price": 14904,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1434,
@@ -18638,12 +29930,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 12,
-    "price": 25875
+    "price": 15525,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1435,
@@ -18651,12 +29951,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 12,
-    "price": 26910
+    "price": 16146,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1436,
@@ -18664,12 +29972,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 12,
-    "price": 28980
+    "price": 17388,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1437,
@@ -18677,12 +29993,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 12,
-    "price": 28980
+    "price": 17388,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1438,
@@ -18690,12 +30014,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 12,
-    "price": 30188
+    "price": 18112,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1439,
@@ -18703,12 +30035,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 12,
-    "price": 31395
+    "price": 18837,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1440,
@@ -18716,12 +30056,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 12,
-    "price": 33810
+    "price": 20286,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1441,
@@ -18729,12 +30077,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 12,
-    "price": 33120
+    "price": 19872,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1442,
@@ -18742,12 +30098,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 12,
-    "price": 34500
+    "price": 20700,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1443,
@@ -18755,12 +30119,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 12,
-    "price": 35880
+    "price": 21528,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1444,
@@ -18768,12 +30140,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 12,
-    "price": 38640
+    "price": 23184,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1445,
@@ -18781,12 +30161,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 12,
-    "price": 41400
+    "price": 24840,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1446,
@@ -18794,12 +30182,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 12,
-    "price": 43125
+    "price": 25875,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1447,
@@ -18807,12 +30203,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 12,
-    "price": 44850
+    "price": 26910,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1448,
@@ -18820,12 +30224,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 12,
-    "price": 48300
+    "price": 28980,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1449,
@@ -18833,12 +30245,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 12,
-    "price": 45540
+    "price": 27324,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1450,
@@ -18846,12 +30266,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 12,
-    "price": 47438
+    "price": 28462,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1451,
@@ -18859,12 +30287,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 12,
-    "price": 49335
+    "price": 29601,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1452,
@@ -18872,12 +30308,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 12,
-    "price": 53130
+    "price": 31878,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1453,
@@ -18885,12 +30329,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 12,
-    "price": 49680
+    "price": 29808,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1454,
@@ -18898,12 +30350,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 12,
-    "price": 51750
+    "price": 31050,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1455,
@@ -18911,12 +30371,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 12,
-    "price": 53820
+    "price": 32292,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1456,
@@ -18924,12 +30392,20 @@ const Products=[
     "src": "img/enchant.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 12,
-    "price": 57960
+    "price": 34776,
+    "layers": [
+      "Melange Fabric",
+      "PU Foam Quilt",
+      "Hypo Super Soft Foam",
+      "Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1457,
@@ -18937,12 +30413,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 34425
+    "price": 20655,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1458,
@@ -18950,12 +30436,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 35859
+    "price": 21515,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1459,
@@ -18963,12 +30459,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 37294
+    "price": 22376,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1460,
@@ -18976,12 +30482,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 40163
+    "price": 24097,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1461,
@@ -18989,12 +30505,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 41310
+    "price": 24786,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1462,
@@ -19002,12 +30528,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 43031
+    "price": 25818,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1463,
@@ -19015,12 +30551,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 44753
+    "price": 26851,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1464,
@@ -19028,12 +30574,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 48195
+    "price": 28917,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1465,
@@ -19041,12 +30597,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 48195
+    "price": 28917,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1466,
@@ -19054,12 +30620,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 50203
+    "price": 30121,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1467,
@@ -19067,12 +30643,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 52211
+    "price": 31326,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1468,
@@ -19080,12 +30666,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 56228
+    "price": 33736,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1469,
@@ -19093,12 +30689,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 55080
+    "price": 33048,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1470,
@@ -19106,12 +30712,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 57375
+    "price": 34425,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1471,
@@ -19119,12 +30735,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 59670
+    "price": 35802,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1472,
@@ -19132,12 +30758,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 64260
+    "price": 38556,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1473,
@@ -19145,12 +30781,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 68850
+    "price": 41310,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1474,
@@ -19158,12 +30804,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 71719
+    "price": 43031,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1475,
@@ -19171,12 +30827,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 74588
+    "price": 44752,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1476,
@@ -19184,12 +30850,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 80325
+    "price": 48195,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1477,
@@ -19197,12 +30873,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 75735
+    "price": 45441,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1478,
@@ -19210,12 +30896,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 78891
+    "price": 47334,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1479,
@@ -19223,12 +30919,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 82046
+    "price": 49227,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1480,
@@ -19236,12 +30942,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 88358
+    "price": 53014,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1481,
@@ -19249,12 +30965,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 82620
+    "price": 49572,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1482,
@@ -19262,12 +30988,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 86063
+    "price": 51637,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1483,
@@ -19275,12 +31011,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 89505
+    "price": 53703,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1484,
@@ -19288,12 +31034,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 96390
+    "price": 57834,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1485,
@@ -19301,12 +31057,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 12,
-    "price": 37125
+    "price": 22275,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1486,
@@ -19314,12 +31080,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 12,
-    "price": 38672
+    "price": 23203,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1487,
@@ -19327,12 +31103,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 12,
-    "price": 40219
+    "price": 24131,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1488,
@@ -19340,12 +31126,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 12,
-    "price": 43313
+    "price": 25987,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1489,
@@ -19353,12 +31149,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 12,
-    "price": 44550
+    "price": 26730,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1490,
@@ -19366,12 +31172,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 12,
-    "price": 46406
+    "price": 27843,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1491,
@@ -19379,12 +31195,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 12,
-    "price": 48263
+    "price": 28957,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1492,
@@ -19392,12 +31218,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 12,
-    "price": 51975
+    "price": 31185,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1493,
@@ -19405,12 +31241,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 12,
-    "price": 51975
+    "price": 31185,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1494,
@@ -19418,12 +31264,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 12,
-    "price": 54141
+    "price": 32484,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1495,
@@ -19431,12 +31287,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 12,
-    "price": 56306
+    "price": 33783,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1496,
@@ -19444,12 +31310,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 12,
-    "price": 60638
+    "price": 36382,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1497,
@@ -19457,12 +31333,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 12,
-    "price": 59400
+    "price": 35640,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1498,
@@ -19470,12 +31356,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 12,
-    "price": 61875
+    "price": 37125,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1499,
@@ -19483,12 +31379,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 12,
-    "price": 64350
+    "price": 38610,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1500,
@@ -19496,12 +31402,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 12,
-    "price": 69300
+    "price": 41580,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1501,
@@ -19509,12 +31425,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 12,
-    "price": 74250
+    "price": 44550,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1502,
@@ -19522,12 +31448,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 12,
-    "price": 77344
+    "price": 46406,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1503,
@@ -19535,12 +31471,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 12,
-    "price": 80438
+    "price": 48262,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1504,
@@ -19548,12 +31494,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 12,
-    "price": 86625
+    "price": 51975,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1505,
@@ -19561,12 +31517,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 12,
-    "price": 81675
+    "price": 49005,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1506,
@@ -19574,12 +31540,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 12,
-    "price": 85078
+    "price": 51046,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1507,
@@ -19587,12 +31563,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 12,
-    "price": 88481
+    "price": 53088,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1508,
@@ -19600,12 +31586,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 12,
-    "price": 95288
+    "price": 57172,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1509,
@@ -19613,12 +31609,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 12,
-    "price": 89100
+    "price": 53460,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1510,
@@ -19626,12 +31632,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 12,
-    "price": 92813
+    "price": 55687,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1511,
@@ -19639,12 +31655,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 12,
-    "price": 96525
+    "price": 57915,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1512,
@@ -19652,12 +31678,22 @@ const Products=[
     "src": "img/opulence.png",
     "feel": "SOFT",
     "budget": "Above 35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 12,
-    "price": 103950
+    "price": 62370,
+    "layers": [
+      "Viscose fabric",
+      "Herba Memory Quilt",
+      "Cool Gel Memory Foam",
+      "100% Natural Latex",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1513,
@@ -19665,12 +31701,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 4,
-    "price": 10080
+    "price": 6048,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1514,
@@ -19678,12 +31722,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 4,
-    "price": 10500
+    "price": 6300,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1515,
@@ -19691,12 +31743,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 4,
-    "price": 10920
+    "price": 6552,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1516,
@@ -19704,12 +31764,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 4,
-    "price": 11760
+    "price": 7056,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1517,
@@ -19717,12 +31785,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 4,
-    "price": 12096
+    "price": 7257,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1518,
@@ -19730,12 +31806,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 4,
-    "price": 12600
+    "price": 7560,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1519,
@@ -19743,12 +31827,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 4,
-    "price": 13104
+    "price": 7862,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1520,
@@ -19756,12 +31848,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 4,
-    "price": 14112
+    "price": 8467,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1521,
@@ -19769,12 +31869,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 4,
-    "price": 14112
+    "price": 8467,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1522,
@@ -19782,12 +31890,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 4,
-    "price": 14700
+    "price": 8820,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1523,
@@ -19795,12 +31911,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 4,
-    "price": 15288
+    "price": 9172,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1524,
@@ -19808,12 +31932,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 4,
-    "price": 16464
+    "price": 9878,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1525,
@@ -19821,12 +31953,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 4,
-    "price": 16128
+    "price": 9676,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1526,
@@ -19834,12 +31974,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 4,
-    "price": 16800
+    "price": 10080,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1527,
@@ -19847,12 +31995,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 4,
-    "price": 17472
+    "price": 10483,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1528,
@@ -19860,12 +32016,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 4,
-    "price": 18816
+    "price": 11289,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1529,
@@ -19873,12 +32037,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 4,
-    "price": 20160
+    "price": 12096,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1530,
@@ -19886,12 +32058,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 4,
-    "price": 21000
+    "price": 12600,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1531,
@@ -19899,12 +32079,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 4,
-    "price": 21840
+    "price": 13104,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1532,
@@ -19912,12 +32100,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 4,
-    "price": 23520
+    "price": 14112,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1533,
@@ -19925,12 +32121,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 4,
-    "price": 22176
+    "price": 13305,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1534,
@@ -19938,12 +32142,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 4,
-    "price": 23100
+    "price": 13860,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1535,
@@ -19951,12 +32163,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 4,
-    "price": 24024
+    "price": 14414,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1536,
@@ -19964,12 +32184,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 4,
-    "price": 25872
+    "price": 15523,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1537,
@@ -19977,12 +32205,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 4,
-    "price": 24192
+    "price": 14515,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1538,
@@ -19990,12 +32226,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 4,
-    "price": 25200
+    "price": 15120,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1539,
@@ -20003,12 +32247,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 4,
-    "price": 26208
+    "price": 15724,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1540,
@@ -20016,12 +32268,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 4,
-    "price": 28224
+    "price": 16934,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1541,
@@ -20029,12 +32289,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 5,
-    "price": 11475
+    "price": 6885,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1542,
@@ -20042,12 +32310,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 5,
-    "price": 11953
+    "price": 7171,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1543,
@@ -20055,12 +32331,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 5,
-    "price": 12431
+    "price": 7458,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1544,
@@ -20068,12 +32352,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 5,
-    "price": 13388
+    "price": 8032,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1545,
@@ -20081,12 +32373,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 5,
-    "price": 13770
+    "price": 8262,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1546,
@@ -20094,12 +32394,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 5,
-    "price": 14344
+    "price": 8606,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1547,
@@ -20107,12 +32415,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 5,
-    "price": 14918
+    "price": 8950,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1548,
@@ -20120,12 +32436,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 5,
-    "price": 16065
+    "price": 9639,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1549,
@@ -20133,12 +32457,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 5,
-    "price": 16065
+    "price": 9639,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1550,
@@ -20146,12 +32478,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 5,
-    "price": 16734
+    "price": 10040,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1551,
@@ -20159,12 +32499,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 5,
-    "price": 17404
+    "price": 10442,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1552,
@@ -20172,12 +32520,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 5,
-    "price": 18743
+    "price": 11245,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1553,
@@ -20185,12 +32541,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 5,
-    "price": 18360
+    "price": 11016,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1554,
@@ -20198,12 +32562,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 5,
-    "price": 19125
+    "price": 11475,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1555,
@@ -20211,12 +32583,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 5,
-    "price": 19890
+    "price": 11934,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1556,
@@ -20224,12 +32604,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 5,
-    "price": 21420
+    "price": 12852,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1557,
@@ -20237,12 +32625,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 5,
-    "price": 22950
+    "price": 13770,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1558,
@@ -20250,12 +32646,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 5,
-    "price": 23906
+    "price": 14343,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1559,
@@ -20263,12 +32667,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 5,
-    "price": 24863
+    "price": 14917,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1560,
@@ -20276,12 +32688,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 5,
-    "price": 26775
+    "price": 16065,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1561,
@@ -20289,12 +32709,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 5,
-    "price": 25245
+    "price": 15147,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1562,
@@ -20302,12 +32730,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 5,
-    "price": 26297
+    "price": 15778,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1563,
@@ -20315,12 +32751,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 5,
-    "price": 27349
+    "price": 16409,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1564,
@@ -20328,12 +32772,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 5,
-    "price": 29453
+    "price": 17671,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1565,
@@ -20341,12 +32793,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 5,
-    "price": 27540
+    "price": 16524,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1566,
@@ -20354,12 +32814,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 5,
-    "price": 28688
+    "price": 17212,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1567,
@@ -20367,12 +32835,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 5,
-    "price": 29835
+    "price": 17901,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1568,
@@ -20380,12 +32856,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 5,
-    "price": 32130
+    "price": 19278,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1569,
@@ -20393,12 +32877,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 13050
+    "price": 7830,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1570,
@@ -20406,12 +32898,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 13594
+    "price": 8156,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1571,
@@ -20419,12 +32919,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 14138
+    "price": 8482,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1572,
@@ -20432,12 +32940,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 15225
+    "price": 9135,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1573,
@@ -20445,12 +32961,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 15660
+    "price": 9396,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1574,
@@ -20458,12 +32982,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 16313
+    "price": 9787,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1575,
@@ -20471,12 +33003,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 16965
+    "price": 10179,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1576,
@@ -20484,12 +33024,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 18270
+    "price": 10962,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1577,
@@ -20497,12 +33045,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 18270
+    "price": 10962,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1578,
@@ -20510,12 +33066,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 19031
+    "price": 11418,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1579,
@@ -20523,12 +33087,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 19793
+    "price": 11875,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1580,
@@ -20536,12 +33108,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 21315
+    "price": 12789,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1581,
@@ -20549,12 +33129,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 20880
+    "price": 12528,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1582,
@@ -20562,12 +33150,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 21750
+    "price": 13050,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1583,
@@ -20575,12 +33171,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 22620
+    "price": 13572,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1584,
@@ -20588,12 +33192,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 24360
+    "price": 14616,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1585,
@@ -20601,12 +33213,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 26100
+    "price": 15660,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1586,
@@ -20614,12 +33234,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 27188
+    "price": 16312,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1587,
@@ -20627,12 +33255,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 28275
+    "price": 16965,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1588,
@@ -20640,12 +33276,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 30450
+    "price": 18270,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1589,
@@ -20653,12 +33297,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 28710
+    "price": 17226,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1590,
@@ -20666,12 +33318,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 29906
+    "price": 17943,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1591,
@@ -20679,12 +33339,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 31103
+    "price": 18661,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1592,
@@ -20692,12 +33360,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 33495
+    "price": 20097,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1593,
@@ -20705,12 +33381,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 31320
+    "price": 18792,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1594,
@@ -20718,12 +33402,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 32625
+    "price": 19575,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1595,
@@ -20731,12 +33423,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 33930
+    "price": 20358,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1596,
@@ -20744,12 +33444,20 @@ const Products=[
     "src": "img/resistance.png",
     "feel": "FIRM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 36540
+    "price": 21924,
+    "layers": [
+      "Jacquard Fabric",
+      "PU Foam Quilt",
+      "Natural Coir",
+      "Rebonded Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1597,
@@ -20757,12 +33465,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 28800
+    "price": 17280,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1598,
@@ -20770,12 +33486,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 30000
+    "price": 18000,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1599,
@@ -20783,12 +33507,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 31200
+    "price": 18720,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1600,
@@ -20796,12 +33528,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 33600
+    "price": 20160,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1601,
@@ -20809,12 +33549,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 34560
+    "price": 20736,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1602,
@@ -20822,12 +33570,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 36000
+    "price": 21600,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1603,
@@ -20835,12 +33591,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 37440
+    "price": 22464,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1604,
@@ -20848,12 +33612,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 40320
+    "price": 24192,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1605,
@@ -20861,12 +33633,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 40320
+    "price": 24192,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1606,
@@ -20874,12 +33654,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 42000
+    "price": 25200,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1607,
@@ -20887,12 +33675,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 43680
+    "price": 26208,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1608,
@@ -20900,12 +33696,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 47040
+    "price": 28224,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1609,
@@ -20913,12 +33717,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 46080
+    "price": 27648,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1610,
@@ -20926,12 +33738,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 48000
+    "price": 28800,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1611,
@@ -20939,12 +33759,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 49920
+    "price": 29952,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1612,
@@ -20952,12 +33780,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 53760
+    "price": 32256,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1613,
@@ -20965,12 +33801,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 57600
+    "price": 34560,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1614,
@@ -20978,12 +33822,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 60000
+    "price": 36000,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1615,
@@ -20991,12 +33843,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 62400
+    "price": 37440,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1616,
@@ -21004,12 +33864,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 67200
+    "price": 40320,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1617,
@@ -21017,12 +33885,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 63360
+    "price": 38016,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1618,
@@ -21030,12 +33906,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 66000
+    "price": 39600,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1619,
@@ -21043,12 +33927,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 68640
+    "price": 41184,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1620,
@@ -21056,12 +33948,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 73920
+    "price": 44352,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1621,
@@ -21069,12 +33969,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 69120
+    "price": 41472,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1622,
@@ -21082,12 +33990,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 72000
+    "price": 43200,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1623,
@@ -21095,12 +34011,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 74880
+    "price": 44928,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1624,
@@ -21108,12 +34032,20 @@ const Products=[
     "src": "img/captivate.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 80640
+    "price": 48384,
+    "layers": [
+      "Imported Tencil Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "100% Natural Latex",
+      "Hyper Super Soft Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1625,
@@ -21121,12 +34053,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 22950
+    "price": 13770,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1626,
@@ -21134,12 +34073,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 23906
+    "price": 14343,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1627,
@@ -21147,12 +34093,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 24863
+    "price": 14917,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1628,
@@ -21160,12 +34113,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 26775
+    "price": 16065,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1629,
@@ -21173,12 +34133,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 27540
+    "price": 16524,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1630,
@@ -21186,12 +34153,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 28688
+    "price": 17212,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1631,
@@ -21199,12 +34173,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 29835
+    "price": 17901,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1632,
@@ -21212,12 +34193,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 32130
+    "price": 19278,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1633,
@@ -21225,12 +34213,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 32130
+    "price": 19278,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1634,
@@ -21238,12 +34233,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 33469
+    "price": 20081,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1635,
@@ -21251,12 +34253,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 34808
+    "price": 20884,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1636,
@@ -21264,12 +34273,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 37485
+    "price": 22491,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1637,
@@ -21277,12 +34293,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 36720
+    "price": 22032,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1638,
@@ -21290,12 +34313,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 38250
+    "price": 22950,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1639,
@@ -21303,12 +34333,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 39780
+    "price": 23868,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1640,
@@ -21316,12 +34353,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 42840
+    "price": 25704,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1641,
@@ -21329,12 +34373,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 45900
+    "price": 27540,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1642,
@@ -21342,12 +34393,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 47813
+    "price": 28687,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1643,
@@ -21355,12 +34413,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 49725
+    "price": 29835,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1644,
@@ -21368,12 +34433,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 53550
+    "price": 32130,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1645,
@@ -21381,12 +34453,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 50490
+    "price": 30294,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1646,
@@ -21394,12 +34473,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 52594
+    "price": 31556,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1647,
@@ -21407,12 +34493,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 54698
+    "price": 32818,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1648,
@@ -21420,12 +34513,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 58905
+    "price": 35343,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1649,
@@ -21433,12 +34533,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 55080
+    "price": 33048,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1650,
@@ -21446,12 +34553,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 57375
+    "price": 34425,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1651,
@@ -21459,12 +34573,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 59670
+    "price": 35802,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1652,
@@ -21472,12 +34593,19 @@ const Products=[
     "src": "img/naturaite.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 64260
+    "price": 38556,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "100% Natural Latex",
+      "Natural Coir",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1653,
@@ -21485,12 +34613,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 18000
+    "price": 10800,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1654,
@@ -21498,12 +34632,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 18750
+    "price": 11250,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1655,
@@ -21511,12 +34651,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 19500
+    "price": 11700,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1656,
@@ -21524,12 +34670,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 21000
+    "price": 12600,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1657,
@@ -21537,12 +34689,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 21600
+    "price": 12960,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1658,
@@ -21550,12 +34708,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 22500
+    "price": 13500,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1659,
@@ -21563,12 +34727,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 23400
+    "price": 14040,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1660,
@@ -21576,12 +34746,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 25200
+    "price": 15120,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1661,
@@ -21589,12 +34765,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 25200
+    "price": 15120,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1662,
@@ -21602,12 +34784,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 26250
+    "price": 15750,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1663,
@@ -21615,12 +34803,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 27300
+    "price": 16380,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1664,
@@ -21628,12 +34822,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 29400
+    "price": 17640,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1665,
@@ -21641,12 +34841,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 28800
+    "price": 17280,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1666,
@@ -21654,12 +34860,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 30000
+    "price": 18000,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1667,
@@ -21667,12 +34879,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 31200
+    "price": 18720,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1668,
@@ -21680,12 +34898,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 33600
+    "price": 20160,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1669,
@@ -21693,12 +34917,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 36000
+    "price": 21600,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1670,
@@ -21706,12 +34936,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 37500
+    "price": 22500,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1671,
@@ -21719,12 +34955,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 39000
+    "price": 23400,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1672,
@@ -21732,12 +34974,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 42000
+    "price": 25200,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1673,
@@ -21745,12 +34993,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 39600
+    "price": 23760,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1674,
@@ -21758,12 +35012,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 41250
+    "price": 24750,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1675,
@@ -21771,12 +35031,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 42900
+    "price": 25740,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1676,
@@ -21784,12 +35050,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 46200
+    "price": 27720,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1677,
@@ -21797,12 +35069,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 43200
+    "price": 25920,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1678,
@@ -21810,12 +35088,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 45000
+    "price": 27000,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1679,
@@ -21823,12 +35107,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 46800
+    "price": 28080,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1680,
@@ -21836,12 +35126,18 @@ const Products=[
     "src": "img/heel.png",
     "feel": "MEDIUM",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 50400
+    "price": 30240,
+    "layers": [
+      "Jacquard Fabric",
+      "100% Natural Latex",
+      "Cool Gel Memory",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1681,
@@ -21849,12 +35145,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 6,
-    "price": 13950
+    "price": 8370,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1682,
@@ -21862,12 +35163,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 6,
-    "price": 14531
+    "price": 8718,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1683,
@@ -21875,12 +35181,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 6,
-    "price": 15113
+    "price": 9067,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1684,
@@ -21888,12 +35199,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 6,
-    "price": 16275
+    "price": 9765,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1685,
@@ -21901,12 +35217,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 6,
-    "price": 16740
+    "price": 10044,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1686,
@@ -21914,12 +35235,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 6,
-    "price": 17438
+    "price": 10462,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1687,
@@ -21927,12 +35253,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 6,
-    "price": 18135
+    "price": 10881,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1688,
@@ -21940,12 +35271,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 6,
-    "price": 19530
+    "price": 11718,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1689,
@@ -21953,12 +35289,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 6,
-    "price": 19530
+    "price": 11718,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1690,
@@ -21966,12 +35307,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 6,
-    "price": 20344
+    "price": 12206,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1691,
@@ -21979,12 +35325,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 6,
-    "price": 21158
+    "price": 12694,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1692,
@@ -21992,12 +35343,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 6,
-    "price": 22785
+    "price": 13671,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1693,
@@ -22005,12 +35361,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 6,
-    "price": 22320
+    "price": 13392,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1694,
@@ -22018,12 +35379,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 6,
-    "price": 23250
+    "price": 13950,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1695,
@@ -22031,12 +35397,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 6,
-    "price": 24180
+    "price": 14508,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1696,
@@ -22044,12 +35415,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 6,
-    "price": 26040
+    "price": 15624,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1697,
@@ -22057,12 +35433,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 6,
-    "price": 27900
+    "price": 16740,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1698,
@@ -22070,12 +35451,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 6,
-    "price": 29063
+    "price": 17437,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1699,
@@ -22083,12 +35469,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 6,
-    "price": 30225
+    "price": 18135,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1700,
@@ -22096,12 +35487,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 6,
-    "price": 32550
+    "price": 19530,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1701,
@@ -22109,12 +35505,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 6,
-    "price": 30690
+    "price": 18414,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1702,
@@ -22122,12 +35523,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 6,
-    "price": 31969
+    "price": 19181,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1703,
@@ -22135,12 +35541,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 6,
-    "price": 33248
+    "price": 19948,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1704,
@@ -22148,12 +35559,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 6,
-    "price": 35805
+    "price": 21483,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1705,
@@ -22161,12 +35577,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 6,
-    "price": 33480
+    "price": 20088,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1706,
@@ -22174,12 +35595,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 6,
-    "price": 34875
+    "price": 20925,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1707,
@@ -22187,12 +35613,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 6,
-    "price": 36270
+    "price": 21762,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1708,
@@ -22200,12 +35631,17 @@ const Products=[
     "src": "img/feel.png",
     "feel": "MEDIUM",
     "budget": "11,000-20,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 6,
-    "price": 39060
+    "price": 23436,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Foam",
+      "Tensile Strength"
+    ]
   },
   {
     "id": 1709,
@@ -22213,12 +35649,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 8,
-    "price": 25650
+    "price": 15390,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1710,
@@ -22226,12 +35670,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 8,
-    "price": 26719
+    "price": 16031,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1711,
@@ -22239,12 +35691,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 8,
-    "price": 27788
+    "price": 16672,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1712,
@@ -22252,12 +35712,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 8,
-    "price": 29925
+    "price": 17955,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1713,
@@ -22265,12 +35733,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 8,
-    "price": 30780
+    "price": 18468,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1714,
@@ -22278,12 +35754,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 8,
-    "price": 32063
+    "price": 19237,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1715,
@@ -22291,12 +35775,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 8,
-    "price": 33345
+    "price": 20007,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1716,
@@ -22304,12 +35796,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 8,
-    "price": 35910
+    "price": 21546,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1717,
@@ -22317,12 +35817,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 8,
-    "price": 35910
+    "price": 21546,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1718,
@@ -22330,12 +35838,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 8,
-    "price": 37406
+    "price": 22443,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1719,
@@ -22343,12 +35859,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 8,
-    "price": 38903
+    "price": 23341,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1720,
@@ -22356,12 +35880,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 8,
-    "price": 41895
+    "price": 25137,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1721,
@@ -22369,12 +35901,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 8,
-    "price": 41040
+    "price": 24624,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1722,
@@ -22382,12 +35922,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 8,
-    "price": 42750
+    "price": 25650,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1723,
@@ -22395,12 +35943,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 8,
-    "price": 44460
+    "price": 26676,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1724,
@@ -22408,12 +35964,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 8,
-    "price": 47880
+    "price": 28728,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1725,
@@ -22421,12 +35985,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 8,
-    "price": 51300
+    "price": 30780,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1726,
@@ -22434,12 +36006,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 8,
-    "price": 53438
+    "price": 32062,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1727,
@@ -22447,12 +36027,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 8,
-    "price": 55575
+    "price": 33345,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1728,
@@ -22460,12 +36048,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 8,
-    "price": 59850
+    "price": 35910,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1729,
@@ -22473,12 +36069,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 8,
-    "price": 56430
+    "price": 33858,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1730,
@@ -22486,12 +36090,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 8,
-    "price": 58781
+    "price": 35268,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1731,
@@ -22499,12 +36111,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 8,
-    "price": 61133
+    "price": 36679,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1732,
@@ -22512,12 +36132,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 8,
-    "price": 65835
+    "price": 39501,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1733,
@@ -22525,12 +36153,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 8,
-    "price": 61560
+    "price": 36936,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1734,
@@ -22538,12 +36174,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 8,
-    "price": 64125
+    "price": 38475,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1735,
@@ -22551,12 +36195,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 8,
-    "price": 66690
+    "price": 40014,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1736,
@@ -22564,12 +36216,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 8,
-    "price": 71820
+    "price": 43092,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1737,
@@ -22577,12 +36237,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 28800
+    "price": 17280,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1738,
@@ -22590,12 +36258,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 30000
+    "price": 18000,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1739,
@@ -22603,12 +36279,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 31200
+    "price": 18720,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1740,
@@ -22616,12 +36300,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 33600
+    "price": 20160,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1741,
@@ -22629,12 +36321,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 34560
+    "price": 20736,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1742,
@@ -22642,12 +36342,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 36000
+    "price": 21600,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1743,
@@ -22655,12 +36363,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 37440
+    "price": 22464,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1744,
@@ -22668,12 +36384,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 40320
+    "price": 24192,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1745,
@@ -22681,12 +36405,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 40320
+    "price": 24192,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1746,
@@ -22694,12 +36426,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 42000
+    "price": 25200,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1747,
@@ -22707,12 +36447,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 43680
+    "price": 26208,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1748,
@@ -22720,12 +36468,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 47040
+    "price": 28224,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1749,
@@ -22733,12 +36489,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 46080
+    "price": 27648,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1750,
@@ -22746,12 +36510,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 48000
+    "price": 28800,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1751,
@@ -22759,12 +36531,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 49920
+    "price": 29952,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1752,
@@ -22772,12 +36552,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 53760
+    "price": 32256,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1753,
@@ -22785,12 +36573,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 57600
+    "price": 34560,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1754,
@@ -22798,12 +36594,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 60000
+    "price": 36000,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1755,
@@ -22811,12 +36615,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 62400
+    "price": 37440,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1756,
@@ -22824,12 +36636,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 67200
+    "price": 40320,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1757,
@@ -22837,12 +36657,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 63360
+    "price": 38016,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1758,
@@ -22850,12 +36678,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 66000
+    "price": 39600,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1759,
@@ -22863,12 +36699,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 68640
+    "price": 41184,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1760,
@@ -22876,12 +36720,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 73920
+    "price": 44352,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1761,
@@ -22889,12 +36741,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 69120
+    "price": 41472,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1762,
@@ -22902,12 +36762,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 72000
+    "price": 43200,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1763,
@@ -22915,12 +36783,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 74880
+    "price": 44928,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1764,
@@ -22928,12 +36804,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 80640
+    "price": 48384,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1765,
@@ -22941,12 +36825,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 12,
-    "price": 32175
+    "price": 19305,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1766,
@@ -22954,12 +36846,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 12,
-    "price": 33516
+    "price": 20109,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1767,
@@ -22967,12 +36867,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 12,
-    "price": 34856
+    "price": 20913,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1768,
@@ -22980,12 +36888,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 12,
-    "price": 37538
+    "price": 22522,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1769,
@@ -22993,12 +36909,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 12,
-    "price": 38610
+    "price": 23166,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1770,
@@ -23006,12 +36930,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 12,
-    "price": 40219
+    "price": 24131,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1771,
@@ -23019,12 +36951,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 12,
-    "price": 41828
+    "price": 25096,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1772,
@@ -23032,12 +36972,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 12,
-    "price": 45045
+    "price": 27027,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1773,
@@ -23045,12 +36993,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 12,
-    "price": 45045
+    "price": 27027,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1774,
@@ -23058,12 +37014,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 12,
-    "price": 46922
+    "price": 28153,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1775,
@@ -23071,12 +37035,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 12,
-    "price": 48799
+    "price": 29279,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1776,
@@ -23084,12 +37056,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 12,
-    "price": 52553
+    "price": 31531,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1777,
@@ -23097,12 +37077,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 12,
-    "price": 51480
+    "price": 30888,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1778,
@@ -23110,12 +37098,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 12,
-    "price": 53625
+    "price": 32175,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1779,
@@ -23123,12 +37119,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 12,
-    "price": 55770
+    "price": 33462,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1780,
@@ -23136,12 +37140,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 12,
-    "price": 60060
+    "price": 36036,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1781,
@@ -23149,12 +37161,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 12,
-    "price": 64350
+    "price": 38610,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1782,
@@ -23162,12 +37182,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 12,
-    "price": 67031
+    "price": 40218,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1783,
@@ -23175,12 +37203,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 12,
-    "price": 69713
+    "price": 41827,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1784,
@@ -23188,12 +37224,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 12,
-    "price": 75075
+    "price": 45045,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1785,
@@ -23201,12 +37245,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 12,
-    "price": 70785
+    "price": 42471,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1786,
@@ -23214,12 +37266,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 12,
-    "price": 73734
+    "price": 44240,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1787,
@@ -23227,12 +37287,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 12,
-    "price": 76684
+    "price": 46010,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1788,
@@ -23240,12 +37308,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 12,
-    "price": 82583
+    "price": 49549,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1789,
@@ -23253,12 +37329,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 12,
-    "price": 77220
+    "price": 46332,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1790,
@@ -23266,12 +37350,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 12,
-    "price": 80438
+    "price": 48262,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1791,
@@ -23279,12 +37371,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 12,
-    "price": 83655
+    "price": 50193,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1792,
@@ -23292,12 +37392,20 @@ const Products=[
     "src": "img/mesmerise.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 12,
-    "price": 90090
+    "price": 54054,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Memory Foam",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1793,
@@ -23305,12 +37413,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 30,
     "thickness": 10,
-    "price": 18675
+    "price": 11205,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1794,
@@ -23318,12 +37435,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 30,
     "thickness": 10,
-    "price": 19453
+    "price": 11671,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1795,
@@ -23331,12 +37457,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 30,
     "thickness": 10,
-    "price": 20231
+    "price": 12138,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1796,
@@ -23344,12 +37479,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 30,
     "thickness": 10,
-    "price": 21788
+    "price": 13072,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1797,
@@ -23357,12 +37501,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 72,
     "width": 36,
     "thickness": 10,
-    "price": 22410
+    "price": 13446,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1798,
@@ -23370,12 +37523,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 75,
     "width": 36,
     "thickness": 10,
-    "price": 23344
+    "price": 14006,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1799,
@@ -23383,12 +37545,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 78,
     "width": 36,
     "thickness": 10,
-    "price": 24278
+    "price": 14566,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1800,
@@ -23396,12 +37567,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "single",
     "length": 84,
     "width": 36,
     "thickness": 10,
-    "price": 26145
+    "price": 15687,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1801,
@@ -23409,12 +37589,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 42,
     "thickness": 10,
-    "price": 26145
+    "price": 15687,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1802,
@@ -23422,12 +37611,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 42,
     "thickness": 10,
-    "price": 27234
+    "price": 16340,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1803,
@@ -23435,12 +37633,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 42,
     "thickness": 10,
-    "price": 28324
+    "price": 16994,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1804,
@@ -23448,12 +37655,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 42,
     "thickness": 10,
-    "price": 30503
+    "price": 18301,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1805,
@@ -23461,12 +37677,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 72,
     "width": 48,
     "thickness": 10,
-    "price": 29880
+    "price": 17928,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1806,
@@ -23474,12 +37699,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 75,
     "width": 48,
     "thickness": 10,
-    "price": 31125
+    "price": 18675,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1807,
@@ -23487,12 +37721,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 78,
     "width": 48,
     "thickness": 10,
-    "price": 32370
+    "price": 19422,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1808,
@@ -23500,12 +37743,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "double",
     "length": 84,
     "width": 48,
     "thickness": 10,
-    "price": 34860
+    "price": 20916,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1809,
@@ -23513,12 +37765,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 60,
     "thickness": 10,
-    "price": 37350
+    "price": 22410,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1810,
@@ -23526,12 +37787,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 60,
     "thickness": 10,
-    "price": 38906
+    "price": 23343,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1811,
@@ -23539,12 +37809,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 60,
     "thickness": 10,
-    "price": 40463
+    "price": 24277,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1812,
@@ -23552,12 +37831,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 60,
     "thickness": 10,
-    "price": 43575
+    "price": 26145,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1813,
@@ -23565,12 +37853,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 72,
     "width": 66,
     "thickness": 10,
-    "price": 41085
+    "price": 24651,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1814,
@@ -23578,12 +37875,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 75,
     "width": 66,
     "thickness": 10,
-    "price": 42797
+    "price": 25678,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1815,
@@ -23591,12 +37897,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 78,
     "width": 66,
     "thickness": 10,
-    "price": 44509
+    "price": 26705,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1816,
@@ -23604,12 +37919,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "queen",
     "length": 84,
     "width": 66,
     "thickness": 10,
-    "price": 47933
+    "price": 28759,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1817,
@@ -23617,12 +37941,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 72,
     "width": 72,
     "thickness": 10,
-    "price": 44820
+    "price": 26892,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1818,
@@ -23630,12 +37963,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 75,
     "width": 72,
     "thickness": 10,
-    "price": 46688
+    "price": 28012,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1819,
@@ -23643,12 +37985,21 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 78,
     "width": 72,
     "thickness": 10,
-    "price": 48555
+    "price": 29133,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   },
   {
     "id": 1820,
@@ -23656,11 +38007,20 @@ const Products=[
     "src": "img/hypnosis.png",
     "feel": "SOFT",
     "budget": "21,000-35,000",
-    "offer": 30,
+    "offer": 40,
     "size": "king",
     "length": 84,
     "width": 72,
     "thickness": 10,
-    "price": 52290
+    "price": 31374,
+    "layers": [
+      "Jacquard Fabric",
+      "Herba Memory Quilt",
+      "Hyper Super Soft Foam",
+      "High Resiliency Foam",
+      "Pocket Spring",
+      "High Resiliency Foam",
+      "PU Foam Quilt"
+    ]
   }
 ];
