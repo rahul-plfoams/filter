@@ -1,725 +1,629 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Bootstrap CSS -->
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css' />
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css' />
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link rel="shortcut icon" href="img/dr-back-favicon.png" />
-  <title>Find your perfect mattress</title>
-  <!-- CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-  <style>
-    .carousel-cell {
-      width: 100%;
-      /* full width */
-       height: 100vh; 
-      /* background: #222; */
-      /* center images in cells with flexbox */
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .carousel.is-fullscreen .carousel-cell {
-      height: 100%;
-    }
-
-    .carousel-cell img {
-      display: block;
-      max-height: 100%;
-    }
-/*new*/
-.carousel {
-  background: #FAFAFA;
-}
-
-.carousel--inner{
-  height:180px;
-}
-.carousel--inner .carousel-cell {
-  background: #19F;
-  height: 160px;
-}
- 
-    
-  </style>
-</head>
-
-<body>
-  <div id='filters' class="">
-    <div class="slideshow-container">
-      <!-- <img class="w-100" src="img/banner.png">   -->
-      <form>
-        <div class="main-carousel carousel--outer">
-          <div class="carousel-cell">
-            <section class="row box-shadow mt-5 mb-5 ml-1 mr-1">
-              <div class="col-lg-5 col-md-7 p-lg-5 text-left d-flex flex-column text-center">
-                <h3>Personal Info.</h3><br>
-                <div class="d-flex justify-content-between p-2">
-                  <input class="input-res" placeholder="Enter Name" type="text" name="name" required>
-                </div>
-                <div class="d-flex justify-content-between p-2">
-                  <input class="input-res" placeholder="Enter Phone" type="tel" name="phone" required>
-                </div>
-                <div class="d-flex justify-content-between p-2">
-                  <input class="input-res" placeholder="Enter Email" type="email" name="email" required>
-                </div>
-                <div class="d-flex justify-content-between p-2">
-                  <input class="input-res" placeholder="Enter Address" type="address" name="address" required>
-                </div>
+<div id="warning-message">
+  <div class="text-center">
+    <img class="img-fluid" src="img/Banner.jpg" alt="" />
+    <h5 class="d-lg-none d-block hstylecursive text-center">Please Rotate your phone to</h5>
+    <p class="hstylecapital">Landscape Mode!</p>
+  </div>
+</div>
+<form action="send.php" method="post" name="surveyForm">
+  <div id="wrapper" class="siema">
+    <div>
+      <div class="innersiema">
+        <section class="box-shadow">
+          <div class="tablet-container">
+            <div class="text-center">
+              <img class="img-fluid w-50 p-3" src="img/size-mattress.png" alt="" />
+            </div>
+            <div class="row text-center">
+              <div class="col">
+                <img class="img-fluid" src="img/single.png" alt="" />
               </div>
-              <div class="col p-5 text-right tablet-date d-none d-lg-block">
-                <h3>Date : <span id="currentDate"></span></h3>
+              <div class="col">
+                <img class="img-fluid" src="img/double.png" alt="" />
               </div>
-            </section>
+              <div class="col">
+                <img class="img-fluid" src="img/queen.png" alt="" />
+              </div>
+              <div class="col">
+                <img class="img-fluid" src="img/king.png" alt="" />
+              </div>
+            </div>
+            <div class="row">
+              <label class="checkbox-inline p-4 col checkbox-label checkSize">
+                <input class="sizeSingle" name="size" type="checkbox" value="single" />
+                <span class="checkbox-custom rectangular">Single</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label checkSize">
+                <input class="sizeDouble" name="size" type="checkbox" value="double" />
+                <span class="checkbox-custom rectangular">Double</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label checkSize">
+                <input class="sizeQueen" name="size" type="checkbox" value="queen" />
+                <span class="checkbox-custom rectangular">Queen</span>
+              </label>
+              <label class="checkbox-inline p-4 col checkbox-label checkSize">
+                <input class="sizeKing" name="size" type="checkbox" value="king" />
+                <span class="checkbox-custom rectangular">King</span>
+              </label>
+            </div>
           </div>
-          <div class="carousel-cell">
-            <section class="box-shadow mt-5 mb-5">
-              <div class="tablet-container">
-                <h5 class="d-lg-none d-block m-3 text-center">What size mattress is needed ? <br>(Please Select)</h5>
-                <h3 class="d-lg-block d-none m-5 text-center">What size mattress is needed ? <br>(Please Select)</h3>
-                <div class="row text-center" style="height: 100px;">
-                  <div class="col">
-                    <img class="img-fluid h-50" src="img/single.png">
-                  </div>
-                  <div class="col">
-                    <img class="img-fluid h-50" src="img/double.png">
-                  </div>
-                  <div class="col">
-                    <img class="img-fluid h-50" src="img/queen.png">
-                  </div>
-                  <div class="col">
-                    <img class="img-fluid h-50" src="img/king.png">
-                  </div>
+        </section>
+        <section class="box-shadow noOfSleepersBg">
+          <div id="filters">
+            <div>
+              <div class="text-center">
+                <img class="img-fluid w-50 p-3" src="img/sleepers-heading.png" alt="" />
+              </div>
+              <div class="row text-center">
+                <div class="col">
+                  <img class="img-fluid" src="img/sleeper-1.png" alt="" />
                 </div>
-                <div class="row">
-                  <label class="checkbox-inline p-4 col checkbox-label checkSize">
-                    <input class="sizeSingle" type='checkbox' name='size' value='single'></input>
-                    <span class="checkbox-custom rectangular">Single</span>
-                  </label>
-                  <label class="checkbox-inline p-4 col checkbox-label checkSize">
-                    <input class="sizeDouble" type='checkbox' name='size' value='double'></input>
-                    <span class="checkbox-custom rectangular">Double</span>
-                  </label>
-                  <label class="checkbox-inline p-4 col checkbox-label checkSize">
-                    <input class="sizeQueen" type='checkbox' name='size' value='queen'></input>
-                    <span class="checkbox-custom rectangular">Queen</span>
-                  </label>
-                  <label class="checkbox-inline p-4 col checkbox-label checkSize">
-                    <input class="sizeKing" type='checkbox' name='size' value='king'></input>
-                    <span class="checkbox-custom rectangular">King</span>
-                  </label>
+                <div class="col">
+                  <img class="img-fluid" src="img/sleeper-2.png" alt="" />
                 </div>
-              </div>
-            </section>
-          </div>
-          <div class="carousel-cell">
-            <section class="box-shadow mt-5 mb-5">
-              <div id='filters'>
-                <div>
-                  <h5 class="d-lg-none d-block m-3 text-center">How many Sleepers ? <br>(Please Select)</h5>
-                  <h3 class="d-lg-block d-none m-3 text-center">How many Sleepers ? <br>(Please Select)</h3>
-                  <div class="row">
-                    <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                      <input class="noOfSleeper1" type='checkbox' name='sleepers' value='1'></input>
-                      <span class="checkbox-custom rectangular">1</span>
-                    </label>
-                    <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                      <input class="noOfSleeper2" type='checkbox' name='sleepers' value='2'></input>
-                      <span class="checkbox-custom rectangular">2</span>
-                    </label>
-                    <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                      <input class="noOfSleeper3" type='checkbox' name='sleepers' value='3'></input>
-                      <span class="checkbox-custom rectangular">3</span>
-                    </label>
-                    <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
-                      <input class="noOfSleeper4" type='checkbox' name='sleepers' value='4'></input>
-                      <span class="checkbox-custom rectangular">4</span>
-                    </label>
-                  </div>
+                <div class="col">
+                  <img class="img-fluid" src="img/sleeper-3.png" alt="" />
                 </div>
-              </div>
-            </section>
-          </div>
-          <!-- <div id="mod"> -->
-          <div class="carousel-cell">
-            <!-- sleeping position starts -->
-            <section class="box-shadow-padding mt-5 mb-5 box-shadow">
-              <h3 class="d-lg-block d-none text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">What is your primary sleeping
-                position
-                ? <br>(Please &#9989;)</h3>
-              <h6 class="d-lg-none d-block text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">What is your primary sleeping
-                position
-                ? <br>(Please &#9989;)</h6>
-              <div class="container">
-                <table class="table table-bordered text-center table-responsive">
-                  <thead>
-                    <tr>
-                      <td class="align-middle">Sleeper</td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/back.png">
-                        <figcaption>Back</figcaption>
-                      </td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/side.png">
-                        <figcaption>Side</figcaption>
-                      </td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/stomach.png">
-                        <figcaption>Stomach</figcaption>
-                      </td>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>1</td>
-                      <td>
-                        <label class="checkPositionS1">
-                          <input type="checkbox" value="Back" name="position1">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS1">
-                          <input type="checkbox" value="Side" name="position1">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS1">
-                          <input type="checkbox" value="Stomach" name="position1">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>2</td>
-                      <td>
-                        <label class="checkPositionS2">
-                          <input type="checkbox" value="Back" name="position2">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS2">
-                          <input type="checkbox" value="Side" name="position2">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS2">
-                          <input type="checkbox" value="Stomach" name="position2">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>3</td>
-                      <td>
-                        <label class="checkPositionS3">
-                          <input type="checkbox" value="Back" name="position3">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS3">
-                          <input type="checkbox" value="Side" name="position3">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS3">
-                          <input type="checkbox" value="Stomach" name="position3">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>4</td>
-                      <td>
-                        <label class="checkPositionS4">
-                          <input type="checkbox" value="Back" name="position4">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS4">
-                          <input type="checkbox" value="Side" name="position4">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkPositionS4">
-                          <input type="checkbox" value="Stomach" name="position4">
-                        </label>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </section>
-            <!-- sleeping position ends -->
-          </div>
-          <div class="carousel-cell">
-            <!-- back pain starts -->
-            <section class="box-shadow-padding mt-5 mb-5 box-shadow">
-              <h3 class="d-lg-block d-none text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">Do you ever wake up with bad back
-                pain
-                ? <br>(Please &#9989;)</h3>
-              <h6 class="d-lg-none d-block text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">Do you ever wake up with bad back
-                pain
-                ? <br>(Please &#9989;)</h6>
-              <div class="container">
-                <table class="table table-bordered text-center table-responsive">
-                  <thead>
-                    <tr>
-                      <td class="align-middle">Sleeper</td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/rarely.png">
-                        <figcaption>Rarely</figcaption>
-                      </td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/sometimes.png">
-                        <figcaption>Sometimes</figcaption>
-                      </td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/often.png">
-                        <figcaption>Often</figcaption>
-                      </td>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>1</td>
-                      <td>
-                        <label class="checkBackPainS1">
-                          <input type="checkbox" value="Rarely" name="backpain1">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS1">
-                          <input type="checkbox" value="Sometimes" name="backpain1">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS1">
-                          <input type="checkbox" value="Often" name="backpain1">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>2</td>
-                      <td>
-                        <label class="checkBackPainS2">
-                          <input type="checkbox" value="Rarely" name="backpain2">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS2">
-                          <input type="checkbox" value="Sometimes" name="backpain2">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS2">
-                          <input type="checkbox" value="Often" name="backpain2">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>3</td>
-                      <td>
-                        <label class="checkBackPainS3">
-                          <input type="checkbox" value="Rarely" name="backpain3">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS3">
-                          <input type="checkbox" value="Sometimes" name="backpain3">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS3">
-                          <input type="checkbox" value="Often" name="backpain3">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>4</td>
-                      <td>
-                        <label class="checkBackPainS4">
-                          <input type="checkbox" value="Rarely" name="backpain4">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS4">
-                          <input type="checkbox" value="Sometimes" name="backpain4">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkBackPainS4">
-                          <input type="checkbox" value="Often" name="backpain4">
-                        </label>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </section>
-            <!-- back pain ends -->
-          </div>
-          <div class="carousel-cell">
-            <!-- mattress feel starts -->
-            <section id="filters" class="box-shadow-padding mt-5 mb-5 box-shadow">
-              <h3 class="d-lg-block d-none text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">What type of mattress feel do you
-                prefer? <br>(Please &#9989;)</h3>
-              <h6 class="d-lg-none d-block text-center m-lg-5 m-md-3 m-sm-2 m-xs-1">What type of mattress feel do you
-                prefer? <br>(Please &#9989;)</h6>
-              <div class="container">
-                <table class="table table-bordered text-center table-responsive">
-                  <thead>
-                    <tr>
-                      <td class="align-middle">Sleeper</td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/soft-feel.png">
-                        <figcaption>Soft <br class="brOnlyForResponsiveness"> Feel</figcaption>
-                      </td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/medium-feel.png">
-                        <figcaption>Medium <br class="brOnlyForResponsiveness"> Feel</figcaption>
-                      </td>
-                      <td><img class="img img-fluid img-fluid-table" src="img/firm-feel.png">
-                        <figcaption>Firm <br class="brOnlyForResponsiveness"> Feel</figcaption>
-                      </td>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr class="filter-attributes">
-                      <td>1</td>
-                      <td>
-                        <label class="checkFeelTypeS1">
-                          <input type="checkbox" value="SOFT" name="feel1">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS1">
-                          <input type="checkbox" value="MEDIUM" name="feel1">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS1">
-                          <input type="checkbox" value="FIRM" name="feel1">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr class="filter-attributes">
-                      <td>2</td>
-                      <td>
-                        <label class="checkFeelTypeS2">
-                          <input type="checkbox" value="SOFT" name="feel2">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS2">
-                          <input type="checkbox" value="MEDIUM" name="feel2">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS2">
-                          <input type="checkbox" value="FIRM" name="feel2">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr class="filter-attributes">
-                      <td>3</td>
-                      <td>
-                        <label class="checkFeelTypeS3">
-                          <input type="checkbox" value="SOFT" name="feel3">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS3">
-                          <input type="checkbox" value="MEDIUM" name="feel3">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS3">
-                          <input type="checkbox" value="FIRM" name="feel3">
-                        </label>
-                      </td>
-                    </tr>
-                    <tr class="filter-attributes">
-                      <td>4</td>
-                      <td>
-                        <label class="checkFeelTypeS4">
-                          <input type="checkbox" value="SOFT" name="feel4">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS4">
-                          <input type="checkbox" value="MEDIUM" name="feel4">
-                        </label>
-                      </td>
-                      <td>
-                        <label class="checkFeelTypeS4">
-                          <input type="checkbox" value="FIRM" name="feel4">
-                        </label>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </section>
-            <!-- mattress feel ends -->
-          </div>
-          <!-- </div>/*modify no of users */ -->
-          <div class="carousel-cell">
-            <section class="box-shadow mt-5 mb-5">
-              <div>
-                <div>
-                  <h5 class="d-lg-none d-block m-3 text-center">Select Offers <br>(Please Select)</h5>
-                  <h3 class="d-lg-block d-none m-3 text-center">Select Offers <br>(Please Select)</h3>
-                  <div class="row filter-attributes">
-                    <label class="checkbox-inline p-4 col checkbox-label checkOffers">
-                      <input type='checkbox' name="offer" value='30'></input>
-                      <span class="checkbox-custom rectangular">30% Off</span>
-                    </label>
-                    <label class="checkbox-inline p-4 col checkbox-label checkOffers">
-                      <input type='checkbox' name="offer" value='40'></input>
-                      <span class="checkbox-custom rectangular">40% Off</span>
-                    </label>
-                  </div>
+                <div class="col">
+                  <img class="img-fluid" src="img/sleeper-4.png" alt="" />
                 </div>
-              </div>
-            </section>
-          </div>
-          <div class="carousel-cell">
-            <section class="box-shadow">
-              <h3 class="text-center">What is your budget ? <br>(Please Select)</h3>
-              <div class="row filter-attributes">
-                <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-                  <input type='checkbox' name='budget' value='Less than 10,000'></input>
-                  <span class="checkbox-custom rectangular">Less than 10,000</span>
-                </label>
-                <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-                  <input type='checkbox' name='budget' value='11,000-20,000'></input>
-                  <span class="checkbox-custom rectangular">11,000-20,000</span>
-                </label>
-                <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-                  <input type='checkbox' name='budget' value='21,000-35,000'></input>
-                  <span class="checkbox-custom rectangular">21,000-35,000</span>
-                </label>
-                <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
-                  <input type='checkbox' name='budget' value='Above 35,000'></input>
-                  <span class="checkbox-custom rectangular">Above 35,000</span>
-                </label>
-              </div>
-            </section>
-          </div>
-          <div class="carousel-cell">
-            <section class="text-center">
-              <div class="row pt-5">
-                <h3 class="mx-auto"> Did you had a Mattress before? (Please &#9989;)</h3>
-              </div>
-              <label><input type="checkbox" id="cbshow"></label>
-            </section>
-            <section id="divshow" class="m-4 text-center box-shadow" style="display: none;">
-              <h5 class="center">Your current Mattress Details</h5>
-              <div class="block">
-                <input type="text" name="brand-name" class="input-res" placeholder="Enter Brand Name">
-              </div>
-              <div class="block">
-                <input type="text" name="model-name" class="input-res" placeholder="Enter Model Name">
-              </div>
-              <div class="block">
-                <input type="text" name="year-of-use" class="input-res" placeholder="Enter Year Of Use">
-              </div>
-              <!-- new -->
-              <div class="row mt-3" style="text-align: center; font-weight: bold;">
-                <div class="col p-1">Soft</div>
-                <div class="col p-1">Medium</div>
-                <div class="col p-1">Firm</div>
-              </div>
-              <div class="row" style="height: 10px;">
-                <div class="col" style="background-color: #bcbdc0;"></div>
-                <div class="col" style="background-color: #6c6d70;"></div>
-                <div class="col" style="background-color: #231f20;"></div>
               </div>
               <div class="row">
-                <div class="radio-group">
-                  <input type="radio" id="feel1" value="1" name="customerFeel">
-                  <label for="feel1">1</label>
-                  <input type="radio" id="feel2" value="2" name="customerFeel">
-                  <label for="feel2">2</label>
-                  <input type="radio" id="feel3" value="3" name="customerFeel">
-                  <label for="feel3">3</label>
-                  <input type="radio" id="feel4" value="4" name="customerFeel">
-                  <label for="feel4">4</label>
-                  <input type="radio" id="feel5" value="5" name="customerFeel">
-                  <label for="feel5">5</label>
-                  <input type="radio" id="feel6" value="6" name="customerFeel">
-                  <label for="feel6">6</label>
-                  <input type="radio" id="feel7" value="7" name="customerFeel">
-                  <label for="feel7">7</label>
-                  <input type="radio" id="feel8" value="8" name="customerFeel">
-                  <label for="feel8">8</label>
-                  <input type="radio" id="feel9" value="9" name="customerFeel">
-                  <label for="feel9">9</label>
-                  <input type="radio" id="feel10" value="10" name="customerFeel">
-                  <label for="feel10">10</label>
-                </div>
+                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
+                  <input class="noOfSleeper1" name="sleepers" type="checkbox" value="1" />
+                  <span class="checkbox-custom rectangular">1</span>
+                </label>
+                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
+                  <input class="noOfSleeper2" name="sleepers" type="checkbox" value="2" />
+                  <span class="checkbox-custom rectangular">2</span>
+                </label>
+                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
+                  <input class="noOfSleeper3" name="sleepers" type="checkbox" value="3" />
+                  <span class="checkbox-custom rectangular">3</span>
+                </label>
+                <label class="checkbox-inline p-4 col checkbox-label checkSleepers">
+                  <input class="noOfSleeper4" name="sleepers" type="checkbox" value="4" />
+                  <span class="checkbox-custom rectangular">4</span>
+                </label>
               </div>
-              <!-- new -->
-              <div class="row mt-3" style="text-align: center; font-weight: bold;">
-                <div class="col p-1">Rarely</div>
-                <div class="col p-1">Sometimes</div>
-                <div class="col p-1">Often</div>
-              </div>
-              <div class="row" style="height: 10px;">
-                <div class="col" style="background-color: #bcbdc0;"></div>
-                <div class="col" style="background-color: #6c6d70;"></div>
-                <div class="col" style="background-color: #231f20;"></div>
-              </div>
-              <div class="row">
-                <div class="radio-group">
-                  <input type="radio" id="relief1" value="1" name="customerRelief">
-                  <label for="relief1">1</label>
-                  <input type="radio" id="relief2" value="2" name="customerRelief">
-                  <label for="relief2">2</label>
-                  <input type="radio" id="relief3" value="3" name="customerRelief">
-                  <label for="relief3">3</label>
-                  <input type="radio" id="relief4" value="4" name="customerRelief">
-                  <label for="relief4">4</label>
-                  <input type="radio" id="relief5" value="5" name="customerRelief">
-                  <label for="relief5">5</label>
-                  <input type="radio" id="relief6" value="6" name="customerRelief">
-                  <label for="relief6">6</label>
-                  <input type="radio" id="relief7" value="7" name="customerRelief">
-                  <label for="relief7">7</label>
-                  <input type="radio" id="relief8" value="8" name="customerRelief">
-                  <label for="relief8">8</label>
-                  <input type="radio" id="relief9" value="9" name="customerRelief">
-                  <label for="relief9">9</label>
-                  <input type="radio" id="relief10" value="10" name="customerRelief">
-                  <label for="relief10">10</label>
-                </div>
-              </div>
-            </section>
+            </div>
           </div>
-          <div class="carousel-cell">
-            <section class="text-center">
-              <div class="pb-5">
-                <h3 class="p-3">Your Perfect Mattress</h3>
-                <span>
-                  <input type="button" id="showResult" class="btn btn-danger" value="Show My Perfect Mattress">
-                  <input class="btn btn-danger text-center" type='reset' id='none' value='Reset'></input>
-                  <!-- <input type="button" id="hideResult" class="btn btn-info" value="Hide My Perfect Mattress"> -->
-                  <input type="submit" value="Email My Perfect Mattress" class="btn btn-success">
-                </span>
-              </div>
-              <div>
-                <div class='sections' id="productList">
-                  <div class="sortingFilters">
-                    <div class="fixed-bottom text-center mb-3">
-                      <button class="btn btn-danger">
-                        <i class="fas fa-sort-amount-up-alt" id="sortPrice"></i>
-                      </button>
-                      <button class="btn btn-danger " data-toggle="modal" data-target="#exampleModal"
-                        style="height:38px;">
-                        <label for="" class="text-light p-0"><i class="fas fa-filter text-light" id="filterMenuBtn"
-                            style="max-height:16px;"></i>filters</label>
-                      </button>
-                    </div>
-                  </div>
-                  <div class="carousel carousel--inner">
-                  </div>
-                </div>
-              </div>
-            </section>
+        </section>
+        <section class="box-shadow-padding box-shadow">
+          <div class="text-center">
+            <img class="img-fluid w-50" src="img/sleeping-position.png" alt="" />
           </div>
-      </form>
-
-
-
+          <div class="">
+            <table class="table table-bordered text-center table-responsive">
+              <thead>
+                <tr>
+                  <td class="align-middle">Sleeper</td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 pl-md-0" src="img/back-position.png" alt="" />
+                  </td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 pl-md-0" src="img/side-position.png" alt="" />
+                  </td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 pl-md-0" src="img/stomach-position.png" alt="" />
+                  </td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>
+                    <label class="checkPositionS1">
+                      <input name="position1" type="checkbox" value="Back" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS1">
+                      <input name="position1" type="checkbox" value="Side" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS1">
+                      <input name="position1" type="checkbox" value="Stomach" />
+                    </label>
+                  </td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>
+                    <label class="checkPositionS2">
+                      <input name="position2" type="checkbox" value="Back" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS2">
+                      <input name="position2" type="checkbox" value="Side" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS2">
+                      <input name="position2" type="checkbox" value="Stomach" />
+                    </label>
+                  </td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>
+                    <label class="checkPositionS3">
+                      <input name="position3" type="checkbox" value="Back" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS3">
+                      <input name="position3" type="checkbox" value="Side" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS3">
+                      <input name="position3" type="checkbox" value="Stomach" />
+                    </label>
+                  </td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>
+                    <label class="checkPositionS4">
+                      <input name="position4" type="checkbox" value="Back" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS4">
+                      <input name="position4" type="checkbox" value="Side" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkPositionS4">
+                      <input name="position4" type="checkbox" value="Stomach" />
+                    </label>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+        <section class="box-shadow-padding box-shadow backPainBg">
+          <div class="text-center">
+            <img class="img-fluid w-50" src="img/bad-back-pain.png" alt="" />
+          </div>
+          <div class="">
+            <table class="table table-bordered text-center table-responsive">
+              <thead>
+                <tr>
+                  <td class="align-middle">Sleeper</td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 p-2" src="img/rarely.png" alt="" />
+                  </td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 p-2" src="img/sometimes.png" alt="" />
+                  </td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 p-2" src="img/often.png" alt="" />
+                  </td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>
+                    <label class="checkBackPainS1">
+                      <input name="backpain1" type="checkbox" value="Rarely" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS1">
+                      <input name="backpain1" type="checkbox" value="Sometimes" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS1">
+                      <input name="backpain1" type="checkbox" value="Often" />
+                    </label>
+                  </td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>
+                    <label class="checkBackPainS2">
+                      <input name="backpain2" type="checkbox" value="Rarely" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS2">
+                      <input name="backpain2" type="checkbox" value="Sometimes" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS2">
+                      <input name="backpain2" type="checkbox" value="Often" />
+                    </label>
+                  </td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>
+                    <label class="checkBackPainS3">
+                      <input name="backpain3" type="checkbox" value="Rarely" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS3">
+                      <input name="backpain3" type="checkbox" value="Sometimes" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS3">
+                      <input name="backpain3" type="checkbox" value="Often" />
+                    </label>
+                  </td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>
+                    <label class="checkBackPainS4">
+                      <input name="backpain4" type="checkbox" value="Rarely" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS4">
+                      <input name="backpain4" type="checkbox" value="Sometimes" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkBackPainS4">
+                      <input name="backpain4" type="checkbox" value="Often" />
+                    </label>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+        <section id="filters" class="box-shadow-padding box-shadow">
+          <div class="text-center">
+            <img class="img-fluid w-50" src="img/mattress-feel.png" alt="" />
+          </div>
+          <div class="">
+            <table class="table table-bordered text-center table-responsive">
+              <thead>
+                <tr>
+                  <td class="align-middle">Sleeper</td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 p-1" src="img/soft-feel.png" alt="" />
+                  </td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 p-1" src="img/medium-feel.png" alt="" />
+                  </td>
+                  <td>
+                    <img class="img img-fluid img-fluid-table w-100 p-1" src="img/firm-feel.png" alt="" />
+                  </td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="filter-attributes">
+                  <td>1</td>
+                  <td>
+                    <label class="checkFeelTypeS1">
+                      <input name="feel1" type="checkbox" value="SOFT" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS1">
+                      <input name="feel1" type="checkbox" value="MEDIUM" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS1">
+                      <input name="feel1" type="checkbox" value="FIRM" />
+                    </label>
+                  </td>
+                </tr>
+                <tr class="filter-attributes">
+                  <td>2</td>
+                  <td>
+                    <label class="checkFeelTypeS2">
+                      <input name="feel2" type="checkbox" value="SOFT" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS2">
+                      <input name="feel2" type="checkbox" value="MEDIUM" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS2">
+                      <input name="feel2" type="checkbox" value="FIRM" />
+                    </label>
+                  </td>
+                </tr>
+                <tr class="filter-attributes">
+                  <td>3</td>
+                  <td>
+                    <label class="checkFeelTypeS3">
+                      <input name="feel3" type="checkbox" value="SOFT" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS3">
+                      <input name="feel3" type="checkbox" value="MEDIUM" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS3">
+                      <input name="feel3" type="checkbox" value="FIRM" />
+                    </label>
+                  </td>
+                </tr>
+                <tr class="filter-attributes">
+                  <td>4</td>
+                  <td>
+                    <label class="checkFeelTypeS4">
+                      <input name="feel4" type="checkbox" value="SOFT" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS4">
+                      <input name="feel4" type="checkbox" value="MEDIUM" />
+                    </label>
+                  </td>
+                  <td>
+                    <label class="checkFeelTypeS4">
+                      <input name="feel4" type="checkbox" value="FIRM" />
+                    </label>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+        <section class="box-shadow"
+          style="background-image: url('img/special-offer-background.png'); height: 224px; background-repeat: no-repeat; background-size: 100% 224px;">
+          <div>
+            <div>
+              <div class="row filter-attributes" style="position: relative; top: 100px;">
+                <label class="checkbox-inline p-4 col checkbox-label checkOffers">
+                  <input name="offer" type="checkbox" value="30" />
+                  <span class="checkbox-custom rectangular">30% Off</span>
+                </label>
+                <label class="checkbox-inline p-4 col checkbox-label checkOffers">
+                  <input name="offer" type="checkbox" value="40" />
+                  <span class="checkbox-custom rectangular">40% Off</span>
+                </label>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="box-shadow">
+          <div class="text-center">
+            <img class="img-fluid w-50 p-3" src="img/budget-heading.png" alt="" />
+          </div>
+          <div class="row text-center">
+            <div class="col">
+              <img class="img-fluid" src="img/budget-Rs-10000.png" alt="" />
+            </div>
+            <div class="col">
+              <img class="img-fluid" src="img/budget-Rs.11-20000.png" alt="" />
+            </div>
+            <div class="col">
+              <img class="img-fluid" src="img/budget-Rs.21-35000.png" alt="" />
+            </div>
+            <div class="col">
+              <img class="img-fluid" src="img/budget-Rs.35000-plus.png" alt="" />
+            </div>
+          </div>
+          <div class="row filter-attributes">
+            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
+              <input name="budget" type="checkbox" value="Less than 10,000" />
+              <span class="checkbox-custom rectangular">Less than 10,000</span>
+            </label>
+            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
+              <input name="budget" type="checkbox" value="11,000-20,000" />
+              <span class="checkbox-custom rectangular">11,000-20,000</span>
+            </label>
+            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
+              <input name="budget" type="checkbox" value="21,000-35,000" />
+              <span class="checkbox-custom rectangular">21,000-35,000</span>
+            </label>
+            <label class="col pl-5 pl-md-0 pt-5 checkbox-label checkBudget">
+              <input name="budget" type="checkbox" value="Above 35,000" />
+              <span class="checkbox-custom rectangular">Above 35,000</span>
+            </label>
+          </div>
+        </section>
+        <section class="text-center box-shadow"
+          style="background-image: url('img/have-mattress-background.png'); height: 100%; background-repeat: no-repeat; background-size: 100% 100%;">
+          <div class="text-center">
+            <img class="img-fluid w-50 p-3" src="img/have-mattress-heading.png" alt="" />
+          </div>
+          <label>
+            <input id="cbshow" type="checkbox" />
+          </label>
+          <div id="divshow" class=" text-center" style="display: none;">
+            <h5 class="center p-2" style="color: #135498;">Your current Mattress Details</h5>
+            <div class="row m-0">
+              <input class="col m-1 previousMattressTextBox" name="brand-name" type="text"
+                placeholder="Enter Brand Name" />
+              <input class="col m-1 previousMattressTextBox" name="model-name" type="text"
+                placeholder="Enter Model Name" />
+              <input class="col m-1 previousMattressTextBox" name="year-of-use" type="text"
+                placeholder="Enter Year Of Use" />
+            </div>
+            <div class="row mt-3" style="text-align: center; font-weight: bold;">
+              <div class="col p-1">Soft</div>
+              <div class="col p-1">Medium</div>
+              <div class="col p-1">Firm</div>
+            </div>
+            <div class="row">
+              <div class="radio-group">
+                <input id="feel1" name="customerFeel" type="radio" value="1" />
+                <label for="feel1">1</label>
+                <input id="feel2" name="customerFeel" type="radio" value="2" />
+                <label for="feel2">2</label>
+                <input id="feel3" name="customerFeel" type="radio" value="3" />
+                <label for="feel3">3</label>
+                <input id="feel4" name="customerFeel" type="radio" value="4" />
+                <label for="feel4">4</label>
+                <input id="feel5" name="customerFeel" type="radio" value="5" />
+                <label for="feel5">5</label>
+                <input id="feel6" name="customerFeel" type="radio" value="6" />
+                <label for="feel6">6</label>
+                <input id="feel7" name="customerFeel" type="radio" value="7" />
+                <label for="feel7">7</label>
+                <input id="feel8" name="customerFeel" type="radio" value="8" />
+                <label for="feel8">8</label>
+                <input id="feel9" name="customerFeel" type="radio" value="9" />
+                <label for="feel9">9</label>
+                <input id="feel10" name="customerFeel" type="radio" value="10" />
+                <label for="feel10">10</label>
+              </div>
+            </div>
+            <div class="row mt-3" style="text-align: center; font-weight: bold;">
+              <div class="col p-1">Rarely</div>
+              <div class="col p-1">Sometimes</div>
+              <div class="col p-1">Often</div>
+            </div>
+            <div class="row">
+              <div class="radio-group">
+                <input id="relief1" name="customerRelief" type="radio" value="1" />
+                <label for="relief1">1</label>
+                <input id="relief2" name="customerRelief" type="radio" value="2" />
+                <label for="relief2">2</label>
+                <input id="relief3" name="customerRelief" type="radio" value="3" />
+                <label for="relief3">3</label>
+                <input id="relief4" name="customerRelief" type="radio" value="4" />
+                <label for="relief4">4</label>
+                <input id="relief5" name="customerRelief" type="radio" value="5" />
+                <label for="relief5">5</label>
+                <input id="relief6" name="customerRelief" type="radio" value="6" />
+                <label for="relief6">6</label>
+                <input id="relief7" name="customerRelief" type="radio" value="7" />
+                <label for="relief7">7</label>
+                <input id="relief8" name="customerRelief" type="radio" value="8" />
+                <label for="relief8">8</label>
+                <input id="relief9" name="customerRelief" type="radio" value="9" />
+                <label for="relief9">9</label>
+                <input id="relief10" name="customerRelief" type="radio" value="10" />
+                <label for="relief10">10</label>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="box-shadow ml-1 mr-1 personalDetailsBg">
+          <div class="text-center">
+            <img class="img-fluid w-50 p-3" src="img/personal-details-white-color-heading.png" alt="" />
+          </div>
+          <div class="row m-2">
+            <input class="col m-3" style="height: 50px;" name="name" required="" type="text"
+              placeholder="Enter your Name" />
+            <input class="col m-3" style="height: 50px;" name="phone" required="" type="tel"
+              placeholder="Enter your Contact No." />
+          </div>
+          <div class="row m-2">
+            <input class="col m-3" style="height: 50px;" name="email" required="" type="email"
+              placeholder="Enter your Email Id" />
+            <input class="col m-3" style="height: 50px;" name="address" required="" type="address"
+              placeholder="Enter your Address" />
+          </div>
+        </section>
+        <section class="text-center"
+          style="background-image: url('img/show-perfect-mattress-CTA-background.png'); background-repeat: no-repeat; background-size: 100% 100px; height: 100px;">
+          <div class="">
+            <span style="font-size: 55px;">
+              <input id="showResult" class="btn btn-danger" type="button" value="Show My Perfect Mattress"
+                data-toggle="modal" data-target="#allResult" />
+              <input id="none" class="btn btn-danger text-center" type="reset" value="Reset" />
+              <button class="btn btn-success" type="submit">Email My Perfect Mattress</button>
+            </span>
+            <div class="text-center">
+              <img class="img-fluid w-50 m-5 p-3" src="img/mattress-matching-needs-heading.png" alt="" />
+            </div>
+          </div>
+        </section>
+      </div>
     </div>
   </div>
-  <!-- Modal -->
-  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-    aria-hidden="true" style="height:100vh !important;width:100vw !important">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">All Filters</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
+</form>
+<div id="allResult" class="modal fade" tabindex="-1">
+  <div class="modal-dialog modal-lg ">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button class="close" type="button" data-dismiss="modal"> &times; </button>
+      </div>
+      <div class="modal-body">
+        <div class="text-center">
+          <button class="btn btn-primary prev">prev</button>
+          <button class="btn btn-primary next">next</button>
+          <button class="btn btn-danger">
+            <em id="sortPrice" class="fas fa-sort-amount-up-alt">
+            </em>
+          </button>
+          <button class="btn btn-danger " style="height: 38px;" data-toggle="modal" data-target="#exampleModal">
+            <label class="text-light p-0" for="">
+              <em id="filterMenuBtn" class="fas fa-filter text-light" style="max-height: 16px;">filters</em>
+            </label>
           </button>
         </div>
-        <div class="modal-body">
-          <div class="container">
-            <div class="row">
-              <div class="col-6" id="menuLeft">
-                <button data-value="Length" class="btn btn-block btn-info">Length</button>
-                <button data-value="Width" class="btn btn-block btn-info">Width</button>
-                <button data-value="Thickness" class="btn btn-block btn-info">Thickness</button>
-                <button data-value="Type" class="btn btn-block btn-info">Type</button>
-              </div>
-              <div class="col-6">
-                <div id="optionRight">
-                  <div id="optionLength">
+      </div>
+    </div>
+  </div>
+</div>
+<div id="exampleModal" class="modal fade" style="height: 100vh !important; width: 100vw !important;" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 id="exampleModalLabel" class="modal-title">All Filters</h5>
+        <button class="close" type="button" data-dismiss="modal"> &times; </button>
+      </div>
+      <div class="modal-body">
+        <div class="container">
+          <div class="row">
+            <div id="menuLeft" class="col-6">
+              <button class="btn btn-block btn-info" data-value="Length">Length</button>
+              <button class="btn btn-block btn-info" data-value="Width">Width</button>
+              <button class="btn btn-block btn-info" data-value="Thickness">Thickness</button>
+              <button class="btn btn-block btn-info" data-value="Type">Type</button>
+            </div>
+            <div class="col-6">
+              <div id="optionRight">
+                <div id="optionType">
+                  <div class="form-check text-left">
+                    <input class="form-check-input" type="checkbox" value="Natural Latex" />
+                    <label class="form-check-label"> natural latex </label>
                   </div>
-                  <div id="optionWidth">
+                  <div class="form-check text-left">
+                    <input class="form-check-input" type="checkbox" value="Memory Foam" />
+                    <label class="form-check-label"> memory foam </label>
                   </div>
-                  <div id="optionThickness">
+                  <div class="form-check text-left">
+                    <input class="form-check-input" type="checkbox" value="Rebonded Foam" />
+                    <label class="form-check-label"> rebonded foam </label>
                   </div>
-                  <div id="optionType" style="">
-                    <div class="form-check text-left">
-                      <input class="form-check-input" type="checkbox" value="Natural Latex">
-                      <label class="form-check-label">
-                        natural latex
-                      </label>
-                    </div>
-                    <div class="form-check text-left">
-                      <input class="form-check-input" type="checkbox" value="Memory Foam">
-                      <label class="form-check-label">
-                        memory foam
-                      </label>
-                    </div>
-                    <div class="form-check text-left">
-                      <input class="form-check-input" type="checkbox" value="Rebonded Foam">
-                      <label class="form-check-label">
-                        rebonded foam
-                      </label>
-                    </div>
-                    <div class="form-check text-left">
-                      <input class="form-check-input" type="checkbox" value="Pocket Spring">
-                      <label class="form-check-label">
-                        pocket spring
-                      </label>
-                    </div>
-                    <div class="form-check text-left">
-                      <input class="form-check-input" type="checkbox" value="Bonnell Spring">
-                      <label class="form-check-label">
-                        bonnell spring
-                      </label>
-                    </div>
-                    <div class="form-check text-left">
-                      <input class="form-check-input" type="checkbox" value="Rubberised Coir">
-                      <label class="form-check-label">
-                        rubberised coir
-                      </label>
-                    </div>
+                  <div class="form-check text-left">
+                    <input class="form-check-input" type="checkbox" value="Pocket Spring" />
+                    <label class="form-check-label"> pocket spring </label>
+                  </div>
+                  <div class="form-check text-left">
+                    <input class="form-check-input" type="checkbox" value="Bonnell Spring" />
+                    <label class="form-check-label"> bonnell spring </label>
+                  </div>
+                  <div class="form-check text-left">
+                    <input class="form-check-input" type="checkbox" value="Rubberised Coir" />
+                    <label class="form-check-label"> rubberised coir </label>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Apply Filters</button>
-          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" type="button" data-dismiss="modal">Apply Filters</button>
+        <button class="btn btn-primary" type="button" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
-  <!-- Optional JavaScript -->
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>
-  <script src="js/selectUser.js"></script>
-  <script src="js/productlayer.js"></script>
-  <script src="js/filter.js"></script>
-  <script src="js/selection.js"></script>
-  <script src="js/index.js"></script>
-  <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-  <script type="text/javascript">
-new Flickity('.carousel--inner');
-new Flickity('.carousel--outer');
-  </script>
-</body>
-
-</html>
+</div>

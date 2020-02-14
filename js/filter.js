@@ -17,7 +17,7 @@ $(document).ready(() => {
 
   //reset function
   resetResult = () => {
-    $(".sections#productList .deepshit").empty();
+    $(".deepshit").empty();
     $(".sortingFilters").hide();
     $("#outputNo").text("");
   };
@@ -59,18 +59,21 @@ $(document).ready(() => {
     };
 
     //all filters function
-    filteredImages = filterSequence(Products, arrFilters, functionFilters);
+    allproducts=JSON.parse(JSON.stringify(Products));
+    filteredImages = filterSequence(allproducts, arrFilters, functionFilters);
 
     //select sorting
     selectThickness = [...new Set(filteredImages.map(item => item.thickness))];
     selectLength = [...new Set(filteredImages.map(item => item.length))];
     selectWidth = [...new Set(filteredImages.map(item => item.width))];
     layerTypes=[];
-    filteredImages.filter(item=>item.hasOwnProperty("layers")).forEach(item=>item.layers.forEach(sub=>layerTypes.push(sub)));
+
+
     selectType=[...new Set(layerTypes.sort())];
 
     genHtml(filteredImages);
   });
+  
 
   
 
@@ -107,9 +110,7 @@ $(document).ready(() => {
   //generate Output
   genHtml = filteredImages => {
     html = "";
-    addValuetoDropdown(selectThickness, "#selectThickness");
-    addValuetoDropdown(selectLength, "#selectLength");
-    addValuetoDropdown(selectWidth, "#selectWidth");
+
     outputNo =
       filteredImages.length == 0
         ? "No Matches Found"
@@ -117,45 +118,39 @@ $(document).ready(() => {
     for (i = 0; i < filteredImages.length; i++) {
       html =
         html +
-        `<div class="p-1"><img src="${filteredImages[i].src}"
-         class="">
-          <table class="table table-bordered">
-          <tr>
-            <td class="border-dark">Size</td>
-            <td class="border-dark">${filteredImages[i].length} &times ${filteredImages[i].width} </td>
-          </tr>
-          <tr>
-            <td class="border-dark">Thickness</td>
-            <td class="border-dark">${filteredImages[i].thickness}</td>
-          </tr>
-          <tr>
-          <td class="border-dark">MRP</td>
-          <td class="border-dark">&#8377 ${thousands_separators(filteredImages[i].mrp)} 
-          </td>
-          </tr>
-          <tr>
-          <td class="border-dark">Offer Price</td>
-          <td class="border-dark">&#8377 ${thousands_separators(filteredImages[i].price)} 
-          </td>
-          </tr>
-          <tr>
-          <td class="border-dark">Discount</td>
-          <td class="border-dark"> ${filteredImages[i].offer} %
-          </td>
-          </tr>
-        </table>
-        </div>`;
+        `
+<div class="card mx-auto" style="width:18rem">
+	<img src="${filteredImages[i].src}" alt="" class="card-img-top img-fluid">
+	<div class="">
+		<table class="table table-bordered text-center">
+			<tr>        
+				<td class="border-dark">Size</td>
+				<td class="border-dark">${filteredImages[i].length/12}' &times ${filteredImages[i].width/12}'</td>
+			</tr>
+			<tr>
+				<td class="border-dark">Thickness</td>
+				<td class="border-dark">${filteredImages[i].thickness}"</td>
+			</tr>
+			<tr>
+				<td class="border-dark">MRP</td>
+				<td class="border-dark text-danger">&#8377 <del>${thousands_separators(filteredImages[i].mrp)}<del> </td>
+			</tr>
+			<tr>
+				<td class="border-dark">Offer Price</td>
+				<td class="border-dark">&#8377 ${thousands_separators(filteredImages[i].price)}</td>
+			</tr>
+			<tr>
+				<td class="border-dark">Discount</td>
+				<td class="border-dark">${filteredImages[i].offer} %</td>
+			</tr>
+		</table>
+	</div>
+</div>
+        `;
     }
-    $(".sections#productList .deepshit").append(html);
+    $(".deepshit").append(html);
     $("#outputNo").text(outputNo);
-     // deep shit
-     deepShit = new Siema({
-      selector: '.deepshit',
-      perPage: 3
-    });
-
   
-    
   };
   //get values from objects and store in array
   getVal = array => {

@@ -1,3 +1,16 @@
+addTofilterMenuFeet = (array, target) => {
+        $(target).empty();
+        array.sort((a, b) => a - b).forEach(item => {
+          $(target).append(`
+  <div class="form-check text-left">
+    <input class="form-check-input" type="checkbox" value="${item}" >
+    <label class="form-check-label">
+      ${item/12}'
+    </label>
+  </div>
+  `);
+        })
+      }
 addTofilterMenu = (array, target) => {
         $(target).empty();
         array.sort((a, b) => a - b).forEach(item => {
@@ -5,16 +18,16 @@ addTofilterMenu = (array, target) => {
   <div class="form-check text-left">
     <input class="form-check-input" type="checkbox" value="${item}" >
     <label class="form-check-label">
-      ${item}
+      ${item}"
     </label>
   </div>
   `);
         })
       }
 
-      $("#exampleModal").on("show.bs.modal", () => {
-        addTofilterMenu(selectLength, "#optionLength");
-        addTofilterMenu(selectWidth, "#optionWidth");
+      $("#exampleModal").one("show.bs.modal", () => {
+        addTofilterMenuFeet(selectLength, "#optionLength");
+        addTofilterMenuFeet(selectWidth, "#optionWidth");
         addTofilterMenu(selectThickness, "#optionThickness");
         $("#optionRight").children("div").hide();
         $("#optionLength").show();
@@ -47,20 +60,23 @@ addTofilterMenu = (array, target) => {
         };
         filteredImages = filterSequence(Products, arrFilters, functionFilters);
         genHtml(filteredImages.sort((a, b) => a.price - b.price));
+        siemaSlide();
         $(".sortingFilters").show();
       });
       $("#sortPrice").click(() => {
         if ($("#sortPrice").hasClass("fa-sort-amount-up-alt")) {
           //sort low to high
           resetResult();
-          genHtml(filteredImages.sort((a, b) => b.price - a.price));
+          genHtml(JSON.parse(JSON.stringify(filteredImages.sort((a, b) => b.price - a.price))));
           $("#sortPrice").removeClass("fa-sort-amount-up-alt").addClass("fa-sort-amount-up");
           $(".sortingFilters").show();
+          siemaSlide();
         } else {
           //sort high to low
           resetResult();
-          genHtml(filteredImages.sort((a, b) => a.price - b.price));
+          genHtml(JSON.parse(JSON.stringify(filteredImages.sort((a, b) => a.price - b.price))));
           $("#sortPrice").removeClass("fa-sort-amount-up").addClass("fa-sort-amount-up-alt");
           $(".sortingFilters").show();
+          siemaSlide();
         }
       })

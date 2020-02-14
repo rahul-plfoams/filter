@@ -127,7 +127,8 @@ td input{
 }
       
 td.border-dark {
-    padding: 3px;
+    padding: 0px;
+    font-size: 15px;
 }
 
 span{
@@ -372,22 +373,26 @@ margin: 0;
 }
 
 .radio-group label {
-color: black;
+color: white;
 display: inline-flex;
 cursor: pointer;
 font-weight: bold;
 padding: 4px;
 margin: 0;
 width: 100%;
+background-color: #13539a;
+margin: 2px;
 }
 
 input[type=radio]:checked + label {
   color: #ccc8ce;
-  background: #675f6b;
+  background: #ce2342;
 }
 
 label + input[type=radio] + label {
   border-left: solid 3px #675f6b;
+  background-color: #13539a;
+  margin: 2px;
 }
 
 .radio-group {
@@ -463,4 +468,79 @@ input[type="email"]::-ms-input-placeholder {
   padding: 25px;
   background-color: #f2f2f2;
   /* box-shadow: 5px 5px #888888; */
+}
+.hstylecursive {
+  font-family: 'Great Vibes', cursive;
+  color: #13539a;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px;
+}
+.hstylecapital {
+  font-family: sans-serif;
+  color: #13539a;
+  font-size: 50px;
+  font-weight: bold;
+}
+.checkbox-custom:hover {
+  background-color: #cf1b24;
+  color: white;
+}
+.checkbox-custom {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+.noOfSleepersBg {
+  background-image: url(img/sleepers-background.png);
+}
+.backPainBg {
+  background-image: url(img/back-pain-background.png);
+}
+.personalDetailsBg {
+  background-image: url(img/personal-details-background.png);
+}
+td {
+  color: #13539a;
+  font-weight: 500;
+  font-variant: all-petite-caps;
+  font-size: 20px;
+}
+td.align-middle {
+  font-size: 25px;
+}
+.previousMattressTextBox {
+  border-radius: 5px;
+  border-color: none;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 15px;
+}
+
+#warning-message {
+  display: none;
+}
+@media only screen and (orientation:portrait) {
+  #wrapper {
+    display: none;
+  }
+  #warning-message {
+    display: block;
+  }
+}
+@media only screen and (orientation:landscape) {
+  #warning-message {
+    display: none;
+  }
+}
+body {
+  width: 100%;
+  max-width: 100rem;
+  margin: 0 auto;
+}
+/* img {
+  width: 100%;
+} */
+.siema {
+  margin: 1rem 0;
 }
