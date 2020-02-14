@@ -1,7 +1,34 @@
 <?php
 $product_image=$_POST['product_image'];
+
+$leastID=$_POST["leastID"];
+$leastsrc=$_POST["leastsrc"];
+$leastlength=$_POST["leastlength"];
+$leastwidth=$_POST["leastwidth"];
+$leastthickness=$_POST["leastthickness"];
+$leastmrp=$_POST["leastmrp"];
+$leastprice=$_POST["leastprice"];
+$leastoffer=$_POST["leastoffer"];
+$midID=$_POST["midID"];
+$midsrc=$_POST["midsrc"];
+$midlength=$_POST["midlength"];
+$midwidth=$_POST["midwidth"];
+$midthickness=$_POST["midthickness"];
+$midmrp=$_POST["midmrp"];
+$midprice=$_POST["midprice"];
+$midoffer=$_POST["midoffer"];
+$highID=$_POST["highID"];
+$highsrc=$_POST["highsrc"];
+$highlength=$_POST["highlength"];
+$highwidth=$_POST["highwidth"];
+$highthickness=$_POST["highthickness"];
+$highmrp=$_POST["highmrp"];
+$highprice=$_POST["highprice"];
+$highoffer=$_POST["highoffer"];
+
 $to = strip_tags($_POST['email']);
 $noofsleepers=$_POST["sleepers"];
+
 $subject = 'Dr Back Mattress';
 
 $headers = "From: support@plfoams.in\r\n";
@@ -30,7 +57,7 @@ $message='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https:
                      </td>
                   </tr>
                   <tr>
-                     <td align="left" style="padding: 10px; color: #153643; font-size: 25px; font-weight: bold; font-family: Arial, sans-serif;">
+                     <td align="left" style="padding: 10px; color: #153643; font-size: 30px; font-weight: bold; font-family: Arial, sans-serif;">
                         <h5 style="color: #3568a2;">
                            Dear, ' . strip_tags($_POST["name"]) . '
                         </h5>
@@ -43,29 +70,116 @@ $message='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https:
                      </td>
                   </tr>
                   <tr>
-                     <td bgcolor="white" style="padding: 10px 20px 20px 20px;">
+                     <td style="background-color: #131c470d;">
                         <table border="0" cellpadding="0" cellspacing="0" width="100%">
                            <tr>
                               <td align="center" width="100%">
-                                 <table border="0" cellpadding="0" cellspacing="0">
+                                 <table class="table table-bordered" align="center" style="box-sizing: border-box;border-collapse: collapse!important;margin-bottom: 1rem;color: #212529;border: 1px solid #dee2e6; font-size: 25px;" border="0" cellpadding="0" cellspacing="0">
                                     <tr>
-                                       <td style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px;">
-                                          <a href="https://www.facebook.com/" style="color: #ffffff;">
-                                          <img src="https://plfoams.in/perfect-match/img/tuf puf.png" alt="facebook" width="200px" height="auto" style="display: block;" border="0" />
+                                       <td colspan=2 style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px;">
+                                          <a href="#" style="color: #ffffff;">
+                                          <img src="https://plfoams.in/perfect-match/'.$leastsrc.'" alt="" width="400px" height="auto" style="display: block;" border="0" />
                                           </a>
                                        </td>
-                                       <td style="font-size: 0; line-height: 0;" width="20">&nbsp;</td>
-                                       <td style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px;">
-                                          <a href="https://www.instagram.com/" style="color: #ffffff;">
-                                          <img src="https://plfoams.in/perfect-match/img/tuf puf.png" alt="instagram" width="200px" height="auto" style="display: block;" border="0" />
+                                    </tr>
+
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Size</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">'.$leastlength.' × '.$leastwidth.' </td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Thickness</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">'.$leastthickness.'</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">MRP</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">₹ '.$leastmrp.' 
+</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Offer Price</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">₹ '.$leastprice.' 
+</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Discount</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;"> '.$leastoffer.' %
+</td>
+
+                                    </tr>
+                                 </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                           <tr>
+                              <td align="center" width="100%">
+                                 <table class="table table-bordered" align="center" style="box-sizing: border-box;border-collapse: collapse!important;margin-bottom: 1rem;color: #212529;border: 1px solid #dee2e6; font-size: 25px;" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                       <td colspan=2 style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px;">
+                                          <a href="#" style="color: #ffffff;">
+                                          <img src="https://plfoams.in/perfect-match/'.$midsrc.'" alt="" width="400px" height="auto" style="display: block;" border="0" />
                                           </a>
                                        </td>
-                                       <td style="font-size: 0; line-height: 0;" width="20">&nbsp;</td>
-                                       <td style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px;">
-                                          <a href="https://www.twitter.com/" style="color: #ffffff;">
-                                          <img src="https://plfoams.in/perfect-match/img/tuf puf.png" alt="twitter" width="200px" height="auto" style="display: block;" border="0" />
+                                    </tr>
+
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Size</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">'.$midlength.' × '.$midwidth.' </td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Thickness</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">'.$midthickness.'</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">MRP</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">₹ '.$midmrp.' 
+</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Offer Price</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">₹ '.$midprice.' 
+</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Discount</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;"> '.$midoffer.' %
+</td>
+
+                                    </tr>
+                                 </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                           <tr>
+                              <td align="center" width="100%">
+                                 <table class="table table-bordered" align="center" style="box-sizing: border-box;border-collapse: collapse!important;margin-bottom: 1rem;color: #212529;border: 1px solid #dee2e6; font-size: 25px;" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                       <td colspan=2 style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px;">
+                                          <a href="#" style="color: #ffffff;">
+                                          <img src="https://plfoams.in/perfect-match/'.$highsrc.'" alt="" width="400px" height="auto" style="display: block;" border="0" />
                                           </a>
                                        </td>
+                                    </tr>
+
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Size</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">'.$highlength.' × '.$highwidth.' </td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Thickness</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">'.$highthickness.'</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">MRP</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">₹ '.$highmrp.' 
+</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Offer Price</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;">₹ '.$highprice.' 
+</td>
+</tr>
+<tr style="box-sizing: border-box;page-break-inside: avoid;">
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #275f9e; color: white; border: 1px solid #dee2e6!important;">Discount</td>
+  <td class="border-dark" style="box-sizing: border-box;padding: .75rem;vertical-align: top;border-top: 1px solid #dee2e6;border-color: #343a40!important;background-color: #fff!important;border: 1px solid #dee2e6!important;"> '.$highoffer.' %
+</td>
+
                                     </tr>
                                  </table>
                               </td>
@@ -73,15 +187,15 @@ $message='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https:
                         </table>
                      </td>
                   </tr>
-                  <tr>
+                  <!--<tr>
                     <td align="center" style="padding: 5px; color: white; font-size: 25px; font-weight: bold; font-family: Arial, sans-serif;">
-                        <a href="https://www.w3schools.com">
-                            <img src="https://plfoams.in/perfect-match/img/order-now-btn.png" alt="please order button" width="300" height="auto" style="display: block;" />
+                        <a href="#">
+                            <img src="https://plfoams.in/perfect-match1/img/order-now-btn.png" alt="please order button" width="300" height="auto" style="display: block;" />
                         </a>
                      </td>
-                  </tr>
+                  </tr>-->
                   <tr>
-                    <td align="center" style="padding: 5px; color: black; font-size: 20px; font-weight: bold; font-family: Arial, sans-serif;">
+                    <td align="center" style="padding: 5px; color: black; font-size: 25px; font-weight: bold; font-family: Arial, sans-serif;">
                            If you have any queries please contact us.
                      </td>
                   </tr>
@@ -89,27 +203,21 @@ $message='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https:
                      <td bgcolor="white" style="padding: 10px 20px 20px 20px;">
                         <table border="0" cellpadding="0" cellspacing="0" width="100%">
                            <tr>
-                              <td align="left" style="color: black; font-family: Arial, sans-serif; font-size: 16px;" width="75%">
+                              <td align="left" style="color: black; font-family: Arial, sans-serif; font-size: 20px;" width="75%">
                                  &reg; support@plfoams.in<br/>
                               </td>
                               <td align="right" width="25%">
                                  <table border="0" cellpadding="0" cellspacing="0">
                                     <tr>
                                        <td style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold;">
-                                          <a href="https://www.facebook.com/" style="color: #ffffff;">
+                                          <a href="https://www.facebook.com/DrBack.in/" style="color: #ffffff;">
                                           <img src="https://plfoams.in/perfect-match/img/facebook.png" alt="facebook" width="38" height="38" style="display: block;" border="0" />
                                           </a>
                                        </td>
                                        <td style="font-size: 0; line-height: 0;" width="20">&nbsp;</td>
                                        <td style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold;">
-                                          <a href="https://www.instagram.com/" style="color: #ffffff;">
+                                          <a href="https://www.instagram.com/drbackmattress/?hl=en" style="color: #ffffff;">
                                           <img src="https://plfoams.in/perfect-match/img/insta.png" alt="instagram" width="38" height="38" style="display: block;" border="0" />
-                                          </a>
-                                       </td>
-                                       <td style="font-size: 0; line-height: 0;" width="20">&nbsp;</td>
-                                       <td style="font-family: Arial, sans-serif; font-size: 12px; font-weight: bold;">
-                                          <a href="https://www.twitter.com/" style="color: #ffffff;">
-                                          <img src="https://plfoams.in/perfect-match/img/twitter.png" alt="twitter" width="38" height="38" style="display: block;" border="0" />
                                           </a>
                                        </td>
                                     </tr>
@@ -126,7 +234,7 @@ $message='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https:
    </body>
 </html>';
 echo $message;
-// mail($to, $subject, $message, $headers);
+mail($to, $subject, $message, $headers);
 ?>
 
 <html lang="en">
