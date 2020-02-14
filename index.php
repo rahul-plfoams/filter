@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <title>Swiper demo</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css' />
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css' />
-<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
-  <link rel="shortcut icon" href="img/dr-back-favicon.png" />
-  <title>Find your perfect mattress</title>
-</head>
-
-<body>
+<?php require "header.php";?>
 	<div id="warning-message">
     <div class="text-center">
 		<img class="img-fluid" src="img/Banner.jpg">
@@ -24,7 +8,7 @@
 <form action="send.php" method="post" name="surveyForm">
   <div id="wrapper" class="siema" >
     <div>
-      <div class="innersiema">
+      <div class="innersiema" data-flickity='{ "cellAlign": "left", "contain": true,"prevNextButtons":false }'>
         
         <section class="box-shadow">
           <div class="tablet-container">
@@ -644,44 +628,4 @@
         </div>
       </div>
     </div>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>
-  <script src="js/selectUser.js"></script>
-  <script src="js/productlayer.js"></script>
-  <script src="js/filter.js"></script>
-  <script src="js/selection.js"></script>
-  
-  <script src="https://pawelgrzybek.com/siema/assets/siema.min.js"></script>
-<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-<script src="js/index.js"></script>
-<style>
-.innersiema section {
-  width: 100%; /* full width */
-  max-height: 100vh; /*height of carousel*/
-  /* margin-right: 10px; */
-}
-.deepshit{
-  width:80vw;
-  margin:0 auto;
-}
-.deepshit div{
-  width:100%;
-  height:50rem;
-}
-</style>
-<script>
- //new script
- new Flickity(".innersiema");
-
-window.onorientationchange = function() { 
-    var orientation = window.orientation; 
-        switch(orientation) { 
-            case 0:
-            case 90:
-            case -90: window.location.reload(); 
-            break; } 
-};
-</script>
-</body>
-
-</html>
+    <?php require "footer.php";?>

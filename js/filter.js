@@ -175,18 +175,18 @@ $(document).ready(() => {
       $(".deepshit").append(html);
       $("#outputNo").text(outputNo);
        // deep shit
-      //  deepShit = new Siema({
-      //   selector: '.deepshit',
-      //   perPage: 3
-      // });
-      $(".resImg").hide();
-      deepShit=new Flickity(".deepshit",{
-        groupCells: 3,
-        pageDots: false,
-        draggable:true,
-        arrowShape: 'M 0,50 L 60,00 L 50,30 L 80,30 L 80,70 L 50,70 L 60,100 Z',
-        freeScroll: false
+       deepShit = new Siema({
+        selector: '.deepshit',
+        perPage: 3
       });
+      $(".resImg").hide();
+      // deepShit=new Flickity(".deepshit",{
+      //   groupCells: 3,
+      //   pageDots: false,
+      //   draggable:true,
+      //   arrowShape: 'M 0,50 L 60,00 L 50,30 L 80,30 L 80,70 L 50,70 L 60,100 Z',
+      //   freeScroll: false
+      // });
   
     
       

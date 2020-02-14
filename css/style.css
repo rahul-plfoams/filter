@@ -479,9 +479,7 @@ img {
   width: 100%;
 }
 
-.siema {
-  /*margin: 1rem 0;*/
-}
+
 .hstylecursive{
   font-family: 'Great Vibes', cursive;
   color: #13539a;
@@ -557,3 +555,16 @@ tr td:first-child.border-dark{
   color: white;
 }
 
+.innersiema section {
+  width: 100%; /* full width */
+  max-height: 100vh; /*height of carousel*/
+  /* margin-right: 10px; */
+}
+.deepshit{
+  width:80vw;
+  margin:0 auto;
+}
+.deepshit div{
+  width:100%;
+  height:50rem;
+}
