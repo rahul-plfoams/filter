@@ -173,10 +173,6 @@ input {
   background-color: #f2f2f2;
 }
 
-img {
-  width: 100%;
-}
-
 .checkbox-custom {
   background-color: white;
   color: black;
@@ -228,7 +224,6 @@ td.align-middle {
 }
 
 .deepshit {
-  width: 80vw;
   margin: 0 auto;
 }
 
@@ -289,4 +284,11 @@ td.align-middle {
 
 .flickity-page-dots {
   bottom: 1%;
+}
+
+#resultSection {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  place-content: center center;
 }

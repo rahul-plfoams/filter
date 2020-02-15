@@ -17,7 +17,7 @@ $(document).ready(() => {
   
     //reset function
     resetResult = () => {
-      $(".sections#productList .deepshit").empty();
+      $(".deepshit").empty();
       $("#btns-filter").hide();
       $("#outputNo").text("");
     };
@@ -34,11 +34,6 @@ $(document).ready(() => {
       }
     });
   
-    // show/hide previous mattress info
-    $("#cbshow").click(function() {
-      $("#divshow").toggle(this.checked);
-    });
-  
     // reset
     $("[type='reset']").click(() => {
       resetResult();
@@ -46,6 +41,7 @@ $(document).ready(() => {
   
     //show Result
     $("#showResult").click(() => {
+      $("#resultSection img").hide();
       arrFilters = {};
       resetResult();
       // console.clear();
@@ -107,9 +103,6 @@ $(document).ready(() => {
     //generate Output
     genHtml = filteredImages => {
       html = "";
-      addValuetoDropdown(selectThickness, "#selectThickness");
-      addValuetoDropdown(selectLength, "#selectLength");
-      addValuetoDropdown(selectWidth, "#selectWidth");
       outputNo =
         filteredImages.length == 0
           ? "No Matches Found"
@@ -118,7 +111,7 @@ $(document).ready(() => {
         html =
           html +
           `
-  <div class="card mx-auto" style="width:30%;padding:0 2%;">
+  <div class="card mx-auto" style="max-height:80vh">
     <img src="${filteredImages[i].src}" alt="" class="card-img-top img-fluid">
     <div class="">
       <table class="table table-bordered text-center">
@@ -146,6 +139,7 @@ $(document).ready(() => {
     </div>
   </div>
           `;
+         
       }
           html+=`<input type='hidden' name='leastID' value="${filteredImages.sort()[0].id}">`;
       html+=`<input type='hidden' name='leastsrc' value="${filteredImages.sort()[0].src.replace(/ /,"%20")}">`;
@@ -172,20 +166,12 @@ $(document).ready(() => {
       html+=`<input type='hidden' name='highprice' value="${filteredImages.sort()[filteredImages.length-1].price}">`;
       html+=`<input type='hidden' name='highoffer' value="${filteredImages.sort()[filteredImages.length-1].offer}">`;
       
-      $(".deepshit").append(html);
+      // $(".deepshit").append(html);
       $("#outputNo").text(outputNo);
        // deep shit
-       deepShit = new Siema({
-        selector: '.deepshit',
-        perPage: 3
-      });
-      $(".resImg").hide();
-      // deepShit=new Flickity(".deepshit",{
-      //   groupCells: 3,
-      //   pageDots: false,
-      //   draggable:true,
-      //   arrowShape: 'M 0,50 L 60,00 L 50,30 L 80,30 L 80,70 L 50,70 L 60,100 Z',
-      //   freeScroll: false
+      //  deepShit = new Siema({
+      //   selector: '.deepshit',
+      //   perPage: 3
       // });
   
     

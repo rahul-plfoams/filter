@@ -168,9 +168,6 @@ input{
 	padding: 25px;
 	background-color: $background_color_4;
 }
-img {
-	width: 100%;
-}
 .checkbox-custom {
 	background-color: $background_color_5;
 	color: $color_4;
@@ -276,4 +273,9 @@ td.align-middle {
 }
 .flickity-page-dots{
 	bottom: 1%;
+}
+#resultSection{
+	height:100%;
+	display: grid;
+	place-content: center center;
 }

@@ -94,7 +94,7 @@
             <div class="text-center">
             	<img class="img-fluid w-50" src="img/sleeping-position.png">
             </div>
-          <div class="">
+          <div >
             <table class="table table-bordered text-center table-responsive">
               <thead>
                 <tr>
@@ -188,7 +188,7 @@
             <div class="text-center">
             	<img class="img-fluid w-50" src="img/bad-back-pain.png">
             </div>
-          <div class="">
+          <div >
             <table class="table table-bordered text-center table-responsive">
               <thead>
                 <tr>
@@ -282,7 +282,7 @@
             <div class="text-center">
             	<img class="img-fluid w-50" src="img/mattress-feel.png">
             </div>
-          <div class="">
+          <div >
             <table class="table table-bordered text-center table-responsive">
               <thead>
                 <tr>
@@ -524,25 +524,22 @@
             </div>
         </section>
 
-            <section class="text-center" style="background-image: url(img/show-perfect-mattress-CTA-background.png); background-repeat: no-repeat; background-size: 100% 100px; height: 100px;">
-              <div class="">
-                <span class="" style="font-size: 55px;">
+            <section  class="text-center" id="resultSection">
+            <img class="img-fluid mx-auto" src="img/mattress-matching-needs-heading.png">
+              <div >
+              <div id="outputNo"></div>
+              <div class="deepshit">
+                  </div>
+                <span  style="font-size: 55px;">
                   <input type="button" id="showResult" class="btn btn-danger" value="Show My Perfect Mattress">
                   <input class="btn btn-danger text-center" type='reset' id='none' value='Reset'></input>
-                  <input type="submit" value="Email My Perfect Mattress" class="btn btn-success" onclick="document.surveyForm.submit()">
-                  <div id="outputNo"></div>
+                  <input type="submit" value="Email My Perfect Mattress" class="btn btn-success"
+                    onclick="document.surveyForm.submit()">
+                  
                 </span>
                 
-                <div class="text-center">
-            	<img class="img-fluid w-50 m-2 p-2 resImg" src="img/mattress-matching-needs-heading.png">
-            </div>
               </div>
-              <div>
-                <div class='sections' id="productList">
-                  <div class="deepshit">
-                </div>
-                
-              </div>
+              
             </section>
           </div>
         </div>

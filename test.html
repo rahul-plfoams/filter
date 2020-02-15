@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    
+    <card-element  img="./img/Banner.jpg"></card-element>
+    <script>
+class cardElement extends HTMLElement {
+    constructor() {
+    super(); 
+    
+  }
+  connectedCallback() {
+    if(this.hasAttribute("img")){
+        const img=this.getAttribute("img");
+        this.innerHTML=`<h2><img src=${img}>Image tag included</h2>`;
+    }
+  }
+}
+
+customElements.define('card-element', cardElement);
+
+    </script>
+
+
+
+</body>
+</html>
